@@ -1,0 +1,7252 @@
+{
+  "scraped_at": "2026-05-13T11:49:47.850515",
+  "total_cards": 130,
+  "total_errors": 1,
+  "cards": [
+    {
+      "page_title": "Sprigatito #1 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/sprigatito/tcgp-B2a-1?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-1/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Leafage",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Saya Tsuruta",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Sprigatito",
+      "_list_data": {
+        "card_id": "tcgp-B2a-1",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-1/medium"
+      }
+    },
+    {
+      "page_title": "Floragato #2 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/floragato/tcgp-B2a-2?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-2/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Leaf Step",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Floragato",
+      "_list_data": {
+        "card_id": "tcgp-B2a-2",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-2/medium"
+      }
+    },
+    {
+      "page_title": "Meowscarada ex #3 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/meowscarada-ex/tcgp-B2a-3?variant=normal",
+      "hp": "160",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-3/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Flower Trick",
+          "damage": "",
+          "text": ""
+        },
+        {
+          "cost": [
+            "grass",
+            "grass"
+          ],
+          "name": "Solar Beam",
+          "damage": "80",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "5ban Graphics",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 2"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Meowscarada ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-3",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-3/medium"
+      }
+    },
+    {
+      "page_title": "Tarountula #4 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tarountula/tcgp-B2a-4?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-4/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Hook",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Mina Nakai",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Tarountula",
+      "_list_data": {
+        "card_id": "tcgp-B2a-4",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-4/medium"
+      }
+    },
+    {
+      "page_title": "Spidops #5 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/spidops/tcgp-B2a-5?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-5/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Bind Down",
+          "damage": "40",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Anesaki Dynamic",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Spidops",
+      "_list_data": {
+        "card_id": "tcgp-B2a-5",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-5/medium"
+      }
+    },
+    {
+      "page_title": "Nymble #6 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/nymble/tcgp-B2a-6?variant=normal",
+      "hp": "40",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-6/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "U-turn",
+          "damage": "10",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Nymble",
+      "_list_data": {
+        "card_id": "tcgp-B2a-6",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-6/medium"
+      }
+    },
+    {
+      "page_title": "Smoliv #7 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/smoliv/tcgp-B2a-7?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-7/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Absorb",
+          "damage": "10",
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "yuu",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Smoliv",
+      "_list_data": {
+        "card_id": "tcgp-B2a-7",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-7/medium"
+      }
+    },
+    {
+      "page_title": "Dolliv #8 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dolliv/tcgp-B2a-8?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-8/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass",
+            "colorless"
+          ],
+          "name": "Seed Bomb",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Mizue",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Dolliv",
+      "_list_data": {
+        "card_id": "tcgp-B2a-8",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-8/medium"
+      }
+    },
+    {
+      "page_title": "Arboliva #9 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/arboliva/tcgp-B2a-9?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-9/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Seed Bomb",
+          "damage": "70",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        {
+          "name": "Extra Heal",
+          "text": "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Arboliva",
+      "_list_data": {
+        "card_id": "tcgp-B2a-9",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-9/medium"
+      }
+    },
+    {
+      "page_title": "Bramblin #10 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/bramblin/tcgp-B2a-10?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-10/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Rollout",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Miki Tanaka",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Bramblin",
+      "_list_data": {
+        "card_id": "tcgp-B2a-10",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-10/medium"
+      }
+    },
+    {
+      "page_title": "Brambleghast #11 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/brambleghast/tcgp-B2a-11?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-11/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass",
+            "colorless"
+          ],
+          "name": "Continuous Tumble 60x",
+          "damage": "",
+          "text": "Flip a coin until you get tails. This attack does 60 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "KEIICHIRO ITO",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Brambleghast",
+      "_list_data": {
+        "card_id": "tcgp-B2a-11",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-11/medium"
+      }
+    },
+    {
+      "page_title": "Capsakid #12 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/capsakid/tcgp-B2a-12?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-12/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Playful Kick",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "GIDORA",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Capsakid",
+      "_list_data": {
+        "card_id": "tcgp-B2a-12",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-12/medium"
+      }
+    },
+    {
+      "page_title": "Scovillain #13 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/scovillain/tcgp-B2a-13?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-13/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass",
+            "colorless"
+          ],
+          "name": "Red-Hot Headbutt",
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon is a Grass or Metal Pokémon, this attack does 40 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "kodama",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Scovillain",
+      "_list_data": {
+        "card_id": "tcgp-B2a-13",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-13/medium"
+      }
+    },
+    {
+      "page_title": "Rellor #14 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/rellor/tcgp-B2a-14?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-14/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Ball Roll 20x",
+          "damage": "",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Anesaki Dynamic",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Rellor",
+      "_list_data": {
+        "card_id": "tcgp-B2a-14",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-14/medium"
+      }
+    },
+    {
+      "page_title": "Wo-Chien #15 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/wo-chien/tcgp-B2a-15?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-15/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass",
+            "grass",
+            "grass",
+            "colorless"
+          ],
+          "name": "Binding Greed",
+          "damage": "90",
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 Colorless more."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Wo-Chien",
+      "_list_data": {
+        "card_id": "tcgp-B2a-15",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-15/medium"
+      }
+    },
+    {
+      "page_title": "Fuecoco #16 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/fuecoco/tcgp-B2a-16?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-16/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Cheerful Singing",
+          "damage": "",
+          "text": "Put 1 random Basic Pokémon from your deck onto your Bench."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Akira Komayama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Fuecoco",
+      "_list_data": {
+        "card_id": "tcgp-B2a-16",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-16/medium"
+      }
+    },
+    {
+      "page_title": "Crocalor #17 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/crocalor/tcgp-B2a-17?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-17/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless"
+          ],
+          "name": "Bite",
+          "damage": "50",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "kantaro",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Crocalor",
+      "_list_data": {
+        "card_id": "tcgp-B2a-17",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-17/medium"
+      }
+    },
+    {
+      "page_title": "Skeledirge #18 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/skeledirge/tcgp-B2a-18?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-18/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless"
+          ],
+          "name": "Heat Crash",
+          "damage": "70",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "nagimiso",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        {
+          "name": "Passionate Voice",
+          "text": "Once during your turn, you may discard 1 [R] Energy from this Pokémon in order to use this Ability. During this turn, attacks used by your [R] Pokémon do +50 damage to your opponent's Active Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Skeledirge",
+      "_list_data": {
+        "card_id": "tcgp-B2a-18",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-18/medium"
+      }
+    },
+    {
+      "page_title": "Charcadet #19 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/charcadet/tcgp-B2a-19?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-19/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Punch",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Charcadet",
+      "_list_data": {
+        "card_id": "tcgp-B2a-19",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-19/medium"
+      }
+    },
+    {
+      "page_title": "Armarouge ex #20 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/armarouge-ex/tcgp-B2a-20?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-20/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Armor Cannon",
+          "damage": "120",
+          "text": "Discard a Fire Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "takuyoa",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        {
+          "name": "Armor",
+          "text": "This Pokémon takes −30 damage from attacks."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Armarouge ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-20",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-20/medium"
+      }
+    },
+    {
+      "page_title": "Chi-Yu #21 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/chi-yu/tcgp-B2a-21?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-21/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless"
+          ],
+          "name": "Megafire of Envy",
+          "damage": "40+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Dsuke",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Chi-Yu",
+      "_list_data": {
+        "card_id": "tcgp-B2a-21",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-21/medium"
+      }
+    },
+    {
+      "page_title": "Quaxly #22 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/quaxly/tcgp-B2a-22?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-22/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Splashing Dodge",
+          "damage": "10",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Naoki Saito",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Quaxly",
+      "_list_data": {
+        "card_id": "tcgp-B2a-22",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-22/medium"
+      }
+    },
+    {
+      "page_title": "Quaxwell #23 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/quaxwell/tcgp-B2a-23?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-23/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water"
+          ],
+          "name": "Splashing Turn",
+          "damage": "40",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kirisAki",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Quaxwell",
+      "_list_data": {
+        "card_id": "tcgp-B2a-23",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-23/medium"
+      }
+    },
+    {
+      "page_title": "Quaquaval #24 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/quaquaval/tcgp-B2a-24?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-24/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Hydro Kick",
+          "damage": "90",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        {
+          "name": "Torrent",
+          "text": "If this Pokémon's remaining HP is 50 or less, attacks used by this Pokémon do +60 damage to your opponent's Active Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Quaquaval",
+      "_list_data": {
+        "card_id": "tcgp-B2a-24",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-24/medium"
+      }
+    },
+    {
+      "page_title": "Wiglett #25 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/wiglett/tcgp-B2a-25?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-25/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Water Gun",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Shin Nagasawa",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Wiglett",
+      "_list_data": {
+        "card_id": "tcgp-B2a-25",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-25/medium"
+      }
+    },
+    {
+      "page_title": "Wugtrio #26 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/wugtrio/tcgp-B2a-26?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-26/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Triple Whip 30x",
+          "damage": "",
+          "text": "Flip 3 coins. This attack does 30 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Wugtrio",
+      "_list_data": {
+        "card_id": "tcgp-B2a-26",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-26/medium"
+      }
+    },
+    {
+      "page_title": "Finizen #27 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/finizen/tcgp-B2a-27?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-27/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Razor Fin",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kodama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Finizen",
+      "_list_data": {
+        "card_id": "tcgp-B2a-27",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-27/medium"
+      }
+    },
+    {
+      "page_title": "Palafin #28 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/palafin/tcgp-B2a-28?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-28/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "water"
+          ],
+          "name": "Jet Punch",
+          "damage": "50",
+          "text": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Palafin",
+      "_list_data": {
+        "card_id": "tcgp-B2a-28",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-28/medium"
+      }
+    },
+    {
+      "page_title": "Cetoddle #29 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/cetoddle/tcgp-B2a-29?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-29/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Icicle Missile",
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Sekio",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Cetoddle",
+      "_list_data": {
+        "card_id": "tcgp-B2a-29",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-29/medium"
+      }
+    },
+    {
+      "page_title": "Cetitan #30 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/cetitan/tcgp-B2a-30?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-30/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Ice Punch",
+          "damage": "80",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Anesaki Dynamic",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Cetitan",
+      "_list_data": {
+        "card_id": "tcgp-B2a-30",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-30/medium"
+      }
+    },
+    {
+      "page_title": "Veluza #31 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/veluza/tcgp-B2a-31?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-31/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "colorless",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Shedding Spiral",
+          "damage": "90",
+          "text": "If you have no cards in your deck, this attack can be used for 1 Water Energy."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Oswaldo KATO",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Veluza",
+      "_list_data": {
+        "card_id": "tcgp-B2a-31",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-31/medium"
+      }
+    },
+    {
+      "page_title": "Dondozo #32 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dondozo/tcgp-B2a-32?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-32/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Giga Impact",
+          "damage": "120",
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Dondozo",
+      "_list_data": {
+        "card_id": "tcgp-B2a-32",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-32/medium"
+      }
+    },
+    {
+      "page_title": "Tatsugiri #33 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tatsugiri/tcgp-B2a-33?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-33/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Rally Back",
+          "damage": "20+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "OKACHEKE",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Tatsugiri",
+      "_list_data": {
+        "card_id": "tcgp-B2a-33",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-33/medium"
+      }
+    },
+    {
+      "page_title": "Frigibax #34 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/frigibax/tcgp-B2a-34?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-34/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Chilly",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "AKIRA EGAWA",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Frigibax",
+      "_list_data": {
+        "card_id": "tcgp-B2a-34",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-34/medium"
+      }
+    },
+    {
+      "page_title": "Arctibax #35 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/arctibax/tcgp-B2a-35?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-35/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "colorless"
+          ],
+          "name": "Frost Smash",
+          "damage": "50",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Arctibax",
+      "_list_data": {
+        "card_id": "tcgp-B2a-35",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-35/medium"
+      }
+    },
+    {
+      "page_title": "Baxcalibur #36 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/baxcalibur/tcgp-B2a-36?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-36/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "water"
+          ],
+          "name": "Buster Tail",
+          "damage": "90",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Oswaldo KATO",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        {
+          "name": "Ice Maker",
+          "text": "Once during your turn, you may take a [W] Energy from your Energy Zone and attach it to the [W] Pokémon in the Active Spot."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Baxcalibur",
+      "_list_data": {
+        "card_id": "tcgp-B2a-36",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-36/medium"
+      }
+    },
+    {
+      "page_title": "Chien-Pao ex #37 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/chien-pao-ex/tcgp-B2a-37?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-37/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Icicle",
+          "damage": "20",
+          "text": ""
+        },
+        {
+          "cost": [
+            "water",
+            "water",
+            "water"
+          ],
+          "name": "Diving Icicles",
+          "damage": "",
+          "text": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "aky CG Works",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "exBasic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Chien-Pao ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-37",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-37/medium"
+      }
+    },
+    {
+      "page_title": "Pawmi #38 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pawmi/tcgp-B2a-38?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-38/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Random Spark",
+          "damage": "",
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kantaro",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pawmi",
+      "_list_data": {
+        "card_id": "tcgp-B2a-38",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-38/medium"
+      }
+    },
+    {
+      "page_title": "Pawmo #39 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pawmo/tcgp-B2a-39?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-39/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Head Bolt",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kanami Ogata",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pawmo",
+      "_list_data": {
+        "card_id": "tcgp-B2a-39",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-39/medium"
+      }
+    },
+    {
+      "page_title": "Pawmot #40 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pawmot/tcgp-B2a-40?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-40/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Thunder Blast",
+          "damage": "100",
+          "text": "Discard a Lightning Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Mizue",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pawmot",
+      "_list_data": {
+        "card_id": "tcgp-B2a-40",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-40/medium"
+      }
+    },
+    {
+      "page_title": "Tadbulb #41 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tadbulb/tcgp-B2a-41?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-41/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Electro Ball",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Saya Tsuruta",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Tadbulb",
+      "_list_data": {
+        "card_id": "tcgp-B2a-41",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-41/medium"
+      }
+    },
+    {
+      "page_title": "Bellibolt ex #42 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/bellibolt-ex/tcgp-B2a-42?variant=normal",
+      "hp": "160",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-42/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "High-Voltage Cannon",
+          "damage": "70+",
+          "text": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Yamashita",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Bellibolt ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-42",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-42/medium"
+      }
+    },
+    {
+      "page_title": "Wattrel #43 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/wattrel/tcgp-B2a-43?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-43/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Flap",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "sowsow",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Wattrel",
+      "_list_data": {
+        "card_id": "tcgp-B2a-43",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-43/medium"
+      }
+    },
+    {
+      "page_title": "Kilowattrel #44 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/kilowattrel/tcgp-B2a-44?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-44/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Speed Wing",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Pani Kobayashi",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Kilowattrel",
+      "_list_data": {
+        "card_id": "tcgp-B2a-44",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-44/medium"
+      }
+    },
+    {
+      "page_title": "Miraidon #45 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/miraidon/tcgp-B2a-45?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-45/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning",
+            "lightning"
+          ],
+          "name": "Lightning Laser",
+          "damage": "60",
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Miraidon",
+      "_list_data": {
+        "card_id": "tcgp-B2a-45",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-45/medium"
+      }
+    },
+    {
+      "page_title": "Fidough #46 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/fidough/tcgp-B2a-46?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-46/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic"
+          ],
+          "name": "Rear Kick",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Mizue",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Fidough",
+      "_list_data": {
+        "card_id": "tcgp-B2a-46",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-46/medium"
+      }
+    },
+    {
+      "page_title": "Dachsbun #47 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dachsbun/tcgp-B2a-47?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-47/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "psychic"
+          ],
+          "name": "Play Rough",
+          "damage": "50+",
+          "text": "Flip a coin. If heads, this attack does 50 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "You Iribi",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Dachsbun",
+      "_list_data": {
+        "card_id": "tcgp-B2a-47",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-47/medium"
+      }
+    },
+    {
+      "page_title": "Ceruledge #48 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/ceruledge/tcgp-B2a-48?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-48/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "psychic",
+            "colorless"
+          ],
+          "name": "Fighting Sword",
+          "damage": "70+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Ryota Murayama",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Ceruledge",
+      "_list_data": {
+        "card_id": "tcgp-B2a-48",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-48/medium"
+      }
+    },
+    {
+      "page_title": "Rabsca #49 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/rabsca/tcgp-B2a-49?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-49/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "psychic"
+          ],
+          "name": "Psybeam",
+          "damage": "80",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Oswaldo KATO",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Rabsca",
+      "_list_data": {
+        "card_id": "tcgp-B2a-49",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-49/medium"
+      }
+    },
+    {
+      "page_title": "Flittle #50 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/flittle/tcgp-B2a-50?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-50/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic"
+          ],
+          "name": "Flop",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kodama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Flittle",
+      "_list_data": {
+        "card_id": "tcgp-B2a-50",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-50/medium"
+      }
+    },
+    {
+      "page_title": "Espathra #51 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/espathra/tcgp-B2a-51?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-51/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic"
+          ],
+          "name": "Psychic",
+          "damage": "30+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Sanosuke Sakuma",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Espathra",
+      "_list_data": {
+        "card_id": "tcgp-B2a-51",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-51/medium"
+      }
+    },
+    {
+      "page_title": "Greavard #52 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/greavard/tcgp-B2a-52?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-52/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic"
+          ],
+          "name": "Soul Shot",
+          "damage": "30",
+          "text": "Discard a card from your hand. If you can't, this attack does nothing."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "yuu",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Greavard",
+      "_list_data": {
+        "card_id": "tcgp-B2a-52",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-52/medium"
+      }
+    },
+    {
+      "page_title": "Houndstone #53 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/houndstone/tcgp-B2a-53?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-53/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "colorless"
+          ],
+          "name": "Last Respects",
+          "damage": "50+",
+          "text": "This attack does 20 more damage for each Psychic Pokémon in your discard pile."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Houndstone",
+      "_list_data": {
+        "card_id": "tcgp-B2a-53",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-53/medium"
+      }
+    },
+    {
+      "page_title": "Gimmighoul #54 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gimmighoul/tcgp-B2a-54?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-54/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Continuous Coin Toss 20x",
+          "damage": "",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Mizue",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Gimmighoul",
+      "_list_data": {
+        "card_id": "tcgp-B2a-54",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-54/medium"
+      }
+    },
+    {
+      "page_title": "Mankey #55 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mankey/tcgp-B2a-55?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-55/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting"
+          ],
+          "name": "Fury Swipes 10x",
+          "damage": "",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "nagimiso",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Mankey",
+      "_list_data": {
+        "card_id": "tcgp-B2a-55",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-55/medium"
+      }
+    },
+    {
+      "page_title": "Primeape #56 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/primeape/tcgp-B2a-56?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-56/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting"
+          ],
+          "name": "Rage",
+          "damage": "30+",
+          "text": "This attack does more damage equal to the damage this Pokémon has on it."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Shin Nagasawa",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Primeape",
+      "_list_data": {
+        "card_id": "tcgp-B2a-56",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-56/medium"
+      }
+    },
+    {
+      "page_title": "Annihilape #57 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/annihilape/tcgp-B2a-57?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-57/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting"
+          ],
+          "name": "Dynamite Punch",
+          "damage": "90",
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Anesaki Dynamic",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Annihilape",
+      "_list_data": {
+        "card_id": "tcgp-B2a-57",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-57/medium"
+      }
+    },
+    {
+      "page_title": "Paldean Tauros #58 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/paldean-tauros/tcgp-B2a-58?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-58/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "colorless"
+          ],
+          "name": "Rear Kick",
+          "damage": "50",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Shin Nagasawa",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Paldean Tauros",
+      "_list_data": {
+        "card_id": "tcgp-B2a-58",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-58/medium"
+      }
+    },
+    {
+      "page_title": "Toedscool #59 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/toedscool/tcgp-B2a-59?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-59/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting"
+          ],
+          "name": "Smash Kick",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Oswaldo KATO",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Toedscool",
+      "_list_data": {
+        "card_id": "tcgp-B2a-59",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-59/medium"
+      }
+    },
+    {
+      "page_title": "Toedscruel #60 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/toedscruel/tcgp-B2a-60?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-60/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "fighting",
+            "colorless"
+          ],
+          "name": "Stun Spore",
+          "damage": "70",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Toedscruel",
+      "_list_data": {
+        "card_id": "tcgp-B2a-60",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-60/medium"
+      }
+    },
+    {
+      "page_title": "Klawf #61 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/klawf/tcgp-B2a-61?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-61/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "fighting"
+          ],
+          "name": "Adrenaline Hammer",
+          "damage": "70",
+          "text": "This Pokémon is now Confused."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "nagimiso",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Klawf",
+      "_list_data": {
+        "card_id": "tcgp-B2a-61",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-61/medium"
+      }
+    },
+    {
+      "page_title": "Ting-Lu #62 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/ting-lu/tcgp-B2a-62?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-62/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "fighting",
+            "fighting"
+          ],
+          "name": "Arrogant Impact",
+          "damage": "130",
+          "text": "If this Pokémon's remaining HP is 60 or less, this attack does nothing."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "AKIRA EGAWA",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Ting-Lu",
+      "_list_data": {
+        "card_id": "tcgp-B2a-62",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-62/medium"
+      }
+    },
+    {
+      "page_title": "Koraidon #63 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/koraidon/tcgp-B2a-63?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-63/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "fighting",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Rampaging Fang",
+          "damage": "120",
+          "text": "Discard 2 Fighting Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Koraidon",
+      "_list_data": {
+        "card_id": "tcgp-B2a-63",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-63/medium"
+      }
+    },
+    {
+      "page_title": "Paldean Wooper #64 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/paldean-wooper/tcgp-B2a-64?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-64/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "colorless"
+          ],
+          "name": "Flop",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Pani Kobayashi",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Paldean Wooper",
+      "_list_data": {
+        "card_id": "tcgp-B2a-64",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-64/medium"
+      }
+    },
+    {
+      "page_title": "Paldean Clodsire #65 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/paldean-clodsire/tcgp-B2a-65?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-65/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness",
+            "colorless"
+          ],
+          "name": "Muddy Hammer",
+          "damage": "70",
+          "text": "Discard the top card of your opponent's deck."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Shin Nagasawa",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Paldean Clodsire",
+      "_list_data": {
+        "card_id": "tcgp-B2a-65",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-65/medium"
+      }
+    },
+    {
+      "page_title": "Lokix #66 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/lokix/tcgp-B2a-66?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-66/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness"
+          ],
+          "name": "Rocket Jump",
+          "damage": "80",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Lokix",
+      "_list_data": {
+        "card_id": "tcgp-B2a-66",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-66/medium"
+      }
+    },
+    {
+      "page_title": "Maschiff #67 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/maschiff/tcgp-B2a-67?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-67/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "colorless"
+          ],
+          "name": "Bite",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "KEIICHIRO ITO",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Maschiff",
+      "_list_data": {
+        "card_id": "tcgp-B2a-67",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-67/medium"
+      }
+    },
+    {
+      "page_title": "Mabosstiff #68 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mabosstiff/tcgp-B2a-68?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-68/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness",
+            "colorless"
+          ],
+          "name": "Wild Tackle",
+          "damage": "110",
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "KIYOTAKA OSHIYAMA",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Mabosstiff",
+      "_list_data": {
+        "card_id": "tcgp-B2a-68",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-68/medium"
+      }
+    },
+    {
+      "page_title": "Shroodle #69 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/shroodle/tcgp-B2a-69?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-69/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Scratch",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Akira Komayama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Shroodle",
+      "_list_data": {
+        "card_id": "tcgp-B2a-69",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-69/medium"
+      }
+    },
+    {
+      "page_title": "Grafaiai #70 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/grafaiai/tcgp-B2a-70?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-70/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Colorful Attack",
+          "damage": "30+",
+          "text": "If your Pokémon in play have 3 or more different types of Energy attached, this attack does 60 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Grafaiai",
+      "_list_data": {
+        "card_id": "tcgp-B2a-70",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-70/medium"
+      }
+    },
+    {
+      "page_title": "Bombirdier #71 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/bombirdier/tcgp-B2a-71?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-71/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Fly",
+          "damage": "70",
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "nagimiso",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Bombirdier",
+      "_list_data": {
+        "card_id": "tcgp-B2a-71",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-71/medium"
+      }
+    },
+    {
+      "page_title": "Tinkatink #72 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tinkatink/tcgp-B2a-72?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-72/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Beat",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Pani Kobayashi",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Tinkatink",
+      "_list_data": {
+        "card_id": "tcgp-B2a-72",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-72/medium"
+      }
+    },
+    {
+      "page_title": "Tinkatuff #73 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tinkatuff/tcgp-B2a-73?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-73/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Light Punch",
+          "damage": "50",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Akira Komayama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Tinkatuff",
+      "_list_data": {
+        "card_id": "tcgp-B2a-73",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-73/medium"
+      }
+    },
+    {
+      "page_title": "Tinkaton #74 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tinkaton/tcgp-B2a-74?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-74/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "metal",
+            "colorless"
+          ],
+          "name": "Gigaton Hammer",
+          "damage": "140",
+          "text": "During your next turn, this Pokémon can't use Gigaton Hammer."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "KEIICHIRO ITO",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Tinkaton",
+      "_list_data": {
+        "card_id": "tcgp-B2a-74",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-74/medium"
+      }
+    },
+    {
+      "page_title": "Varoom #75 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/varoom/tcgp-B2a-75?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-75/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal"
+          ],
+          "name": "Ram",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "nagimiso",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Varoom",
+      "_list_data": {
+        "card_id": "tcgp-B2a-75",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-75/medium"
+      }
+    },
+    {
+      "page_title": "Revavroom #76 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/revavroom/tcgp-B2a-76?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-76/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Poison Gas",
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Anesaki Dynamic",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Revavroom",
+      "_list_data": {
+        "card_id": "tcgp-B2a-76",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-76/medium"
+      }
+    },
+    {
+      "page_title": "Orthworm #77 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/orthworm/tcgp-B2a-77?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-77/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal"
+          ],
+          "name": "Iron Supply",
+          "damage": "10",
+          "text": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Pani Kobayashi",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Orthworm",
+      "_list_data": {
+        "card_id": "tcgp-B2a-77",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-77/medium"
+      }
+    },
+    {
+      "page_title": "Gholdengo ex #78 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gholdengo-ex/tcgp-B2a-78?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-78/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal"
+          ],
+          "name": "Spending Rush",
+          "damage": "",
+          "text": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "takuyoa",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Gholdengo ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-78",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-78/medium"
+      }
+    },
+    {
+      "page_title": "Lechonk #79 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/lechonk/tcgp-B2a-79?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-79/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Tackle",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kodama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Lechonk",
+      "_list_data": {
+        "card_id": "tcgp-B2a-79",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-79/medium"
+      }
+    },
+    {
+      "page_title": "Oinkologne #80 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/oinkologne/tcgp-B2a-80?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-80/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Leg Stomp",
+          "damage": "100",
+          "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Pani Kobayashi",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Oinkologne",
+      "_list_data": {
+        "card_id": "tcgp-B2a-80",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-80/medium"
+      }
+    },
+    {
+      "page_title": "Tandemaus #81 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tandemaus/tcgp-B2a-81?variant=normal",
+      "hp": "30",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-81/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Double Hit 30x",
+          "damage": "",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Akira Komayama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Tandemaus",
+      "_list_data": {
+        "card_id": "tcgp-B2a-81",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-81/medium"
+      }
+    },
+    {
+      "page_title": "Maushold #82 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/maushold/tcgp-B2a-82?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-82/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Triple Gnawing",
+          "damage": "60",
+          "text": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Saya Tsuruta",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Maushold",
+      "_list_data": {
+        "card_id": "tcgp-B2a-82",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-82/medium"
+      }
+    },
+    {
+      "page_title": "Squawkabilly #83 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/squawkabilly/tcgp-B2a-83?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-83/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Quick Attack",
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Oswaldo KATO",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Squawkabilly",
+      "_list_data": {
+        "card_id": "tcgp-B2a-83",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-83/medium"
+      }
+    },
+    {
+      "page_title": "Cyclizar #84 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/cyclizar/tcgp-B2a-84?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-84/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Driving Buddy",
+          "damage": "40+",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 60 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "AKIRA EGAWA",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Cyclizar",
+      "_list_data": {
+        "card_id": "tcgp-B2a-84",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-84/medium"
+      }
+    },
+    {
+      "page_title": "Flamigo #85 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/flamigo/tcgp-B2a-85?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-85/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Wing Attack",
+          "damage": "50",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kantaro",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Flamigo",
+      "_list_data": {
+        "card_id": "tcgp-B2a-85",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-85/medium"
+      }
+    },
+    {
+      "page_title": "Electric Generator #86 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/electric-generator/tcgp-B2a-86?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-86/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Toyste Beach",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "name": "Electric Generator",
+      "_list_data": {
+        "card_id": "tcgp-B2a-86",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-86/medium"
+      }
+    },
+    {
+      "page_title": "Big Air Balloon #87 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/big-air-balloon/tcgp-B2a-87?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-87/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Toyste Beach",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "name": "Big Air Balloon",
+      "_list_data": {
+        "card_id": "tcgp-B2a-87",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-87/medium"
+      }
+    },
+    {
+      "page_title": "Team Star Grunt #88 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/team-star-grunt/tcgp-B2a-88?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-88/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "nagimiso",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Team Star Grunt",
+      "_list_data": {
+        "card_id": "tcgp-B2a-88",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-88/medium"
+      }
+    },
+    {
+      "page_title": "Iono #89 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/iono/tcgp-B2a-89?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-89/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Sanosuke Sakuma",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Iono",
+      "_list_data": {
+        "card_id": "tcgp-B2a-89",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-89/medium"
+      }
+    },
+    {
+      "page_title": "Nemona #90 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/nemona/tcgp-B2a-90?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-90/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Sanosuke Sakuma",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Nemona",
+      "_list_data": {
+        "card_id": "tcgp-B2a-90",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-90/medium"
+      }
+    },
+    {
+      "page_title": "Arven #91 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/arven/tcgp-B2a-91?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-91/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "GIDORA",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Arven",
+      "_list_data": {
+        "card_id": "tcgp-B2a-91",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-91/medium"
+      }
+    },
+    {
+      "page_title": "Penny #92 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/penny/tcgp-B2a-92?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-92/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "yuu",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Penny",
+      "_list_data": {
+        "card_id": "tcgp-B2a-92",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-92/medium"
+      }
+    },
+    {
+      "page_title": "Mesagoza #93 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mesagoza/tcgp-B2a-93?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-93/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Oswaldo KATO",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "name": "Mesagoza",
+      "_list_data": {
+        "card_id": "tcgp-B2a-93",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-93/medium"
+      }
+    },
+    {
+      "page_title": "Fuecoco #94 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/fuecoco/tcgp-B2a-94?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-94/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Cheerful Singing",
+          "damage": "",
+          "text": "Put 1 random Basic Pokémon from your deck onto your Bench."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Shimaris Yukichi",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Fuecoco",
+      "_list_data": {
+        "card_id": "tcgp-B2a-94",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-94/medium"
+      }
+    },
+    {
+      "page_title": "Greavard #95 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/greavard/tcgp-B2a-95?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-95/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic"
+          ],
+          "name": "Soul Shot",
+          "damage": "30",
+          "text": "Discard a card from your hand. If you can't, this attack does nothing."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "sowsow",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Greavard",
+      "_list_data": {
+        "card_id": "tcgp-B2a-95",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-95/medium"
+      }
+    },
+    {
+      "page_title": "Gimmighoul #96 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gimmighoul/tcgp-B2a-96?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-96/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Continuous Coin Toss 20x",
+          "damage": "",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Akira Komayama",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Gimmighoul",
+      "_list_data": {
+        "card_id": "tcgp-B2a-96",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-96/medium"
+      }
+    },
+    {
+      "page_title": "Paldean Wooper #97 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/paldean-wooper/tcgp-B2a-97?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-97/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "colorless"
+          ],
+          "name": "Flop",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Miki Tanaka",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Paldean Wooper",
+      "_list_data": {
+        "card_id": "tcgp-B2a-97",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-97/medium"
+      }
+    },
+    {
+      "page_title": "Orthworm #98 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/orthworm/tcgp-B2a-98?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-98/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal"
+          ],
+          "name": "Iron Supply",
+          "damage": "10",
+          "text": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "OKACHEKE",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Orthworm",
+      "_list_data": {
+        "card_id": "tcgp-B2a-98",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-98/medium"
+      }
+    },
+    {
+      "page_title": "Maushold #99 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/maushold/tcgp-B2a-99?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-99/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Triple Gnawing",
+          "damage": "60",
+          "text": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Mizue",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Maushold",
+      "_list_data": {
+        "card_id": "tcgp-B2a-99",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-99/medium"
+      }
+    },
+    {
+      "page_title": "Armarouge ex #101 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/armarouge-ex/tcgp-B2a-101?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-101/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Armor Cannon",
+          "damage": "120",
+          "text": "Discard a Fire Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "takuyoa",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        {
+          "name": "Armor",
+          "text": "This Pokémon takes −30 damage from attacks."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Armarouge ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-101",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-101/medium"
+      }
+    },
+    {
+      "page_title": "Chien-Pao ex #102 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/chien-pao-ex/tcgp-B2a-102?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-102/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Icicle",
+          "damage": "20",
+          "text": ""
+        },
+        {
+          "cost": [
+            "water",
+            "water",
+            "water"
+          ],
+          "name": "Diving Icicles",
+          "damage": "",
+          "text": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "aky CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "exBasic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Chien-Pao ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-102",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-102/medium"
+      }
+    },
+    {
+      "page_title": "Bellibolt ex #103 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/bellibolt-ex/tcgp-B2a-103?variant=normal",
+      "hp": "160",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-103/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "High-Voltage Cannon",
+          "damage": "70+",
+          "text": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Yamashita",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Bellibolt ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-103",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-103/medium"
+      }
+    },
+    {
+      "page_title": "Gholdengo ex #104 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gholdengo-ex/tcgp-B2a-104?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-104/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal"
+          ],
+          "name": "Spending Rush",
+          "damage": "",
+          "text": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "takuyoa",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Gholdengo ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-104",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-104/medium"
+      }
+    },
+    {
+      "page_title": "Team Star Grunt #105 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/team-star-grunt/tcgp-B2a-105?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-105/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "nagimiso",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Team Star Grunt",
+      "_list_data": {
+        "card_id": "tcgp-B2a-105",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-105/medium"
+      }
+    },
+    {
+      "page_title": "Iono #106 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/iono/tcgp-B2a-106?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-106/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Sanosuke Sakuma",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Iono",
+      "_list_data": {
+        "card_id": "tcgp-B2a-106",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-106/medium"
+      }
+    },
+    {
+      "page_title": "Nemona #107 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/nemona/tcgp-B2a-107?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-107/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Hideki Ishikawa",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Nemona",
+      "_list_data": {
+        "card_id": "tcgp-B2a-107",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-107/medium"
+      }
+    },
+    {
+      "page_title": "Arven #108 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/arven/tcgp-B2a-108?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-108/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "GIDORA",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Arven",
+      "_list_data": {
+        "card_id": "tcgp-B2a-108",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-108/medium"
+      }
+    },
+    {
+      "page_title": "Penny #109 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/penny/tcgp-B2a-109?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-109/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "yuu",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Penny",
+      "_list_data": {
+        "card_id": "tcgp-B2a-109",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-109/medium"
+      }
+    },
+    {
+      "page_title": "Meowscarada ex #110 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/meowscarada-ex/tcgp-B2a-110?variant=normal",
+      "hp": "160",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-110/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Flower Trick",
+          "damage": "",
+          "text": ""
+        },
+        {
+          "cost": [
+            "grass",
+            "grass"
+          ],
+          "name": "Solar Beam",
+          "damage": "80",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kodama",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 2"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Meowscarada ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-110",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-110/medium"
+      }
+    },
+    {
+      "page_title": "Armarouge ex #111 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/armarouge-ex/tcgp-B2a-111?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-111/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Armor Cannon",
+          "damage": "120",
+          "text": "Discard a Fire Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Raita Kazama",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        {
+          "name": "Armor",
+          "text": "This Pokémon takes −30 damage from attacks."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Armarouge ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-111",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-111/medium"
+      }
+    },
+    {
+      "page_title": "Chien-Pao ex #112 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/chien-pao-ex/tcgp-B2a-112?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-112/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Icicle",
+          "damage": "20",
+          "text": ""
+        },
+        {
+          "cost": [
+            "water",
+            "water",
+            "water"
+          ],
+          "name": "Diving Icicles",
+          "damage": "",
+          "text": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kodama",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "exBasic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Chien-Pao ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-112",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-112/medium"
+      }
+    },
+    {
+      "page_title": "Bellibolt ex #113 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/bellibolt-ex/tcgp-B2a-113?variant=normal",
+      "hp": "160",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-113/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "High-Voltage Cannon",
+          "damage": "70+",
+          "text": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "REND",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Bellibolt ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-113",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-113/medium"
+      }
+    },
+    {
+      "page_title": "Gholdengo ex #114 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gholdengo-ex/tcgp-B2a-114?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-114/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal"
+          ],
+          "name": "Spending Rush",
+          "damage": "",
+          "text": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Akira Komayama",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Gholdengo ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-114",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-114/medium"
+      }
+    },
+    {
+      "page_title": "Arven #115 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/arven/tcgp-B2a-115?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-115/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "GIDORA",
+      "rarity": "3 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Arven",
+      "_list_data": {
+        "card_id": "tcgp-B2a-115",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-115/medium"
+      }
+    },
+    {
+      "page_title": "Sprigatito #116 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/sprigatito/tcgp-B2a-116?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-116/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Leafage",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Sprigatito",
+      "_list_data": {
+        "card_id": "tcgp-B2a-116",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-116/medium"
+      }
+    },
+    {
+      "page_title": "Floragato #117 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/floragato/tcgp-B2a-117?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-117/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Leaf Step",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Floragato",
+      "_list_data": {
+        "card_id": "tcgp-B2a-117",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-117/medium"
+      }
+    },
+    {
+      "page_title": "Meowscarada #118 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/meowscarada/tcgp-B2a-118?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-118/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass",
+            "grass"
+          ],
+          "name": "Fighting Claws",
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Meowscarada",
+      "_list_data": {
+        "card_id": "tcgp-B2a-118",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-118/medium"
+      }
+    },
+    {
+      "page_title": "Pawmi #119 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pawmi/tcgp-B2a-119?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-119/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Random Spark",
+          "damage": "",
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "whomor Inc.",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pawmi",
+      "_list_data": {
+        "card_id": "tcgp-B2a-119",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-119/medium"
+      }
+    },
+    {
+      "page_title": "Pawmo #120 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pawmo/tcgp-B2a-120?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-120/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Head Bolt",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "whomor Inc.",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pawmo",
+      "_list_data": {
+        "card_id": "tcgp-B2a-120",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-120/medium"
+      }
+    },
+    {
+      "page_title": "Pawmot #121 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pawmot/tcgp-B2a-121?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-121/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Thunder Blast",
+          "damage": "100",
+          "text": "Discard a Lightning Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "whomor Inc.",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pawmot",
+      "_list_data": {
+        "card_id": "tcgp-B2a-121",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-121/medium"
+      }
+    },
+    {
+      "page_title": "Gimmighoul #122 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gimmighoul/tcgp-B2a-122?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-122/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Continuous Coin Toss 20x",
+          "damage": "",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Tomowaka",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Gimmighoul",
+      "_list_data": {
+        "card_id": "tcgp-B2a-122",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-122/medium"
+      }
+    },
+    {
+      "page_title": "Tinkatink #123 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tinkatink/tcgp-B2a-123?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-123/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Beat",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kurumitsu",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Tinkatink",
+      "_list_data": {
+        "card_id": "tcgp-B2a-123",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-123/medium"
+      }
+    },
+    {
+      "page_title": "Tinkatuff #124 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tinkatuff/tcgp-B2a-124?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-124/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Light Punch",
+          "damage": "50",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kurumitsu",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Tinkatuff",
+      "_list_data": {
+        "card_id": "tcgp-B2a-124",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-124/medium"
+      }
+    },
+    {
+      "page_title": "Gholdengo #125 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gholdengo/tcgp-B2a-125?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-125/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Scintillating Surfing 50x",
+          "damage": "",
+          "text": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Tomowaka",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Gholdengo",
+      "_list_data": {
+        "card_id": "tcgp-B2a-125",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-125/medium"
+      }
+    },
+    {
+      "page_title": "Entei ex #126 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/entei-ex/tcgp-B2a-126?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-126/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "fire"
+          ],
+          "name": "Blazing Beatdown",
+          "damage": "60+",
+          "text": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exBasic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        {
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Entei ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-126",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-126/medium"
+      }
+    },
+    {
+      "page_title": "Suicune ex #127 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/suicune-ex/tcgp-B2a-127?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-127/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water"
+          ],
+          "name": "Crystal Waltz 20x",
+          "damage": "",
+          "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exBasic"
+      ],
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        {
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Suicune ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-127",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-127/medium"
+      }
+    },
+    {
+      "page_title": "Raikou ex #128 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/raikou-ex/tcgp-B2a-128?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-128/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Voltaic Bullet",
+          "damage": "60",
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exBasic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "abilities": [
+        {
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Raikou ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-128",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-128/medium"
+      }
+    },
+    {
+      "page_title": "Tinkaton ex #129 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/tinkaton-ex/tcgp-B2a-129?variant=normal",
+      "hp": "170",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-129/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "metal",
+            "colorless"
+          ],
+          "name": "Terrific Thumping",
+          "damage": "80+",
+          "text": "Flip a coin. If heads, this attack does 80 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Igarashi",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "exStage 2"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Tinkaton ex",
+      "_list_data": {
+        "card_id": "tcgp-B2a-129",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-129/medium"
+      }
+    },
+    {
+      "page_title": "Baxcalibur #130 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/baxcalibur/tcgp-B2a-130?variant=normal",
+      "hp": "140",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-130/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "water"
+          ],
+          "name": "Buster Tail",
+          "damage": "90",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Igarashi",
+      "rarity": "Crown",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        {
+          "name": "Ice Maker",
+          "text": "Once during your turn, you may take a [W] Energy from your Energy Zone and attach it to the [W] Pokémon in the Active Spot."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Baxcalibur",
+      "_list_data": {
+        "card_id": "tcgp-B2a-130",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-130/medium"
+      }
+    },
+    {
+      "page_title": "Electric Generator #131 - Paldean Wonders | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/electric-generator/tcgp-B2a-131?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2a-131/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Toyste Beach",
+      "rarity": "Crown",
+      "language": "English",
+      "expansion_name": "Paldean Wonders",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "name": "Electric Generator",
+      "_list_data": {
+        "card_id": "tcgp-B2a-131",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2a-131/medium"
+      }
+    }
+  ],
+  "errors": [
+    {
+      "href": "/pokemon/cards/meowscarada-ex/tcgp-B2a-100?variant=normal",
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://scrydex.com/pokemon/cards/meowscarada-ex/tcgp-B2a-100?variant=normal\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
+}

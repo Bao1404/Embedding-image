@@ -1,0 +1,6546 @@
+{
+  "scraped_at": "2026-05-13T11:35:26.098632",
+  "total_cards": 117,
+  "total_errors": 0,
+  "cards": [
+    {
+      "page_title": "Scyther #1 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/scyther/tcgp-B2b-1?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-1/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "U-turn",
+          "damage": "10",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "GIDORA",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Scyther",
+      "_list_data": {
+        "card_id": "tcgp-B2b-1",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-1/medium"
+      }
+    },
+    {
+      "page_title": "Pineco #2 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pineco/tcgp-B2b-2?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-2/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Hang Down",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Shigenori Negishi",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Pineco",
+      "_list_data": {
+        "card_id": "tcgp-B2b-2",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-2/medium"
+      }
+    },
+    {
+      "page_title": "Volbeat #3 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/volbeat/tcgp-B2b-3?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-3/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Confuse Ray",
+          "damage": "10",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Volbeat",
+      "_list_data": {
+        "card_id": "tcgp-B2b-3",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-3/medium"
+      }
+    },
+    {
+      "page_title": "Illumise #4 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/illumise/tcgp-B2b-4?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-4/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass"
+          ],
+          "name": "Mental Crush",
+          "damage": "20+",
+          "text": "If your opponent's Active Pokémon is Confused, this attack does 40 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Illumise",
+      "_list_data": {
+        "card_id": "tcgp-B2b-4",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-4/medium"
+      }
+    },
+    {
+      "page_title": "Phantump #5 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/phantump/tcgp-B2b-5?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-5/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Tackle",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "OKACHEKE",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Phantump",
+      "_list_data": {
+        "card_id": "tcgp-B2b-5",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-5/medium"
+      }
+    },
+    {
+      "page_title": "Trevenant #6 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/trevenant/tcgp-B2b-6?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-6/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass",
+            "colorless"
+          ],
+          "name": "Rumble Stomp",
+          "damage": "40+",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Narumi Sato",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Trevenant",
+      "_list_data": {
+        "card_id": "tcgp-B2b-6",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-6/medium"
+      }
+    },
+    {
+      "page_title": "Charmander #7 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/charmander/tcgp-B2b-7?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-7/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless"
+          ],
+          "name": "Flame Tail",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Masakazu Fukuda",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Charmander",
+      "_list_data": {
+        "card_id": "tcgp-B2b-7",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-7/medium"
+      }
+    },
+    {
+      "page_title": "Charmeleon #8 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/charmeleon/tcgp-B2b-8?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-8/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "fire"
+          ],
+          "name": "Slash",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Shin Nagasawa",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        {
+          "name": "Ignition",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a [R] Energy from your Energy Zone and attach it to your Active [R] Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Charmeleon",
+      "_list_data": {
+        "card_id": "tcgp-B2b-8",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-8/medium"
+      }
+    },
+    {
+      "page_title": "Mega Charizard X ex #9 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-charizard-x-ex/tcgp-B2b-9?variant=normal",
+      "hp": "220",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-9/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "fire",
+            "fire"
+          ],
+          "name": "Raging Blaze",
+          "damage": "100+",
+          "text": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Igarashi",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2MEGAex"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Mega Charizard X ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-9",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-9/medium"
+      }
+    },
+    {
+      "page_title": "Ponyta #10 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/ponyta/tcgp-B2b-10?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-10/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire"
+          ],
+          "name": "Singe",
+          "damage": "",
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Nurikabe",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Ponyta",
+      "_list_data": {
+        "card_id": "tcgp-B2b-10",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-10/medium"
+      }
+    },
+    {
+      "page_title": "Rapidash #11 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/rapidash/tcgp-B2b-11?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-11/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire"
+          ],
+          "name": "Overdrive Smash",
+          "damage": "30",
+          "text": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Lee HyunJung",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Rapidash",
+      "_list_data": {
+        "card_id": "tcgp-B2b-11",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-11/medium"
+      }
+    },
+    {
+      "page_title": "Magmar #12 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/magmar/tcgp-B2b-12?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-12/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Tail Whap",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Yukiko Baba",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Magmar",
+      "_list_data": {
+        "card_id": "tcgp-B2b-12",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-12/medium"
+      }
+    },
+    {
+      "page_title": "Magmortar #13 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/magmortar/tcgp-B2b-13?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-13/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Thundering Volcano",
+          "damage": "70",
+          "text": "If Electivire is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "AKIRA EGAWA",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Magmortar",
+      "_list_data": {
+        "card_id": "tcgp-B2b-13",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-13/medium"
+      }
+    },
+    {
+      "page_title": "Paldean Tauros #14 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/paldean-tauros/tcgp-B2b-14?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-14/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "fire"
+          ],
+          "name": "Take Down",
+          "damage": "60",
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "AKIRA EGAWA",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Paldean Tauros",
+      "_list_data": {
+        "card_id": "tcgp-B2b-14",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-14/medium"
+      }
+    },
+    {
+      "page_title": "Slowpoke #15 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/slowpoke/tcgp-B2b-15?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-15/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "colorless"
+          ],
+          "name": "Headbutt",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Narumi Sato",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Slowpoke",
+      "_list_data": {
+        "card_id": "tcgp-B2b-15",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-15/medium"
+      }
+    },
+    {
+      "page_title": "Mega Slowbro ex #16 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-slowbro-ex/tcgp-B2b-16?variant=normal",
+      "hp": "200",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-16/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Laundry-Go-Round",
+          "damage": "90",
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Yamashita",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Mega Slowbro ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-16",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-16/medium"
+      }
+    },
+    {
+      "page_title": "Lapras #17 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/lapras/tcgp-B2b-17?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-17/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Raging Freeze",
+          "damage": "60",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "buchi",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Lapras",
+      "_list_data": {
+        "card_id": "tcgp-B2b-17",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-17/medium"
+      }
+    },
+    {
+      "page_title": "Piplup #18 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/piplup/tcgp-B2b-18?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-18/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Water Gun",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Shibuzoh.",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Piplup",
+      "_list_data": {
+        "card_id": "tcgp-B2b-18",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-18/medium"
+      }
+    },
+    {
+      "page_title": "Prinplup #19 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/prinplup/tcgp-B2b-19?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-19/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "colorless"
+          ],
+          "name": "Water Splash",
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Suwama Chiaki",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Prinplup",
+      "_list_data": {
+        "card_id": "tcgp-B2b-19",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-19/medium"
+      }
+    },
+    {
+      "page_title": "Empoleon #20 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/empoleon/tcgp-B2b-20?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-20/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Emperor’s Strike",
+          "damage": "80+",
+          "text": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kawayoo",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Empoleon",
+      "_list_data": {
+        "card_id": "tcgp-B2b-20",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-20/medium"
+      }
+    },
+    {
+      "page_title": "Phione #21 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/phione/tcgp-B2b-21?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-21/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water"
+          ],
+          "name": "Aqua Turbo",
+          "damage": "10",
+          "text": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Water Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kawayoo",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Phione",
+      "_list_data": {
+        "card_id": "tcgp-B2b-21",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-21/medium"
+      }
+    },
+    {
+      "page_title": "Pikachu #22 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pikachu/tcgp-B2b-22?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-22/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Static Shock",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Ryuta Fuse",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pikachu",
+      "_list_data": {
+        "card_id": "tcgp-B2b-22",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-22/medium"
+      }
+    },
+    {
+      "page_title": "Raichu #23 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/raichu/tcgp-B2b-23?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-23/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Thunder",
+          "damage": "90",
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Megumi Mizutani",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Raichu",
+      "_list_data": {
+        "card_id": "tcgp-B2b-23",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-23/medium"
+      }
+    },
+    {
+      "page_title": "Electabuzz #24 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/electabuzz/tcgp-B2b-24?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-24/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Head Bolt",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "OKACHEKE",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Electabuzz",
+      "_list_data": {
+        "card_id": "tcgp-B2b-24",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-24/medium"
+      }
+    },
+    {
+      "page_title": "Electivire #25 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/electivire/tcgp-B2b-25?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-25/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "colorless"
+          ],
+          "name": "Incendiary Thunder",
+          "damage": "50+",
+          "text": "If Magmortar is on your Bench, this attack does 70 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "AKIRA EGAWA",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Electivire",
+      "_list_data": {
+        "card_id": "tcgp-B2b-25",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-25/medium"
+      }
+    },
+    {
+      "page_title": "Electrike #26 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/electrike/tcgp-B2b-26?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-26/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Quick Attack",
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Akira Komayama",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Electrike",
+      "_list_data": {
+        "card_id": "tcgp-B2b-26",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-26/medium"
+      }
+    },
+    {
+      "page_title": "Mega Manectric ex #27 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-manectric-ex/tcgp-B2b-27?variant=normal",
+      "hp": "180",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-27/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Lightning Accelerator",
+          "damage": "80+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "PLANETA CG Works",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Mega Manectric ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-27",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-27/medium"
+      }
+    },
+    {
+      "page_title": "Drowzee #28 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/drowzee/tcgp-B2b-28?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-28/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Hypnosis",
+          "damage": "",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Drowzee",
+      "_list_data": {
+        "card_id": "tcgp-B2b-28",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-28/medium"
+      }
+    },
+    {
+      "page_title": "Hypno #29 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/hypno/tcgp-B2b-29?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-29/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Hypnoblast",
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "OOYAMA",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Hypno",
+      "_list_data": {
+        "card_id": "tcgp-B2b-29",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-29/medium"
+      }
+    },
+    {
+      "page_title": "Mew #30 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mew/tcgp-B2b-30?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-30/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "colorless"
+          ],
+          "name": "Miraculous Memory",
+          "damage": "",
+          "text": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Atsuko Nishida",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Mew",
+      "_list_data": {
+        "card_id": "tcgp-B2b-30",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-30/medium"
+      }
+    },
+    {
+      "page_title": "Spoink #31 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/spoink/tcgp-B2b-31?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-31/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic"
+          ],
+          "name": "Psyshot",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "MAHOU",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Spoink",
+      "_list_data": {
+        "card_id": "tcgp-B2b-31",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-31/medium"
+      }
+    },
+    {
+      "page_title": "Grumpig #32 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/grumpig/tcgp-B2b-32?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-32/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic"
+          ],
+          "name": "Swaying Dance",
+          "damage": "40+",
+          "text": "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Sanosuke Sakuma",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Grumpig",
+      "_list_data": {
+        "card_id": "tcgp-B2b-32",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-32/medium"
+      }
+    },
+    {
+      "page_title": "Diglett #33 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/diglett/tcgp-B2b-33?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-33/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting"
+          ],
+          "name": "Slight Intrusion",
+          "damage": "30",
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kyoko Umemoto",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Diglett",
+      "_list_data": {
+        "card_id": "tcgp-B2b-33",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-33/medium"
+      }
+    },
+    {
+      "page_title": "Dugtrio #34 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dugtrio/tcgp-B2b-34?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-34/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "colorless"
+          ],
+          "name": "Mud Bomb",
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Kyoko Umemoto",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Dugtrio",
+      "_list_data": {
+        "card_id": "tcgp-B2b-34",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-34/medium"
+      }
+    },
+    {
+      "page_title": "Groudon #35 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/groudon/tcgp-B2b-35?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-35/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "fighting",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Gaia Blast",
+          "damage": "130",
+          "text": "Discard 2 random Energy from among the Energy attached to all of your Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Uta",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Groudon",
+      "_list_data": {
+        "card_id": "tcgp-B2b-35",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-35/medium"
+      }
+    },
+    {
+      "page_title": "Hawlucha #36 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/hawlucha/tcgp-B2b-36?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-36/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Take Down",
+          "damage": "50",
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "GOSSAN",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Hawlucha",
+      "_list_data": {
+        "card_id": "tcgp-B2b-36",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-36/medium"
+      }
+    },
+    {
+      "page_title": "Gastly #37 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gastly/tcgp-B2b-37?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-37/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness"
+          ],
+          "name": "Mumble",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Nobuhiro Imagawa",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Gastly",
+      "_list_data": {
+        "card_id": "tcgp-B2b-37",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-37/medium"
+      }
+    },
+    {
+      "page_title": "Haunter #38 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/haunter/tcgp-B2b-38?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-38/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness"
+          ],
+          "name": "Spin Turn",
+          "damage": "40",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "DOM",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Haunter",
+      "_list_data": {
+        "card_id": "tcgp-B2b-38",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-38/medium"
+      }
+    },
+    {
+      "page_title": "Mega Gengar ex #39 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-gengar-ex/tcgp-B2b-39?variant=normal",
+      "hp": "210",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-39/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness",
+            "darkness",
+            "colorless"
+          ],
+          "name": "Labyrinth of Shadows",
+          "damage": "120",
+          "text": "During your opponent's next turn, they can't play any Trainer cards from their hand."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2MEGAex"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Mega Gengar ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-39",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-39/medium"
+      }
+    },
+    {
+      "page_title": "Darkrai #40 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/darkrai/tcgp-B2b-40?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-40/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Dark Slumber",
+          "damage": "40",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "nagimiso",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "abilities": [
+        {
+          "name": "Bad Dreams",
+          "text": "At the end of each turn, if your opponent's Active Pokémon is Asleep, do 20 damage to that Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Darkrai",
+      "_list_data": {
+        "card_id": "tcgp-B2b-40",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-40/medium"
+      }
+    },
+    {
+      "page_title": "Trubbish #41 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/trubbish/tcgp-B2b-41?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-41/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness"
+          ],
+          "name": "Sludge Toss",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "kawayoo",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Trubbish",
+      "_list_data": {
+        "card_id": "tcgp-B2b-41",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-41/medium"
+      }
+    },
+    {
+      "page_title": "Garbodor #42 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/garbodor/tcgp-B2b-42?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-42/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness"
+          ],
+          "name": "Sludge Whirlpool",
+          "damage": "70",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "sui",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Garbodor",
+      "_list_data": {
+        "card_id": "tcgp-B2b-42",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-42/medium"
+      }
+    },
+    {
+      "page_title": "Zorua #43 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/zorua/tcgp-B2b-43?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-43/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness"
+          ],
+          "name": "Surprise Attack",
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "nagimiso",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Zorua",
+      "_list_data": {
+        "card_id": "tcgp-B2b-43",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-43/medium"
+      }
+    },
+    {
+      "page_title": "Zoroark #44 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/zoroark/tcgp-B2b-44?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-44/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness"
+          ],
+          "name": "Energy Crush 20x",
+          "damage": "",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Misa Tsutsui",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Zoroark",
+      "_list_data": {
+        "card_id": "tcgp-B2b-44",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-44/medium"
+      }
+    },
+    {
+      "page_title": "Morpeko #45 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/morpeko/tcgp-B2b-45?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-45/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness"
+          ],
+          "name": "Energizer Wheel",
+          "damage": "50",
+          "text": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Cona Nitanda",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Morpeko",
+      "_list_data": {
+        "card_id": "tcgp-B2b-45",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-45/medium"
+      }
+    },
+    {
+      "page_title": "Forretress #46 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/forretress/tcgp-B2b-46?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-46/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "metal",
+            "metal"
+          ],
+          "name": "Enormous Explosion",
+          "damage": "100",
+          "text": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Lee HyunJung",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Forretress",
+      "_list_data": {
+        "card_id": "tcgp-B2b-46",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-46/medium"
+      }
+    },
+    {
+      "page_title": "Mega Scizor ex #47 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-scizor-ex/tcgp-B2b-47?variant=normal",
+      "hp": "200",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-47/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "metal",
+            "colorless"
+          ],
+          "name": "Bullet Slugger",
+          "damage": "100+",
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "4 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Mega Scizor ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-47",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-47/medium"
+      }
+    },
+    {
+      "page_title": "Kartana #48 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/kartana/tcgp-B2b-48?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-48/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal"
+          ],
+          "name": "Thrash Metal",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Shin Nagasawa",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Kartana",
+      "_list_data": {
+        "card_id": "tcgp-B2b-48",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-48/medium"
+      }
+    },
+    {
+      "page_title": "Varoom #49 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/varoom/tcgp-B2b-49?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-49/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Suffocating Gas",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Saya Tsuruta",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Varoom",
+      "_list_data": {
+        "card_id": "tcgp-B2b-49",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-49/medium"
+      }
+    },
+    {
+      "page_title": "Revavroom #50 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/revavroom/tcgp-B2b-50?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-50/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Outta-Control Dash",
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "DOM",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "abilities": [
+        {
+          "name": "Metal Transport",
+          "text": "Once during your turn, you may switch your Active [M] Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Revavroom",
+      "_list_data": {
+        "card_id": "tcgp-B2b-50",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-50/medium"
+      }
+    },
+    {
+      "page_title": "Dratini #51 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dratini/tcgp-B2b-51?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-51/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Tail Strike",
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Dratini",
+      "_list_data": {
+        "card_id": "tcgp-B2b-51",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-51/medium"
+      }
+    },
+    {
+      "page_title": "Dragonair #52 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dragonair/tcgp-B2b-52?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-52/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Sky’s Blessing",
+          "damage": "",
+          "text": "Take a Water and a Lightning Energy from your Energy Zone and attach them to this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Dragonair",
+      "_list_data": {
+        "card_id": "tcgp-B2b-52",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-52/medium"
+      }
+    },
+    {
+      "page_title": "Dragonite #53 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dragonite/tcgp-B2b-53?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-53/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "lightning",
+            "colorless"
+          ],
+          "name": "Dragon Wave",
+          "damage": "150",
+          "text": "Discard a Water and a Lightning Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Dragonite",
+      "_list_data": {
+        "card_id": "tcgp-B2b-53",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-53/medium"
+      }
+    },
+    {
+      "page_title": "Axew #54 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/axew/tcgp-B2b-54?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-54/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "metal"
+          ],
+          "name": "Sharp Fang",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Yukiko Baba",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Axew",
+      "_list_data": {
+        "card_id": "tcgp-B2b-54",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-54/medium"
+      }
+    },
+    {
+      "page_title": "Fraxure #55 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/fraxure/tcgp-B2b-55?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-55/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "metal"
+          ],
+          "name": "Dragon Claw",
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Hataya",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Fraxure",
+      "_list_data": {
+        "card_id": "tcgp-B2b-55",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-55/medium"
+      }
+    },
+    {
+      "page_title": "Haxorus #56 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/haxorus/tcgp-B2b-56?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-56/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "metal",
+            "colorless"
+          ],
+          "name": "Frenzied Blade",
+          "damage": "50+",
+          "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Anesaki Dynamic",
+      "rarity": "3 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Haxorus",
+      "_list_data": {
+        "card_id": "tcgp-B2b-56",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-56/medium"
+      }
+    },
+    {
+      "page_title": "Druddigon #57 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/druddigon/tcgp-B2b-57?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-57/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Clutch",
+          "damage": "40",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "kawayoo",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Druddigon",
+      "_list_data": {
+        "card_id": "tcgp-B2b-57",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-57/medium"
+      }
+    },
+    {
+      "page_title": "Jigglypuff #58 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/jigglypuff/tcgp-B2b-58?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-58/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Stampede",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Kagemaru Himeno",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Jigglypuff",
+      "_list_data": {
+        "card_id": "tcgp-B2b-58",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-58/medium"
+      }
+    },
+    {
+      "page_title": "Wigglytuff #59 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/wigglytuff/tcgp-B2b-59?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-59/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Hammer In",
+          "damage": "80",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Asako Ito",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Wigglytuff",
+      "_list_data": {
+        "card_id": "tcgp-B2b-59",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-59/medium"
+      }
+    },
+    {
+      "page_title": "Miltank #60 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/miltank/tcgp-B2b-60?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-60/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Rout",
+          "damage": "10+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Miki Tanaka",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Miltank",
+      "_list_data": {
+        "card_id": "tcgp-B2b-60",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-60/medium"
+      }
+    },
+    {
+      "page_title": "Chatot #61 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/chatot/tcgp-B2b-61?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-61/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Spinning Draw",
+          "damage": "10",
+          "text": "Draw a card."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kagemaru Himeno",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Chatot",
+      "_list_data": {
+        "card_id": "tcgp-B2b-61",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-61/medium"
+      }
+    },
+    {
+      "page_title": "Minccino #62 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/minccino/tcgp-B2b-62?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-62/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Play Rough",
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kirisAki",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Minccino",
+      "_list_data": {
+        "card_id": "tcgp-B2b-62",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-62/medium"
+      }
+    },
+    {
+      "page_title": "Cinccino #63 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/cinccino/tcgp-B2b-63?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-63/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Gentle Slap",
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Kagemaru Himeno",
+      "rarity": "1 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Cinccino",
+      "_list_data": {
+        "card_id": "tcgp-B2b-63",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-63/medium"
+      }
+    },
+    {
+      "page_title": "Furfrou #64 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/furfrou/tcgp-B2b-64?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-64/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Quick Blow",
+          "damage": "40+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Hitoshi Ariga",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "abilities": [
+        {
+          "name": "Fur Coat",
+          "text": "This Pokémon takes −20 damage from attacks."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Furfrou",
+      "_list_data": {
+        "card_id": "tcgp-B2b-64",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-64/medium"
+      }
+    },
+    {
+      "page_title": "Nasty Notice #65 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/nasty-notice/tcgp-B2b-65?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-65/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Studio Bora Inc.",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "name": "Nasty Notice",
+      "_list_data": {
+        "card_id": "tcgp-B2b-65",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-65/medium"
+      }
+    },
+    {
+      "page_title": "Maintenance #66 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/maintenance/tcgp-B2b-66?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-66/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Toyste Beach",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "name": "Maintenance",
+      "_list_data": {
+        "card_id": "tcgp-B2b-66",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-66/medium"
+      }
+    },
+    {
+      "page_title": "Iris #67 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/iris/tcgp-B2b-67?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-67/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Susumu Maeya",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Iris",
+      "_list_data": {
+        "card_id": "tcgp-B2b-67",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-67/medium"
+      }
+    },
+    {
+      "page_title": "Calem #68 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/calem/tcgp-B2b-68?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-68/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Ryuta Fuse",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Calem",
+      "_list_data": {
+        "card_id": "tcgp-B2b-68",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-68/medium"
+      }
+    },
+    {
+      "page_title": "Hiking Trail #69 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/hiking-trail/tcgp-B2b-69?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-69/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "AYUMI ODASHIMA",
+      "rarity": "2 Diamond",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "name": "Hiking Trail",
+      "_list_data": {
+        "card_id": "tcgp-B2b-69",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-69/medium"
+      }
+    },
+    {
+      "page_title": "Lapras #70 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/lapras/tcgp-B2b-70?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-70/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Raging Freeze",
+          "damage": "60",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "zig",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Lapras",
+      "_list_data": {
+        "card_id": "tcgp-B2b-70",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-70/medium"
+      }
+    },
+    {
+      "page_title": "Empoleon #71 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/empoleon/tcgp-B2b-71?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-71/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Emperor’s Strike",
+          "damage": "80+",
+          "text": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "kawayoo",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Empoleon",
+      "_list_data": {
+        "card_id": "tcgp-B2b-71",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-71/medium"
+      }
+    },
+    {
+      "page_title": "Groudon #72 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/groudon/tcgp-B2b-72?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-72/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "fighting",
+            "colorless",
+            "colorless"
+          ],
+          "name": "Gaia Blast",
+          "damage": "130",
+          "text": "Discard 2 random Energy from among the Energy attached to all of your Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Nurikabe",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Groudon",
+      "_list_data": {
+        "card_id": "tcgp-B2b-72",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-72/medium"
+      }
+    },
+    {
+      "page_title": "Morpeko #73 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/morpeko/tcgp-B2b-73?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-73/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness"
+          ],
+          "name": "Energizer Wheel",
+          "damage": "50",
+          "text": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Yuu Nishida",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Morpeko",
+      "_list_data": {
+        "card_id": "tcgp-B2b-73",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-73/medium"
+      }
+    },
+    {
+      "page_title": "Revavroom #74 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/revavroom/tcgp-B2b-74?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-74/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "colorless"
+          ],
+          "name": "Outta-Control Dash",
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Rianti Hidayat",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "abilities": [
+        {
+          "name": "Metal Transport",
+          "text": "Once during your turn, you may switch your Active [M] Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Revavroom",
+      "_list_data": {
+        "card_id": "tcgp-B2b-74",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-74/medium"
+      }
+    },
+    {
+      "page_title": "Miltank #75 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/miltank/tcgp-B2b-75?variant=normal",
+      "hp": "110",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-75/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Rout",
+          "damage": "10+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Yuu Nishida",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "colorless"
+      ],
+      "name": "Miltank",
+      "_list_data": {
+        "card_id": "tcgp-B2b-75",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-75/medium"
+      }
+    },
+    {
+      "page_title": "Mega Charizard X ex #76 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-charizard-x-ex/tcgp-B2b-76?variant=normal",
+      "hp": "220",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-76/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "fire",
+            "fire"
+          ],
+          "name": "Raging Blaze",
+          "damage": "100+",
+          "text": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Igarashi",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2MEGAex"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Mega Charizard X ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-76",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-76/medium"
+      }
+    },
+    {
+      "page_title": "Mega Slowbro ex #77 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-slowbro-ex/tcgp-B2b-77?variant=normal",
+      "hp": "200",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-77/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Laundry-Go-Round",
+          "damage": "90",
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Yamashita",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Mega Slowbro ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-77",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-77/medium"
+      }
+    },
+    {
+      "page_title": "Mega Manectric ex #78 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-manectric-ex/tcgp-B2b-78?variant=normal",
+      "hp": "180",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-78/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Lightning Accelerator",
+          "damage": "80+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Mega Manectric ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-78",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-78/medium"
+      }
+    },
+    {
+      "page_title": "Mega Gengar ex #79 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-gengar-ex/tcgp-B2b-79?variant=normal",
+      "hp": "210",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-79/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness",
+            "darkness",
+            "colorless"
+          ],
+          "name": "Labyrinth of Shadows",
+          "damage": "120",
+          "text": "During your opponent's next turn, they can't play any Trainer cards from their hand."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2MEGAex"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Mega Gengar ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-79",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-79/medium"
+      }
+    },
+    {
+      "page_title": "Mega Scizor ex #80 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-scizor-ex/tcgp-B2b-80?variant=normal",
+      "hp": "200",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-80/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "metal",
+            "colorless"
+          ],
+          "name": "Bullet Slugger",
+          "damage": "100+",
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Mega Scizor ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-80",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-80/medium"
+      }
+    },
+    {
+      "page_title": "Iris #81 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/iris/tcgp-B2b-81?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-81/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Susumu Maeya",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Iris",
+      "_list_data": {
+        "card_id": "tcgp-B2b-81",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-81/medium"
+      }
+    },
+    {
+      "page_title": "Calem #82 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/calem/tcgp-B2b-82?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-82/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Ryuta Fuse",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "name": "Calem",
+      "_list_data": {
+        "card_id": "tcgp-B2b-82",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-82/medium"
+      }
+    },
+    {
+      "page_title": "Mega Slowbro ex #83 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-slowbro-ex/tcgp-B2b-83?variant=normal",
+      "hp": "200",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-83/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Laundry-Go-Round",
+          "damage": "90",
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "USGMEN",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Mega Slowbro ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-83",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-83/medium"
+      }
+    },
+    {
+      "page_title": "Mega Manectric ex #84 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-manectric-ex/tcgp-B2b-84?variant=normal",
+      "hp": "180",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-84/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Lightning Accelerator",
+          "damage": "80+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "GOSSAN",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Mega Manectric ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-84",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-84/medium"
+      }
+    },
+    {
+      "page_title": "Mew #85 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mew/tcgp-B2b-85?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-85/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "colorless"
+          ],
+          "name": "Miraculous Memory",
+          "damage": "",
+          "text": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Ryota Murayama",
+      "rarity": "3 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Mew",
+      "_list_data": {
+        "card_id": "tcgp-B2b-85",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-85/medium"
+      }
+    },
+    {
+      "page_title": "Mew #86 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mew/tcgp-B2b-86?variant=normal",
+      "hp": "50",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-86/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "psychic",
+            "colorless"
+          ],
+          "name": "Miraculous Memory",
+          "damage": "",
+          "text": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Ryota Murayama",
+      "rarity": "3 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "psychic"
+      ],
+      "name": "Mew",
+      "_list_data": {
+        "card_id": "tcgp-B2b-86",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-86/medium"
+      }
+    },
+    {
+      "page_title": "Scyther #87 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/scyther/tcgp-B2b-87?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-87/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "U-turn",
+          "damage": "10",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Krgc",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Scyther",
+      "_list_data": {
+        "card_id": "tcgp-B2b-87",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-87/medium"
+      }
+    },
+    {
+      "page_title": "Pineco #88 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pineco/tcgp-B2b-88?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-88/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Hang Down",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Taiga Kasai",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Pineco",
+      "_list_data": {
+        "card_id": "tcgp-B2b-88",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-88/medium"
+      }
+    },
+    {
+      "page_title": "Phantump #89 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/phantump/tcgp-B2b-89?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-89/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Tackle",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Taiga Kasai",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Phantump",
+      "_list_data": {
+        "card_id": "tcgp-B2b-89",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-89/medium"
+      }
+    },
+    {
+      "page_title": "Trevenant #90 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/trevenant/tcgp-B2b-90?variant=normal",
+      "hp": "120",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-90/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "grass",
+            "colorless"
+          ],
+          "name": "Rumble Stomp",
+          "damage": "40+",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Taiga Kasai",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "grass"
+      ],
+      "name": "Trevenant",
+      "_list_data": {
+        "card_id": "tcgp-B2b-90",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-90/medium"
+      }
+    },
+    {
+      "page_title": "Charmander #91 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/charmander/tcgp-B2b-91?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-91/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "colorless"
+          ],
+          "name": "Flame Tail",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "whomor Inc.",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Charmander",
+      "_list_data": {
+        "card_id": "tcgp-B2b-91",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-91/medium"
+      }
+    },
+    {
+      "page_title": "Charmeleon #92 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/charmeleon/tcgp-B2b-92?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-92/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "fire"
+          ],
+          "name": "Slash",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "whomor Inc.",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        {
+          "name": "Ignition",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a [R] Energy from your Energy Zone and attach it to your Active [R] Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Charmeleon",
+      "_list_data": {
+        "card_id": "tcgp-B2b-92",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-92/medium"
+      }
+    },
+    {
+      "page_title": "Ponyta #93 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/ponyta/tcgp-B2b-93?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-93/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire"
+          ],
+          "name": "Singe",
+          "damage": "",
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Ponyta",
+      "_list_data": {
+        "card_id": "tcgp-B2b-93",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-93/medium"
+      }
+    },
+    {
+      "page_title": "Rapidash #94 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/rapidash/tcgp-B2b-94?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-94/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire"
+          ],
+          "name": "Overdrive Smash",
+          "damage": "30",
+          "text": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Rapidash",
+      "_list_data": {
+        "card_id": "tcgp-B2b-94",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-94/medium"
+      }
+    },
+    {
+      "page_title": "Slowpoke #95 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/slowpoke/tcgp-B2b-95?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-95/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "colorless"
+          ],
+          "name": "Headbutt",
+          "damage": "30",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Shigenori Negishi",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Slowpoke",
+      "_list_data": {
+        "card_id": "tcgp-B2b-95",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-95/medium"
+      }
+    },
+    {
+      "page_title": "Pikachu #96 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/pikachu/tcgp-B2b-96?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-96/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Static Shock",
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "MAHOU",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Pikachu",
+      "_list_data": {
+        "card_id": "tcgp-B2b-96",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-96/medium"
+      }
+    },
+    {
+      "page_title": "Raichu #97 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/raichu/tcgp-B2b-97?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-97/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Thunder",
+          "damage": "90",
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "MAHOU",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Raichu",
+      "_list_data": {
+        "card_id": "tcgp-B2b-97",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-97/medium"
+      }
+    },
+    {
+      "page_title": "Electrike #98 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/electrike/tcgp-B2b-98?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-98/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning"
+          ],
+          "name": "Quick Attack",
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Electrike",
+      "_list_data": {
+        "card_id": "tcgp-B2b-98",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-98/medium"
+      }
+    },
+    {
+      "page_title": "Hawlucha #99 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/hawlucha/tcgp-B2b-99?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-99/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Take Down",
+          "damage": "50",
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "fighting"
+      ],
+      "name": "Hawlucha",
+      "_list_data": {
+        "card_id": "tcgp-B2b-99",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-99/medium"
+      }
+    },
+    {
+      "page_title": "Gastly #100 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/gastly/tcgp-B2b-100?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-100/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness"
+          ],
+          "name": "Mumble",
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Shigenori Negishi",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Gastly",
+      "_list_data": {
+        "card_id": "tcgp-B2b-100",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-100/medium"
+      }
+    },
+    {
+      "page_title": "Haunter #101 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/haunter/tcgp-B2b-101?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-101/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness"
+          ],
+          "name": "Spin Turn",
+          "damage": "40",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Shigenori Negishi",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Haunter",
+      "_list_data": {
+        "card_id": "tcgp-B2b-101",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-101/medium"
+      }
+    },
+    {
+      "page_title": "Zorua #102 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/zorua/tcgp-B2b-102?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-102/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness"
+          ],
+          "name": "Surprise Attack",
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Krgc",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Zorua",
+      "_list_data": {
+        "card_id": "tcgp-B2b-102",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-102/medium"
+      }
+    },
+    {
+      "page_title": "Zoroark #103 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/zoroark/tcgp-B2b-103?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-103/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness"
+          ],
+          "name": "Energy Crush 20x",
+          "damage": "",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Krgc",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Zoroark",
+      "_list_data": {
+        "card_id": "tcgp-B2b-103",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-103/medium"
+      }
+    },
+    {
+      "page_title": "Forretress #104 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/forretress/tcgp-B2b-104?variant=normal",
+      "hp": "100",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-104/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "metal",
+            "metal"
+          ],
+          "name": "Enormous Explosion",
+          "damage": "100",
+          "text": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Taiga Kasai",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Forretress",
+      "_list_data": {
+        "card_id": "tcgp-B2b-104",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-104/medium"
+      }
+    },
+    {
+      "page_title": "Dratini #105 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dratini/tcgp-B2b-105?variant=normal",
+      "hp": "60",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-105/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Tail Strike",
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Dratini",
+      "_list_data": {
+        "card_id": "tcgp-B2b-105",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-105/medium"
+      }
+    },
+    {
+      "page_title": "Dragonair #106 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dragonair/tcgp-B2b-106?variant=normal",
+      "hp": "80",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-106/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless"
+          ],
+          "name": "Sky’s Blessing",
+          "damage": "",
+          "text": "Take a Water and a Lightning Energy from your Energy Zone and attach them to this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Dragonair",
+      "_list_data": {
+        "card_id": "tcgp-B2b-106",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-106/medium"
+      }
+    },
+    {
+      "page_title": "Dragonite #107 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/dragonite/tcgp-B2b-107?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-107/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "lightning",
+            "colorless"
+          ],
+          "name": "Dragon Wave",
+          "damage": "150",
+          "text": "Discard a Water and a Lightning Energy from this Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Souichirou Gunjima",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Dragonite",
+      "_list_data": {
+        "card_id": "tcgp-B2b-107",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-107/medium"
+      }
+    },
+    {
+      "page_title": "Axew #108 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/axew/tcgp-B2b-108?variant=normal",
+      "hp": "70",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-108/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "metal"
+          ],
+          "name": "Sharp Fang",
+          "damage": "40",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "Nisota Niso",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Axew",
+      "_list_data": {
+        "card_id": "tcgp-B2b-108",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-108/medium"
+      }
+    },
+    {
+      "page_title": "Fraxure #109 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/fraxure/tcgp-B2b-109?variant=normal",
+      "hp": "90",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-109/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "metal"
+          ],
+          "name": "Dragon Claw",
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Nisota Niso",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Fraxure",
+      "_list_data": {
+        "card_id": "tcgp-B2b-109",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-109/medium"
+      }
+    },
+    {
+      "page_title": "Haxorus #110 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/haxorus/tcgp-B2b-110?variant=normal",
+      "hp": "150",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-110/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fighting",
+            "metal",
+            "colorless"
+          ],
+          "name": "Frenzied Blade",
+          "damage": "50+",
+          "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "Nisota Niso",
+      "rarity": "1 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "dragon"
+      ],
+      "name": "Haxorus",
+      "_list_data": {
+        "card_id": "tcgp-B2b-110",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-110/medium"
+      }
+    },
+    {
+      "page_title": "Mega Charizard X ex #111 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-charizard-x-ex/tcgp-B2b-111?variant=normal",
+      "hp": "220",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-111/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "fire",
+            "fire",
+            "fire"
+          ],
+          "name": "Raging Blaze",
+          "damage": "100+",
+          "text": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Igarashi",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2MEGAex"
+      ],
+      "types": [
+        "fire"
+      ],
+      "name": "Mega Charizard X ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-111",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-111/medium"
+      }
+    },
+    {
+      "page_title": "Mega Slowbro ex #112 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-slowbro-ex/tcgp-B2b-112?variant=normal",
+      "hp": "200",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-112/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "water",
+            "water",
+            "colorless"
+          ],
+          "name": "Laundry-Go-Round",
+          "damage": "90",
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Yamashita",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "water"
+      ],
+      "name": "Mega Slowbro ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-112",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-112/medium"
+      }
+    },
+    {
+      "page_title": "Mega Manectric ex #113 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-manectric-ex/tcgp-B2b-113?variant=normal",
+      "hp": "180",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-113/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "lightning",
+            "lightning"
+          ],
+          "name": "Lightning Accelerator",
+          "damage": "80+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "lightning"
+      ],
+      "name": "Mega Manectric ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-113",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-113/medium"
+      }
+    },
+    {
+      "page_title": "Mega Gengar ex #114 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-gengar-ex/tcgp-B2b-114?variant=normal",
+      "hp": "210",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-114/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "darkness",
+            "darkness",
+            "darkness",
+            "colorless"
+          ],
+          "name": "Labyrinth of Shadows",
+          "damage": "120",
+          "text": "During your opponent's next turn, they can't play any Trainer cards from their hand."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2MEGAex"
+      ],
+      "types": [
+        "darkness"
+      ],
+      "name": "Mega Gengar ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-114",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-114/medium"
+      }
+    },
+    {
+      "page_title": "Mega Scizor ex #115 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/mega-scizor-ex/tcgp-B2b-115?variant=normal",
+      "hp": "200",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-115/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "metal",
+            "metal",
+            "colorless"
+          ],
+          "name": "Bullet Slugger",
+          "damage": "100+",
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA CG Works",
+      "rarity": "2 Star",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1MEGAex"
+      ],
+      "types": [
+        "metal"
+      ],
+      "name": "Mega Scizor ex",
+      "_list_data": {
+        "card_id": "tcgp-B2b-115",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-115/medium"
+      }
+    },
+    {
+      "page_title": "Arboliva #116 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/arboliva/tcgp-B2b-116?variant=normal",
+      "hp": "130",
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-116/medium"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "colorless",
+            "colorless"
+          ],
+          "name": "Seed Bomb",
+          "damage": "70",
+          "text": ""
+        }
+      ],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "retreat_cost": [
+        "colorless",
+        "colorless"
+      ],
+      "artist": "PLANETA Yamashita",
+      "rarity": "Crown",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        {
+          "name": "Extra Heal",
+          "text": "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon."
+        },
+        {
+          "name": "abilities.name",
+          "text": "abilities.text"
+        }
+      ],
+      "name": "Arboliva",
+      "_list_data": {
+        "card_id": "tcgp-B2b-116",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-116/medium"
+      }
+    },
+    {
+      "page_title": "Metal Core Barrier #117 - Mega Shine | Pokémon | Scrydex",
+      "url": "https://scrydex.com/pokemon/cards/metal-core-barrier/tcgp-B2b-117?variant=normal",
+      "hp": null,
+      "variants": [
+        {
+          "name": "normal",
+          "label": "Normal",
+          "image": "https://images.scrydex.com/pokemon/tcgp-B2b-117/medium"
+        }
+      ],
+      "attacks": [],
+      "pricing": [],
+      "price_history": [],
+      "sales_stats": {
+        "total": 0,
+        "per_week": 0,
+        "per_month": 0
+      },
+      "weakness": {
+        "type": null,
+        "value": null
+      },
+      "artist": "Studio Bora Inc.",
+      "rarity": "Crown",
+      "language": "English",
+      "expansion_name": "Mega Shine",
+      "expansion_series": "Pokémon TCG Pocket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "name": "Metal Core Barrier",
+      "_list_data": {
+        "card_id": "tcgp-B2b-117",
+        "list_price": "N/A",
+        "price_trend": "none",
+        "image_url": "https://images.scrydex.com/pokemon/tcgp-B2b-117/medium"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,13 @@
+{
+  "stores": {
+    "perfect-order": {"file": "perfect-order_me3.json", "set_code": "me3"},
+    "ascended-heroes": {"file": "ascended-heroes_me2pt5.json", "set_code": "me2pt5"},
+    "phantasmal-flames": {"file": "phantasmal-flames_me2.json", "set_code": "me2"},
+    "fantastical-parade": {"file": "fantastical-parade_tcgp-B2.json", "set_code": "tcgp-B2"},
+    "mega-dream-ex": {"file": "mega-dream-ex_m2a_ja.json", "set_code": "m2a"},
+    "mega-shine": {"file": "mega-shine_tcgp-B2b.json", "set_code": "tcgp-B2b"},
+    "nihil-zero": {"file": "nihil-zero_m3_ja.json", "set_code": "m3"},
+    "ninja-spinner": {"file": "ninja-spinner_m4_ja.json", "set_code": "m4"},
+    "paldean-wonders": {"file": "paldean-wonders_tcgp-B2a.json", "set_code": "tcgp-B2a"}
+  }
+}
