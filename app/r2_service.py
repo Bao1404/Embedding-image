@@ -30,7 +30,7 @@ VN_TZ = timezone(timedelta(hours=7))
 
 class R2StorageService:
     """
-    Cloudflare R2 — lưu ảnh thẻ bài khi Gemini search không match.
+    Cloudflare R2 — lưu ảnh thẻ bài khi Qdrant search không match.
 
     Flow:
     1. Search trả về match=False → upload_unknown_card()
@@ -79,7 +79,7 @@ class R2StorageService:
         self,
         image_bytes: bytes,
         filename: str = "unknown.jpg",
-        gemini_result: dict = None,
+        qdrant_result: dict = None,
     ) -> str:
         """
         Upload ảnh unknown + metadata JSON lên R2.
@@ -87,7 +87,7 @@ class R2StorageService:
         Args:
             image_bytes: Nội dung ảnh (bytes)
             filename: Tên file gốc từ người dùng
-            gemini_result: Dict kết quả từ gemini_svc.search()
+            qdrant_result: Dict kết quả từ qdrant_svc.search()
 
         Returns:
             Object key (vd: "unknown/2026-05-14T08-35-10_a1b2c3d4")
@@ -126,7 +126,7 @@ class R2StorageService:
             "original_filename": filename,
             "content_type": content_type,
             "size_bytes": len(image_bytes),
-            "gemini_result": gemini_result or {},
+            "qdrant_result": qdrant_result or {},
             "status": "pending",
         }
         meta_key = f"{base_key}.json"

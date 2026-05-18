@@ -61,9 +61,9 @@ class StoreInfo(BaseModel):
     set_code: str
 
 class StatsResponse(BaseModel):
-    """Tổng hợp stats từ cả local và Gemini."""
+    """Tổng hợp stats từ local và Qdrant."""
     local: dict
-    gemini: dict
+    qdrant: dict
 
 
 class CardListResponse(BaseModel):
@@ -75,23 +75,22 @@ class CardListResponse(BaseModel):
 
 
 # ═══════════════════════════════════════════
-# GEMINI FILE SEARCH RESPONSES
+# QDRANT CLOUD RESPONSES
 # ═══════════════════════════════════════════
 
-class GeminiSearchResponse(BaseModel):
-    """Response từ Gemini File Search, trả về dữ liệu giống Local Search."""
+class QdrantSearchResponse(BaseModel):
+    """Response từ Qdrant Vector Search."""
     match: bool = Field(..., description="Có tìm thấy thẻ khớp không")
     best_result: Optional[SearchResult] = None
-    search_time_ms: float = Field(..., example=350.0)
-    model: str = Field(..., example="gemini-2.5-flash-lite")
-    store_name: str = Field(..., description="FileSearchStore đã dùng")
+    alternatives: list[SearchResult] = Field(default_factory=list)
+    search_time_ms: float = Field(..., example=120.5)
+    engine: str = Field("qdrant-gemini-emb2", description="Search engine")
+    collection_name: str = Field(..., description="Tên collection trên Qdrant")
     store_id: Optional[str] = Field(None, description="Store ID (expansion) của thẻ")
     saved_to_r2: bool = Field(False, description="Ảnh đã lưu vào R2 để review sau (khi match=False)")
-    card_id: Optional[str] = Field(None, description="card_id từ Gemini (debug)")
-    global_id: Optional[str] = Field(None, description="global_id đầy đủ (debug)")
-    confidence: float = Field(0.0, description="Match score (0-1). Gemini tự đánh giá mức match giữa ảnh và card tìm được")
-    visual_name: Optional[str] = Field(None, description="Tên Pokemon mà Gemini nhìn thấy trên ảnh")
-    found_name: Optional[str] = Field(None, description="Tên card tìm được trong database")
+    card_id: Optional[str] = Field(None, description="card_id từ Qdrant")
+    global_id: Optional[str] = Field(None, description="global_id đầy đủ")
+    confidence: float = Field(0.0, description="CLIP cosine similarity (0-1)")
 
 
 # ═══════════════════════════════════════════
@@ -113,14 +112,11 @@ class UnknownCardListResponse(BaseModel):
     cards: list[UnknownCardItem]
 
 
-class GeminiIndexReport(BaseModel):
-    """Kết quả upload ảnh vào Google FileSearchStore."""
+class QdrantIndexReport(BaseModel):
+    """Kết quả index cards vào Qdrant."""
     uploaded: int
     skipped: int
     errors: int
-    store_name: str
+    collection_name: str
     time_seconds: float
-    max_workers: int = Field(5, description="Số luồng song song đã dùng")
-    existing_count: int = Field(0, description="Tổng số docs đã có trong store trước khi upload")
-    existing_by_store: dict = Field(default_factory=dict, description="Số docs đã có, phân theo store_id")
-    store_breakdown: dict = Field(default_factory=dict, description="Chi tiết upload/skip/error theo từng store")
+    total_in_collection: int

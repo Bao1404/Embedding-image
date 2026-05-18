@@ -3,7 +3,7 @@ FastAPI Application — Pokémon Card Image Search API.
 
 Swagger UI tự động tại: http://localhost:8000/docs
 Kiến trúc:
-1. Gemini File Search để embed & search ảnh.
+1. Qdrant Cloud (Cloud Inference) để embed & search ảnh.
 2. Local JSON Store (O(1)) để map data.
 """
 
@@ -25,12 +25,13 @@ from app.config import DATA_DIR, IMAGES_DIR
 from app.schemas import (
     SearchResult, CardInfo,
     DownloadReport, CardListResponse, StatsResponse,
-    GeminiSearchResponse, GeminiIndexReport,
+    QdrantSearchResponse, QdrantIndexReport,
     UnknownCardItem, UnknownCardListResponse
 )
 from app.card_store import CardMetadataStore
 from app.image_downloader import load_cards_from_json, find_json_files, download_images
-from app.gemini_service import GeminiFileSearchService
+from app.qdrant_service import QdrantSearchService
+from app.embedding_service import GeminiEmbeddingService
 from app.r2_service import R2StorageService
 
 
@@ -39,19 +40,23 @@ from app.r2_service import R2StorageService
 # ═══════════════════════════════════════════
 
 card_store: CardMetadataStore = None  # Global singleton
-gemini_svc: GeminiFileSearchService = None  # Gemini singleton
+qdrant_svc: QdrantSearchService = None  # Qdrant singleton
+embedding_svc: GeminiEmbeddingService = None # Gemini Embedding singleton
 r2_svc: R2StorageService = None  # R2 singleton
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Load JSON files + Gemini client + R2 khi server start."""
-    global card_store, gemini_svc, r2_svc
+    """Load JSON files + Qdrant client + R2 khi server start."""
+    global card_store, qdrant_svc, embedding_svc, r2_svc
     logger.info("Khoi tao Local JSON Metadata Store...")
     card_store = CardMetadataStore(DATA_DIR)
     
-    logger.info("Khoi tao Gemini File Search Service (Cloud)...")
-    gemini_svc = GeminiFileSearchService()
+    logger.info("Khoi tao Qdrant Search Service (Cloud)...")
+    qdrant_svc = QdrantSearchService()
+    
+    logger.info("Khoi tao Gemini Embedding Service...")
+    embedding_svc = GeminiEmbeddingService()
     
     logger.info("Khoi tao Cloudflare R2 Storage...")
     r2_svc = R2StorageService()
@@ -70,16 +75,16 @@ async def lifespan(app: FastAPI):
 # ═══════════════════════════════════════════
 
 app = FastAPI(
-    title="🎴 Pokémon Card Image Search API (Gemini)",
+    title="🎴 Pokémon Card Image Search API (Qdrant Cloud)",
     description="""
-## Demo Pipeline: Gemini File Search + Local JSON Metadata
+## Demo Pipeline: Qdrant Cloud Vector Search + Local JSON Metadata
 
 **Quy trình:**
 1. `POST /api/index/download-images` → Download ảnh
-2. `POST /api/gemini/upload` → Upload ảnh lên Gemini
-3. `POST /api/search/by-image` → Tìm kiếm ảnh qua Gemini, query data local.
+2. `python scripts/migrate_to_qdrant.py` → Upload ảnh lên Qdrant Cloud
+3. `POST /api/search/by-image` → Tìm kiếm ảnh qua Qdrant, query data local.
     """,
-    version="2.0.0",
+    version="3.0.0",
     lifespan=lifespan
 )
 
@@ -159,148 +164,53 @@ async def api_download_images(
 
 
 # ═══════════════════════════════════════════
-# 2. GEMINI UPLOAD
-# ═══════════════════════════════════════════
-
-@app.post(
-    "/api/gemini/upload",
-    response_model=GeminiIndexReport,
-    tags=["🌐 Gemini File Search"],
-    summary="Upload ảnh vào Google Cloud FileSearchStore",
-)
-async def gemini_upload(
-    dataset: str = Query("perfect-order", description="Tên bộ dataset"),
-    max_workers: int = Query(10, ge=1, le=20, description="Số luồng upload song song"),
-    rebuild: bool = Query(False, description="Xóa store cũ rồi tạo mới"),
-):
-    try:
-        if rebuild:
-            logger.info("Gemini: Xóa store cũ...")
-            gemini_svc.delete_and_recreate_store()
-        
-        # Load cards từ JSON
-        json_files = find_json_files(DATA_DIR, filter_name=dataset)
-        if not json_files:
-            raise HTTPException(404, f"Không tìm thấy file JSON cho '{dataset}'")
-        
-        unique_cards = []
-        image_paths = {}
-        seen = set()
-        
-        for jf in json_files:
-            # Extract store_id từ tên file
-            store_id = os.path.basename(jf).split("_")[0]
-            cards = load_cards_from_json(jf)
-            
-            for card in cards:
-                card_id = card["card_id"]
-                global_id = f"{store_id}:{card_id}"
-                if global_id not in seen:
-                    seen.add(global_id)
-                    card_copy = dict(card)
-                    card_copy["store_id"] = store_id
-                    unique_cards.append(card_copy)
-                    
-                    # Tìm ảnh trong thư mục tương ứng của store_id
-                    safe_name = card_id.replace("/", "_").replace("\\", "_")
-                    local_path = os.path.join(IMAGES_DIR, store_id, f"{safe_name}.jpg")
-                    if os.path.exists(local_path):
-                        image_paths[global_id] = local_path
-        
-        if not image_paths:
-            raise HTTPException(404, "Chưa có ảnh. Chạy /api/index/download-images trước.")
-        
-        logger.info(f"Gemini: Upload {len(image_paths)} ảnh với {max_workers} luồng...")
-        result = gemini_svc.upload_batch(unique_cards, image_paths, max_workers=max_workers)
-        
-        return GeminiIndexReport(**result)
-    except HTTPException:
-        raise
-    except Exception as e:
-        logger.error(f"Gemini upload failed: {traceback.format_exc()}")
-        raise
-
-
-@app.delete(
-    "/api/gemini/store",
-    tags=["🌐 Gemini File Search"],
-    summary="Xóa store Gemini (reset toàn bộ dữ liệu đã upload)",
-)
-async def gemini_delete_store():
-    """Xóa FileSearchStore hiện tại. Cần upload lại từ đầu sau khi gọi."""
-    try:
-        store_name = gemini_svc.store_name
-        if not store_name:
-            return {"deleted": False, "message": "Không có store nào để xóa"}
-        gemini_svc.delete_store()
-        return {"deleted": True, "old_store": store_name}
-    except Exception as e:
-        logger.error(f"Delete store failed: {e}")
-        raise HTTPException(500, f"Xóa store thất bại: {e}")
-
-
-# ═══════════════════════════════════════════
 # 3. SEARCH
 # ═══════════════════════════════════════════
 
 @app.post(
     "/api/search/by-image",
-    response_model=GeminiSearchResponse,
+    response_model=QdrantSearchResponse,
     tags=["🔍 Search"],
-    summary="Search bằng ảnh qua Gemini AI",
+    summary="Search bằng ảnh qua Qdrant Cloud",
 )
 async def api_search_by_image(
     file: UploadFile = File(..., description="Ảnh thẻ bài cần tìm"),
 ):
     """
-    1 API call -> Gemini, lấy store_id + card_id.
+    1 API call -> Gemini (Embed image) -> vector
+    1 API call -> Qdrant (Vector Search), lấy top_k điểm.
     1 Local lookup -> lấy info chi tiết.
     """
+    start_time = time.time()
     try:
         content = await file.read()
-        suffix = ".jpg" if "jpeg" in (file.content_type or "") else ".png"
-        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
-            tmp.write(content)
-            tmp_path = tmp.name
         
-        try:
-            result = gemini_svc.search(image_path=tmp_path)
+        # 1. Embed image qua Gemini
+        query_vector = embedding_svc.embed_image(content)
+        if not query_vector:
+            raise HTTPException(500, "Không thể tạo embedding từ ảnh với Gemini API.")
             
-            card_id = result.get("card_id")
-            store_id = result.get("store_id")
-            match = False
-            best_result = None
+        # 2. Search Qdrant
+        results = qdrant_svc.search(query_vector=query_vector, top_k=5)
+        search_time_ms = (time.time() - start_time) * 1000
+        
+        match = False
+        best_result = None
+        alternatives = []
+        saved_to_r2 = False
+        
+        from app.config import QDRANT_MATCH_THRESHOLD, QDRANT_POKEMON_THRESHOLD
 
-            if card_id:
-                # 1. Tra cứu local O(1) qua card_store
+        if results:
+            top_hit = results[0]
+            confidence = top_hit["score"]
+            card_id = top_hit["card_id"]
+            store_id = top_hit["store_id"]
+            
+            # Kiểm tra match threshold
+            if confidence >= QDRANT_MATCH_THRESHOLD:
+                # Local lookup
                 meta = card_store.get(card_id, store_id)
-                
-                # 2. Fallbacks nếu không có store_id hoặc card_id sai lệch
-                if not meta:
-                    logger.warning(f"Fallback 1: Search by exact card_id: {card_id}")
-                    meta = card_store.get(card_id)
-                
-                if not meta:
-                    logger.warning(f"Fallback 2: prefix search")
-                    # Ví dụ "me3-6_holofoil" -> prefix "me3-6"
-                    if "_" in card_id:
-                        prefix = card_id.rsplit("_", 1)[0]
-                        res = card_store.search_by_field("card_id_prefix", prefix)
-                        if res:
-                            meta = res[0]
-                
-                if not meta:
-                    logger.warning(f"Fallback 3: name search")
-                    res = card_store.search_by_field("name", card_id)
-                    if res:
-                        meta = res[0]
-                
-                if not meta:
-                    logger.warning(f"Fallback 4: number search")
-                    res = card_store.search_by_field("number", card_id)
-                    if res:
-                        meta = res[0]
-
                 if meta:
                     match = True
                     card_info = CardInfo(
@@ -317,57 +227,51 @@ async def api_search_by_image(
                     )
                     best_result = SearchResult(
                         rank=1,
-                        score=result.get("confidence", -1.0),
+                        score=confidence,
                         card=card_info
                     )
-
-            # Nếu không match → lưu ảnh vào R2 nếu Gemini xác nhận đây là card Pokemon
-            saved_to_r2 = False
-            gemini_confidence = result.get("confidence", 0.0)
-            is_pokemon = result.get("is_pokemon", False)
             
+            # Xử lý R2 fallback
             if not match and r2_svc and r2_svc.is_configured():
-                # Lưu R2 nếu: Gemini nói đây là card Pokemon, HOẶC confidence >= 0.15
-                if is_pokemon or gemini_confidence >= 0.15:
+                if confidence >= QDRANT_POKEMON_THRESHOLD:
                     try:
                         r2_key = r2_svc.upload_unknown_card(
                             image_bytes=content,
                             filename=file.filename or "unknown.jpg",
-                            gemini_result=result,
+                            qdrant_result={"confidence": confidence, "top_guess": card_id},
                         )
                         saved_to_r2 = True
                         logger.info(
                             f"☁️ Unknown card saved to R2 "
-                            f"(is_pokemon={is_pokemon}, confidence={gemini_confidence:.4f}, "
-                            f"visual='{result.get('visual_name')}'): {r2_key}"
+                            f"(confidence={confidence:.4f}): {r2_key}"
                         )
                     except Exception as e:
-                        logger.error(f"R2 upload failed (non-blocking): {e}")
+                        logger.error(f"R2 upload failed: {e}")
                 else:
-                    logger.info(
-                        f"🚫 Skipped R2 save: is_pokemon={is_pokemon}, "
-                        f"confidence={gemini_confidence:.4f} (likely not a Pokémon card)"
-                    )
+                    logger.info(f"🚫 Skipped R2 save: confidence={confidence:.4f} < {QDRANT_POKEMON_THRESHOLD}")
 
-            return GeminiSearchResponse(
+            return QdrantSearchResponse(
                 match=match,
                 best_result=best_result,
-                search_time_ms=result["search_time_ms"],
-                model=result["model"],
-                store_name=result["store_name"],
-                store_id=store_id,
+                alternatives=alternatives,
+                search_time_ms=search_time_ms,
+                collection_name=qdrant_svc.collection_name,
+                store_id=store_id if results else None,
                 saved_to_r2=saved_to_r2,
-                card_id=card_id,
-                global_id=f"{store_id}:{card_id}" if store_id and card_id else None,
-                confidence=gemini_confidence,
-                visual_name=result.get("visual_name"),
-                found_name=result.get("found_name"),
+                card_id=card_id if results else None,
+                global_id=top_hit.get("global_id") if results else None,
+                confidence=confidence if results else 0.0,
             )
-        finally:
-            os.unlink(tmp_path)
-    
+        else:
+            # Không có kết quả từ Qdrant
+            return QdrantSearchResponse(
+                match=False,
+                search_time_ms=search_time_ms,
+                collection_name=qdrant_svc.collection_name,
+            )
+            
     except Exception as e:
-        logger.error(f"Gemini search failed: {traceback.format_exc()}")
+        logger.error(f"Qdrant search failed: {traceback.format_exc()}")
         raise
 
 
@@ -440,9 +344,9 @@ async def api_list_cards(
 )
 async def api_stats():
     local_stats = card_store.get_stats()
-    gemini_stats = gemini_svc.get_status()
+    qdrant_stats = qdrant_svc.get_collection_info() if qdrant_svc else None
     r2_stats = r2_svc.get_stats() if r2_svc else {"enabled": False}
-    return {"local": local_stats, "gemini": gemini_stats, "r2": r2_stats}
+    return {"local": local_stats, "qdrant": qdrant_stats, "r2": r2_stats}
 
 
 # ═══════════════════════════════════════════
