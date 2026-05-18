@@ -49,14 +49,28 @@ DOWNLOAD_DELAY = 0.3
 DOWNLOAD_TIMEOUT = 15
 
 # ═══════════════════════════════════════════
-# GEMINI FILE SEARCH (Cloud-based)
+# GEMINI EMBEDDING
 # ═══════════════════════════════════════════
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_EMBEDDING_MODEL = "models/gemini-embedding-2"
-GEMINI_GENERATION_MODEL = "gemini-2.5-flash"
-GEMINI_STORE_DISPLAY_NAME = "pokemon-cards"
-GEMINI_STORE_CACHE_FILE = os.path.join(BASE_DIR, "gemini_store.json")
+# Key riêng cho migration (batch upload) — nếu để trống sẽ dùng GEMINI_API_KEY
+GEMINI_API_KEY_MIGRATION = os.getenv("GEMINI_API_KEY_MIGRATION", "") or GEMINI_API_KEY
+GEMINI_EMBEDDING_MODEL = "gemini-embedding-2"
+GEMINI_EMBEDDING_DIM = 3072
+
+# ═══════════════════════════════════════════
+# QDRANT CLOUD (Vector Search)
+# ═══════════════════════════════════════════
+
+QDRANT_URL = os.getenv("QDRANT_URL", "")
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY", "")
+QDRANT_COLLECTION_NAME = os.getenv("QDRANT_COLLECTION_NAME", "pokemon-cards-gemini")
+
+# CLIP cosine similarity >= 0.70 = match
+QDRANT_MATCH_THRESHOLD = 0.70
+# Cosine >= 0.30 = có thể là Pokémon card (lưu R2 nếu không match)
+QDRANT_POKEMON_THRESHOLD = 0.30
+QDRANT_TOP_K = 5
 
 # ═══════════════════════════════════════════
 # CLOUDFLARE R2 (Unknown Cards Storage)
