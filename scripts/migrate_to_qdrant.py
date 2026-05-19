@@ -7,6 +7,7 @@ import time
 import datetime
 import argparse
 import logging
+import httpx
 from typing import List, Tuple, Dict, Any
 
 # Cấu hình logging
@@ -19,7 +20,7 @@ logger = logging.getLogger(__name__)
 # Đảm bảo có thể import từ app
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from app.config import DATA_DIR, IMAGES_DIR, GEMINI_MIGRATION_KEYS
+from app.config import DATA_DIR, IMAGES_DIR, GEMINI_MIGRATION_KEYS, DOWNLOAD_TIMEOUT
 from app.qdrant_service import QdrantSearchService
 from app.embedding_service import GeminiEmbeddingService
 from app.image_downloader import load_cards_from_json, find_json_files
@@ -72,6 +73,33 @@ def load_image_base64(filepath: str) -> str:
     """Đọc file ảnh và chuyển sang base64"""
     with open(filepath, "rb") as f:
         return base64.b64encode(f.read()).decode("utf-8")
+
+def download_image(image_url: str, save_path: str) -> bool:
+    """Download ảnh từ URL về local. Trả True nếu thành công."""
+    try:
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        with httpx.Client(timeout=DOWNLOAD_TIMEOUT) as client:
+            resp = client.get(image_url)
+            resp.raise_for_status()
+            with open(save_path, "wb") as f:
+                f.write(resp.content)
+        return True
+    except Exception as e:
+        logger.warning(f"Không tải được ảnh {image_url}: {e}")
+        return False
+
+def cleanup_images(image_paths: List[str]):
+    """Xóa danh sách ảnh đã embed thành công để giải phóng dung lượng."""
+    deleted = 0
+    for path in image_paths:
+        try:
+            if os.path.exists(path):
+                os.remove(path)
+                deleted += 1
+        except OSError as e:
+            logger.warning(f"Không xóa được {path}: {e}")
+    if deleted:
+        logger.info(f"🗑️  Đã xóa {deleted} ảnh đã embed thành công.")
 
 class RateLimitError(Exception):
     """Raised khi Gemini API trả về lỗi rate limit (429/RPD exhausted)."""
@@ -127,7 +155,10 @@ def migrate_store(
     logger.info(f"Tìm thấy {len(all_cards)} cards cho store {store_id}")
     
     skipped = 0
+    downloaded = 0
     points_to_upsert: List[Tuple[str, List[float], Dict[str, Any]]] = []
+    # Track ảnh đã embed trong batch hiện tại → xóa sau khi upsert thành công
+    batch_image_paths: List[str] = []
     
     for card in all_cards:
         if current_count >= session_limit:
@@ -138,8 +169,16 @@ def migrate_store(
             skipped += 1
             continue
             
-        # Tìm ảnh tương ứng — dùng đúng tên file giống image_downloader
-        # File ảnh: images/<store_id>/<card_id>.jpg
+        # Tạo payload IDs trước để check skip
+        global_id = f"{store_id}:{card_id}"
+        point_id = generate_point_id(global_id)
+        
+        # Kiểm tra nhanh bằng set đã pre-fetch (không cần gọi API từng cái)
+        if point_id in existing_ids:
+            skipped += 1
+            continue
+        
+        # Tìm hoặc tải ảnh
         image_dir = os.path.join(IMAGES_DIR, store_id)
         safe_name = card_id.replace("/", "_").replace("\\", "_")
         image_path = os.path.join(image_dir, f"{safe_name}.jpg")
@@ -150,18 +189,19 @@ def migrate_store(
             if os.path.exists(image_path_png):
                 image_path = image_path_png
             else:
-                logger.warning(f"Không tìm thấy ảnh cho card {card_id} ({store_id})")
-                skipped += 1
-                continue
-            
-        # Tạo payload
-        global_id = f"{store_id}:{card_id}"
-        point_id = generate_point_id(global_id)
-        
-        # Kiểm tra nhanh bằng set đã pre-fetch (không cần gọi API từng cái)
-        if point_id in existing_ids:
-            skipped += 1
-            continue
+                # Auto-download ảnh từ URL trong metadata
+                image_url = card.get("image_url", card.get("metadata", {}).get("image_url", ""))
+                if image_url:
+                    logger.info(f"📥 Tải ảnh: {card_id}")
+                    if download_image(image_url, image_path):
+                        downloaded += 1
+                    else:
+                        skipped += 1
+                        continue
+                else:
+                    logger.warning(f"Không có URL ảnh cho card {card_id} ({store_id})")
+                    skipped += 1
+                    continue
         
         try:
             with open(image_path, "rb") as f:
@@ -192,33 +232,48 @@ def migrate_store(
             }
             
             points_to_upsert.append((point_id, vector, payload))
-            existing_ids.add(point_id)  # Đánh dấu đã xử lý để không retry
+            batch_image_paths.append(image_path)
+            existing_ids.add(point_id)
             current_count += 1
             
         except RateLimitError:
             # Flush batch đã có trước khi raise
             if points_to_upsert and not dry_run:
                 qdrant_svc.upsert_batch(points_to_upsert, batch_size=50)
+                cleanup_images(batch_image_paths)
                 points_to_upsert.clear()
+                batch_image_paths.clear()
             raise  # Để caller đổi key
             
         except Exception as e:
             logger.error(f"Lỗi khi xử lý card {card_id}: {e}")
             skipped += 1
             
-        # Batch upsert every 50 points to prevent data loss if interrupted
+        # Batch upsert every 50 points → xóa ảnh sau khi upsert thành công
         if len(points_to_upsert) >= 50 and not dry_run:
             qdrant_svc.upsert_batch(points_to_upsert, batch_size=50)
+            cleanup_images(batch_image_paths)
             points_to_upsert.clear()
+            batch_image_paths.clear()
             
     if dry_run:
         logger.info(f"[DRY RUN] Sẽ upsert {len(points_to_upsert)} points cho {store_id}. Skipped: {skipped}")
         return current_count
         
-    # Flush remaining
+    # Flush remaining batch → xóa ảnh
     if points_to_upsert:
         qdrant_svc.upsert_batch(points_to_upsert, batch_size=50)
+        cleanup_images(batch_image_paths)
         logger.info(f"Hoàn thành migrate batch cuối cho store {store_id}. Skipped: {skipped}")
+    
+    if downloaded:
+        logger.info(f"📥 Đã tải {downloaded} ảnh mới cho store {store_id}")
+    
+    # Cleanup: xóa thư mục store nếu rỗng
+    store_image_dir = os.path.join(IMAGES_DIR, store_id)
+    if os.path.exists(store_image_dir) and not os.listdir(store_image_dir):
+        os.rmdir(store_image_dir)
+        logger.info(f"🗑️  Đã xóa thư mục rỗng: {store_image_dir}")
         
     return current_count
 
