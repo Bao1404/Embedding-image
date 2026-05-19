@@ -299,7 +299,8 @@
         "list_price": "$0.12",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-1/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yanma #2 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -595,7 +596,8 @@
         "list_price": "$0.23",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-2/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yanmega ex #3 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -887,10 +889,19 @@
       "name": "Yanmega exメガヤンマex",
       "_list_data": {
         "card_id": "m2a_ja-3",
-        "list_price": "$0.18",
-        "price_trend": "down",
+        "list_price": "$0.20",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-3/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Wurmple #4 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -1163,9 +1174,10 @@
       "_list_data": {
         "card_id": "m2a_ja-4",
         "list_price": "$0.15",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-4/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Silcoon #5 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -1466,9 +1478,10 @@
       "_list_data": {
         "card_id": "m2a_ja-5",
         "list_price": "$0.11",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-5/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Beautifly #6 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -1767,7 +1780,8 @@
         "list_price": "$0.21",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-6/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cascoon #7 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -2054,9 +2068,10 @@
       "_list_data": {
         "card_id": "m2a_ja-7",
         "list_price": "$0.12",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-7/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dustox #8 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -2273,7 +2288,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-8/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Roselia #9 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -2549,7 +2565,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-9/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Roserade #10 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -2985,10 +3002,19 @@
       "name": "Cynthia's Roseradeシロナのロズレイド",
       "_list_data": {
         "card_id": "m2a_ja-10",
-        "list_price": "$0.12",
-        "price_trend": "none",
+        "list_price": "$0.11",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-10/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Budew #11 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -3270,7 +3296,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-11/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Shaymin #12 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -3568,7 +3595,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-12/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dwebble #13 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -3856,7 +3884,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-13/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Crustle #14 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -4159,9 +4188,10 @@
       "_list_data": {
         "card_id": "m2a_ja-14",
         "list_price": "$0.09",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-14/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Tarountula #15 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -4436,7 +4466,8 @@
         "list_price": "$0.09",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-15/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Spidops #16 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -4735,7 +4766,8 @@
         "list_price": "$0.11",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-16/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Teal Mask Ogerpon ex #17 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -5030,10 +5062,19 @@
       "name": "Teal Mask Ogerpon exオーガポン みどりのめんex",
       "_list_data": {
         "card_id": "m2a_ja-17",
-        "list_price": "$0.16",
-        "price_trend": "down",
+        "list_price": "$0.23",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-17/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.23",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Slugma #18 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -5391,7 +5432,8 @@
         "list_price": "$0.24",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-18/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Magcargo #19 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -5692,7 +5734,8 @@
         "list_price": "$0.22",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-19/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Entei #20 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -6118,10 +6161,19 @@
       "name": "Enteiエンテイ",
       "_list_data": {
         "card_id": "m2a_ja-20",
-        "list_price": "$0.20",
-        "price_trend": "up",
+        "list_price": "$0.19",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-20/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Ho-Oh ex #21 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -6754,10 +6806,19 @@
       "name": "Ethan's Ho-Oh exヒビキのホウオウex",
       "_list_data": {
         "card_id": "m2a_ja-21",
-        "list_price": "$0.20",
+        "list_price": "$0.24",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-21/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Numel #22 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -7059,9 +7120,10 @@
       "_list_data": {
         "card_id": "m2a_ja-22",
         "list_price": "$0.15",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-22/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Camerupt #23 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -7361,7 +7423,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-23/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tepig #24 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -7657,7 +7720,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-24/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pignite #25 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -7956,7 +8020,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-25/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Emboar #26 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -8259,7 +8324,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-26/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Darumaka #27 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -8558,7 +8624,8 @@
         "list_price": "$0.14",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-27/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Darmanitan #28 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -8856,9 +8923,10 @@
       "_list_data": {
         "card_id": "m2a_ja-28",
         "list_price": "$0.15",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-28/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Reshiram ex #29 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -9152,7 +9220,8 @@
         "list_price": "$0.21",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-29/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Charcadet #30 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -9444,7 +9513,8 @@
         "list_price": "$0.35",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-30/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ceruledge ex #31 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -9799,10 +9869,19 @@
       "name": "Ceruledge exソウブレイズex",
       "_list_data": {
         "card_id": "m2a_ja-31",
-        "list_price": "$0.37",
+        "list_price": "$0.32",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-31/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.32",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Psyduck #32 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -10437,9 +10516,10 @@
       "_list_data": {
         "card_id": "m2a_ja-32",
         "list_price": "$0.25",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-32/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Golduck #33 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -10874,10 +10954,19 @@
       "name": "Golduckゴルダック",
       "_list_data": {
         "card_id": "m2a_ja-33",
-        "list_price": "$0.11",
-        "price_trend": "none",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-33/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Articuno #34 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -11577,10 +11666,19 @@
       "name": "Team Rocket's Articunoロケット団のフリーザー",
       "_list_data": {
         "card_id": "m2a_ja-34",
-        "list_price": "$0.47",
-        "price_trend": "none",
+        "list_price": "$0.44",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-34/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.44",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snorunt #35 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -11853,9 +11951,10 @@
       "_list_data": {
         "card_id": "m2a_ja-35",
         "list_price": "$0.17",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-35/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Frosslass ex #36 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -12278,10 +12377,19 @@
       "name": "Mega Frosslass exメガユキメノコex",
       "_list_data": {
         "card_id": "m2a_ja-36",
-        "list_price": "$0.31",
+        "list_price": "$0.35",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-36/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.35",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Vanillite #37 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -12575,9 +12683,10 @@
       "_list_data": {
         "card_id": "m2a_ja-37",
         "list_price": "$0.12",
-        "price_trend": "none",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-37/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Vanillish #38 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -12871,10 +12980,19 @@
       "name": "N's VanillishNのバニリッチ",
       "_list_data": {
         "card_id": "m2a_ja-38",
-        "list_price": "$0.21",
+        "list_price": "$0.20",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-38/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Vanilluxe #39 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -13170,10 +13288,19 @@
       "name": "N's VanilluxeNのバイバニラ",
       "_list_data": {
         "card_id": "m2a_ja-39",
-        "list_price": "$0.15",
+        "list_price": "$0.14",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-39/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snom #40 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -13464,7 +13591,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-40/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Frosmoth #41 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -13682,7 +13810,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-41/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Glastrier #42 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -13978,9 +14107,10 @@
       "_list_data": {
         "card_id": "m2a_ja-42",
         "list_price": "$0.17",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-42/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Chien-Pao #43 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -14277,9 +14407,10 @@
       "_list_data": {
         "card_id": "m2a_ja-43",
         "list_price": "$0.12",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-43/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pikachu ex #44 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -15174,10 +15305,19 @@
       "name": "Pikachu exピカチュウex",
       "_list_data": {
         "card_id": "m2a_ja-44",
-        "list_price": "$0.88",
+        "list_price": "$1.04",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-44/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.04",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Magnemite #45 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -15464,7 +15604,8 @@
         "list_price": "$0.12",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-45/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Magneton #46 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -15762,7 +15903,8 @@
         "list_price": "$0.15",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-46/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tynamo #47 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -16034,7 +16176,8 @@
         "list_price": "$0.24",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-47/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Eelektrik #48 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -16331,10 +16474,19 @@
       "name": "Eelektrikシビビール",
       "_list_data": {
         "card_id": "m2a_ja-48",
-        "list_price": "$0.18",
-        "price_trend": "none",
+        "list_price": "$0.17",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-48/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Eelektross ex #49 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -16693,7 +16845,8 @@
         "list_price": "$0.25",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-49/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Stunfisk #50 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -16900,7 +17053,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-50/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Zekrom ex #51 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -17186,10 +17340,19 @@
       "name": "Zekrom exゼクロムex",
       "_list_data": {
         "card_id": "m2a_ja-51",
-        "list_price": "$0.23",
-        "price_trend": "up",
+        "list_price": "$0.21",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-51/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.21",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Helioptile #52 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -17474,10 +17637,19 @@
       "name": "Helioptileエリキテル",
       "_list_data": {
         "card_id": "m2a_ja-52",
-        "list_price": "$0.20",
-        "price_trend": "none",
+        "list_price": "$0.18",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-52/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Heliolisk #53 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -17773,10 +17945,19 @@
       "name": "Helioliskエレザード",
       "_list_data": {
         "card_id": "m2a_ja-53",
-        "list_price": "$0.17",
-        "price_trend": "none",
+        "list_price": "$0.18",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-53/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tapu Koko #54 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -18141,9 +18322,10 @@
       "_list_data": {
         "card_id": "m2a_ja-54",
         "list_price": "$0.23",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-54/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Zeraora #55 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -18510,7 +18692,8 @@
         "list_price": "$0.22",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-55/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Tadbulb #56 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -18799,7 +18982,8 @@
         "list_price": "$0.22",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-56/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Bellibolt ex #57 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -19092,10 +19276,19 @@
       "name": "Iono's Bellibolt exナンジャモのハラバリーex",
       "_list_data": {
         "card_id": "m2a_ja-57",
-        "list_price": "$0.20",
+        "list_price": "$0.22",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-57/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Wattrel #58 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -19452,7 +19645,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-58/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Kilowattrel #59 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -19743,7 +19937,8 @@
         "list_price": "$0.12",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-59/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lillie's Clefairy ex #60 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -20037,10 +20232,19 @@
       "name": "Lillie's Clefairy exリーリエのピッピex",
       "_list_data": {
         "card_id": "m2a_ja-60",
-        "list_price": "$0.32",
-        "price_trend": "up",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-60/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Exeggcute #61 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -20324,10 +20528,19 @@
       "name": "Team Rocket's Exeggcuteロケット団のタマタマ",
       "_list_data": {
         "card_id": "m2a_ja-61",
-        "list_price": "$0.25",
-        "price_trend": "none",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-61/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Exeggutor #62 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -20824,10 +21037,19 @@
       "name": "Team Rocket's Exeggutorロケット団のナッシー",
       "_list_data": {
         "card_id": "m2a_ja-62",
-        "list_price": "$0.13",
-        "price_trend": "none",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-62/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mewtwo ex #63 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -21519,10 +21741,19 @@
       "name": "Team Rocket's Mewtwo exロケット団のミュウツーex",
       "_list_data": {
         "card_id": "m2a_ja-63",
-        "list_price": "$0.43",
-        "price_trend": "up",
+        "list_price": "$0.40",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-63/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.40",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togepi #64 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -22080,7 +22311,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-64/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togetic #65 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -22365,10 +22597,19 @@
       "name": "Togeticトゲチック",
       "_list_data": {
         "card_id": "m2a_ja-65",
-        "list_price": "$0.15",
-        "price_trend": "none",
+        "list_price": "$0.12",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-65/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togekiss #66 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -22807,7 +23048,8 @@
         "list_price": "$0.18",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-66/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Misdreavus #67 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -23082,7 +23324,8 @@
         "list_price": "$0.15",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-67/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mismagius #68 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -23370,7 +23613,8 @@
         "list_price": "$0.11",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-68/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ralts #69 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -23665,7 +23909,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-69/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Kirlia #70 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -24092,10 +24337,19 @@
       "name": "Kirliaキルリア",
       "_list_data": {
         "card_id": "m2a_ja-70",
-        "list_price": "$0.26",
-        "price_trend": "none",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-70/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gardevoir ex #71 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -24653,9 +24907,10 @@
       "_list_data": {
         "card_id": "m2a_ja-71",
         "list_price": "$0.26",
-        "price_trend": "down",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-71/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Duskull #72 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -25021,7 +25276,8 @@
         "list_price": "$0.34",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-72/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dusclops #73 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -25239,7 +25495,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-73/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dusknoir #74 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -25610,7 +25867,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-74/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Latias ex #75 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -26106,10 +26364,19 @@
       "name": "Latias exラティアスex",
       "_list_data": {
         "card_id": "m2a_ja-75",
-        "list_price": "$0.27",
-        "price_trend": "none",
+        "list_price": "$0.31",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-75/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.31",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rotom #76 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -26409,7 +26676,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-76/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Phantump #77 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -26767,7 +27035,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-77/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Trevenant #78 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -27073,7 +27342,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-78/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mimikyu #79 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -27747,7 +28017,8 @@
         "list_price": "¥150",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-79/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spectrier #80 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -28044,7 +28315,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-80/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Munkidori #81 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -28416,7 +28688,8 @@
         "list_price": "$0.11",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-81/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Dugtrio #83 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -28849,7 +29122,8 @@
         "list_price": "$0.27",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-83/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meditite #84 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -29144,7 +29418,8 @@
         "list_price": "$0.12",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-84/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Medicham #85 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -29350,7 +29625,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-85/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lunatone #86 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -29646,9 +29922,10 @@
       "_list_data": {
         "card_id": "m2a_ja-86",
         "list_price": "$0.17",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-86/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Solrock #87 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -29920,10 +30197,19 @@
       "name": "Solrockソルロック",
       "_list_data": {
         "card_id": "m2a_ja-87",
-        "list_price": "$0.28",
-        "price_trend": "none",
+        "list_price": "$0.25",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-87/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Gible #88 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -30277,10 +30563,19 @@
       "name": "Cynthia's Gibleシロナのフカマル",
       "_list_data": {
         "card_id": "m2a_ja-88",
-        "list_price": "$0.11",
-        "price_trend": "none",
+        "list_price": "$0.10",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-88/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Gabite #89 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -30574,10 +30869,19 @@
       "name": "Cynthia's Gabiteシロナのガバイト",
       "_list_data": {
         "card_id": "m2a_ja-89",
-        "list_price": "$0.11",
-        "price_trend": "none",
+        "list_price": "$0.10",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-89/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Garchomp ex #90 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -30792,10 +31096,19 @@
       "name": "Cynthia's Garchomp exシロナのガブリアスex",
       "_list_data": {
         "card_id": "m2a_ja-90",
-        "list_price": "$0.21",
-        "price_trend": "none",
+        "list_price": "$0.28",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-90/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Riolu #91 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -31215,10 +31528,19 @@
       "name": "Rioluリオル",
       "_list_data": {
         "card_id": "m2a_ja-91",
-        "list_price": "$0.12",
-        "price_trend": "none",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-91/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Lucario ex #92 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -31707,10 +32029,19 @@
       "name": "Mega Lucario exメガルカリオex",
       "_list_data": {
         "card_id": "m2a_ja-92",
-        "list_price": "$0.28",
-        "price_trend": "down",
+        "list_price": "$0.29",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-92/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.29",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pancham #93 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -31995,10 +32326,19 @@
       "name": "Panchamヤンチャム",
       "_list_data": {
         "card_id": "m2a_ja-93",
-        "list_price": "$0.27",
-        "price_trend": "up",
+        "list_price": "$0.21",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-93/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.21",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Hawlucha ex #94 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -32358,10 +32698,19 @@
       "name": "Mega Hawlucha exメガルチャブルex",
       "_list_data": {
         "card_id": "m2a_ja-94",
-        "list_price": "$0.34",
-        "price_trend": "up",
+        "list_price": "$0.31",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-94/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.31",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rolycoly #95 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -32654,7 +33003,8 @@
         "list_price": "$0.21",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-95/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Carkol #96 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -32953,7 +33303,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-96/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Coalossal #97 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -33252,9 +33603,10 @@
       "_list_data": {
         "card_id": "m2a_ja-97",
         "list_price": "$0.10",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-97/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Okidogi #98 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -33551,9 +33903,10 @@
       "_list_data": {
         "card_id": "m2a_ja-98",
         "list_price": "$0.25",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-98/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Zubat #99 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -33975,7 +34328,8 @@
         "list_price": "$0.24",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-99/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Golbat #100 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -34340,9 +34694,10 @@
       "_list_data": {
         "card_id": "m2a_ja-100",
         "list_price": "$0.14",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-100/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Crobat ex #101 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -34774,7 +35129,8 @@
         "list_price": "$0.26",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-101/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Murkrow #102 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -35072,9 +35428,10 @@
       "_list_data": {
         "card_id": "m2a_ja-102",
         "list_price": "$0.17",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-102/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Honchkrow #103 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -35423,10 +35780,19 @@
       "name": "Team Rocket's Honchkrowロケット団のドンカラス",
       "_list_data": {
         "card_id": "m2a_ja-103",
-        "list_price": "$0.31",
-        "price_trend": "none",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-103/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Sneasel #104 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -35855,9 +36221,10 @@
       "_list_data": {
         "card_id": "m2a_ja-104",
         "list_price": "$0.14",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-104/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Zigzagoon #105 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -36148,7 +36515,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-105/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Linoone #106 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -36445,7 +36813,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-106/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Obstagoon #107 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -36660,10 +37029,19 @@
       "name": "Galarian Obstagoonガラル タチフサグマ",
       "_list_data": {
         "card_id": "m2a_ja-107",
-        "list_price": "$1.74",
-        "price_trend": "down",
+        "list_price": "$1.76",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-107/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.76",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Spiritomb #108 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -36947,10 +37325,19 @@
       "name": "Cynthia's Spiritombシロナのミカルゲ",
       "_list_data": {
         "card_id": "m2a_ja-108",
-        "list_price": "$0.17",
-        "price_trend": "none",
+        "list_price": "$0.16",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-108/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Scraggy #109 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -37239,7 +37626,8 @@
         "list_price": "$0.53",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-109/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Scrafty ex #110 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -37535,10 +37923,19 @@
       "name": "Mega Scrafty exメガズルズキンex",
       "_list_data": {
         "card_id": "m2a_ja-110",
-        "list_price": "$0.26",
+        "list_price": "$0.25",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-110/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zorua #111 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -37829,7 +38226,8 @@
         "list_price": "$0.26",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-111/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zoroark ex #112 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -38189,10 +38587,19 @@
       "name": "N's Zoroark exNのゾロアークex",
       "_list_data": {
         "card_id": "m2a_ja-112",
-        "list_price": "$0.23",
-        "price_trend": "down",
+        "list_price": "$0.24",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-112/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pangoro #113 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -38488,10 +38895,19 @@
       "name": "Pangoroゴロンダ",
       "_list_data": {
         "card_id": "m2a_ja-113",
-        "list_price": "$0.18",
-        "price_trend": "none",
+        "list_price": "$0.17",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-113/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fezandipiti ex #114 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -38786,10 +39202,19 @@
       "name": "Fezandipiti exキチキギスex",
       "_list_data": {
         "card_id": "m2a_ja-114",
-        "list_price": "$0.24",
+        "list_price": "$0.27",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-114/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.27",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pecharunt #115 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -39075,7 +39500,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-115/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pawniard #116 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -39359,10 +39785,19 @@
       "name": "Pawniardコマタナ",
       "_list_data": {
         "card_id": "m2a_ja-116",
-        "list_price": "$0.25",
-        "price_trend": "none",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-116/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bisharp #117 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -39649,7 +40084,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-117/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Kingambit #118 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -39946,10 +40382,19 @@
       "name": "Kingambitドドゲザン",
       "_list_data": {
         "card_id": "m2a_ja-118",
-        "list_price": "$0.35",
-        "price_trend": "none",
+        "list_price": "$0.31",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-118/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.31",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Genesect ex #119 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -40241,10 +40686,19 @@
       "name": "Genesect exゲノセクトex",
       "_list_data": {
         "card_id": "m2a_ja-119",
-        "list_price": "$0.19",
-        "price_trend": "down",
+        "list_price": "$0.21",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-119/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.21",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Magearna #120 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -40542,10 +40996,19 @@
       "name": "Magearnaマギアナ",
       "_list_data": {
         "card_id": "m2a_ja-120",
-        "list_price": "$0.25",
-        "price_trend": "down",
+        "list_price": "$0.26",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-120/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.26",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Duraludon #121 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -40841,9 +41304,10 @@
       "_list_data": {
         "card_id": "m2a_ja-121",
         "list_price": "$0.26",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-121/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Archaludon ex #122 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -41065,10 +41529,19 @@
       "name": "Archaludon exブリジュラスex",
       "_list_data": {
         "card_id": "m2a_ja-122",
-        "list_price": "$0.16",
-        "price_trend": "down",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-122/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Zacian ex #123 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -41489,10 +41962,19 @@
       "name": "Hop's Zacian exホップのザシアンex",
       "_list_data": {
         "card_id": "m2a_ja-123",
-        "list_price": "$0.25",
+        "list_price": "$0.23",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-123/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.23",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dratini #124 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -41781,7 +42263,8 @@
         "list_price": "$0.15",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-124/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dragonair #125 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -42147,10 +42630,19 @@
       "name": "Dragonairハクリュー",
       "_list_data": {
         "card_id": "m2a_ja-125",
-        "list_price": "$0.17",
-        "price_trend": "up",
+        "list_price": "$0.15",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-125/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #126 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -43177,10 +43669,19 @@
       "name": "Mega Dragonite exメガカイリューex",
       "_list_data": {
         "card_id": "m2a_ja-126",
-        "list_price": "$0.97",
-        "price_trend": "up",
+        "list_price": "$0.84",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-126/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.84",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rayquaza #127 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -44092,10 +44593,19 @@
       "name": "Rayquazaレックウザ",
       "_list_data": {
         "card_id": "m2a_ja-127",
-        "list_price": "$0.19",
+        "list_price": "$0.20",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-127/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Reshiram #128 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -44530,7 +45040,8 @@
         "list_price": "$0.23",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-128/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zekrom #129 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -45036,7 +45547,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-129/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Noibat #130 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -45334,9 +45846,10 @@
       "_list_data": {
         "card_id": "m2a_ja-130",
         "list_price": "$0.12",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-130/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Noivern #131 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -45630,7 +46143,8 @@
         "list_price": "$0.20",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-131/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dreepy #132 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -45930,7 +46444,8 @@
         "list_price": "$0.15",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-132/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drakloak #133 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -46225,10 +46740,19 @@
       "name": "Drakloakドロンチ",
       "_list_data": {
         "card_id": "m2a_ja-133",
-        "list_price": "$0.33",
-        "price_trend": "none",
+        "list_price": "$0.31",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-133/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.31",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dragapult ex #134 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -46581,10 +47105,19 @@
       "name": "Dragapult exドラパルトex",
       "_list_data": {
         "card_id": "m2a_ja-134",
-        "list_price": "$0.23",
-        "price_trend": "down",
+        "list_price": "$0.25",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-134/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tatsugiri #135 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -47147,7 +47680,8 @@
         "list_price": "$0.15",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-135/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Snorlax #136 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -47851,9 +48385,10 @@
       "_list_data": {
         "card_id": "m2a_ja-136",
         "list_price": "$0.23",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-136/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hoothoot #137 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -48137,10 +48672,19 @@
       "name": "Hoothootホーホー",
       "_list_data": {
         "card_id": "m2a_ja-137",
-        "list_price": "$0.38",
+        "list_price": "$0.37",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-137/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.37",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Noctowl #138 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -48440,9 +48984,10 @@
       "_list_data": {
         "card_id": "m2a_ja-138",
         "list_price": "$0.08",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-138/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fan Rotom #139 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -48658,7 +49203,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-139/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bouffalant #140 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -48956,9 +49502,10 @@
       "_list_data": {
         "card_id": "m2a_ja-140",
         "list_price": "$0.21",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-140/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Wooloo #141 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -49244,10 +49791,19 @@
       "name": "Hop's Woolooホップのウールー",
       "_list_data": {
         "card_id": "m2a_ja-141",
-        "list_price": "$0.25",
-        "price_trend": "none",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-141/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Dubwool #142 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -49547,7 +50103,8 @@
         "list_price": "$0.06",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-142/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Cramorant #143 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -49832,9 +50389,10 @@
       "_list_data": {
         "card_id": "m2a_ja-143",
         "list_price": "$0.18",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-143/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Terapagos #144 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50132,7 +50690,8 @@
         "list_price": "$0.12",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-144/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Terapagos ex #145 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50422,10 +50981,19 @@
       "name": "Terapagos exテラパゴスex",
       "_list_data": {
         "card_id": "m2a_ja-145",
-        "list_price": "$0.23",
+        "list_price": "$0.25",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-145/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's PP Up #146 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50484,7 +51052,8 @@
         "list_price": "¥100",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-146/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Energy Recycler #147 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50607,10 +51176,19 @@
       "name": "Energy Recyclerエネルギーリサイクル",
       "_list_data": {
         "card_id": "m2a_ja-147",
-        "list_price": "$0.47",
-        "price_trend": "none",
+        "list_price": "$0.45",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-147/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.45",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Enhanced Hammer #148 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50669,7 +51247,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-148/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Glass Trumpet #149 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50728,7 +51307,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-149/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sacred Ash #150 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50854,7 +51434,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-150/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tool Scrapper #151 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -50977,10 +51558,19 @@
       "name": "Tool Scrapperツールスクラッパー",
       "_list_data": {
         "card_id": "m2a_ja-151",
-        "list_price": "$0.16",
-        "price_trend": "none",
+        "list_price": "$0.13",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-151/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tera Orb #152 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51039,7 +51629,8 @@
         "list_price": "¥100",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-152/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Buddy-Buddy Poffin #153 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51167,9 +51758,10 @@
       "_list_data": {
         "card_id": "m2a_ja-153",
         "list_price": "$0.11",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-153/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Premium Power Pro #154 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51293,9 +51885,10 @@
       "_list_data": {
         "card_id": "m2a_ja-154",
         "list_price": "$0.18",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-154/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fighting Gong #155 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51354,7 +51947,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-155/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Bag #156 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51480,7 +52074,8 @@
         "list_price": "$0.22",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-156/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bug Catching Set #157 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51606,7 +52201,8 @@
         "list_price": "$0.30",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-157/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Signal #158 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51732,7 +52328,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-158/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Night Stretcher #159 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -51791,7 +52388,8 @@
         "list_price": "¥100",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-159/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Transceiver #160 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52054,10 +52652,19 @@
       "name": "Team Rocket's Transceiverロケット団のレシーバー",
       "_list_data": {
         "card_id": "m2a_ja-160",
-        "list_price": "$0.21",
-        "price_trend": "none",
+        "list_price": "$0.19",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-160/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Counter Gain #161 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52183,7 +52790,8 @@
         "list_price": "$0.27",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-161/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Power Weight #162 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52313,7 +52921,8 @@
         "list_price": "$0.52",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-162/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Light Ball #163 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52439,7 +53048,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-163/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Thick Scale #164 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52562,10 +53172,19 @@
       "name": "Thick Scaleぶあついうろこ",
       "_list_data": {
         "card_id": "m2a_ja-164",
-        "list_price": "$0.14",
-        "price_trend": "none",
+        "list_price": "$0.11",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-164/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Air Balloon #165 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52691,7 +53310,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-165/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Brave Bangle #166 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52817,7 +53437,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-166/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Choice Band #167 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -52876,7 +53497,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-167/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iris's Fighting Spirit #168 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53037,7 +53659,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-168/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Acerola's Mischief #169 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53096,7 +53719,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-169/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Canari #170 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53155,7 +53779,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-170/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Surfer #171 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53281,7 +53906,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-171/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hilda #172 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53408,10 +54034,19 @@
       "name": "Hildaトウコ",
       "_list_data": {
         "card_id": "m2a_ja-172",
-        "list_price": "$0.23",
-        "price_trend": "none",
+        "list_price": "$0.22",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-172/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Anthea and Concordia #173 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53537,7 +54172,8 @@
         "list_price": "$0.13",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-173/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Adventure #174 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53665,9 +54301,10 @@
       "_list_data": {
         "card_id": "m2a_ja-174",
         "list_price": "$0.16",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-174/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lillie's Determination #175 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53793,7 +54430,8 @@
         "list_price": "$0.22",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-175/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Ariana #176 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -53917,9 +54555,10 @@
       "_list_data": {
         "card_id": "m2a_ja-176",
         "list_price": "$0.20",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-176/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Archer #177 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54045,7 +54684,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-177/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Giovanni #178 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54171,7 +54811,8 @@
         "list_price": "$0.22",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-178/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Petrel #179 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54297,7 +54938,8 @@
         "list_price": "$0.23",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-179/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Proton #180 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54356,7 +54998,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-180/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Castle #181 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54482,7 +55125,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-181/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Forest of Vitality #182 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54609,10 +55253,19 @@
       "name": "Forest of Vitality活力の森",
       "_list_data": {
         "card_id": "m2a_ja-182",
-        "list_price": "$0.17",
-        "price_trend": "down",
+        "list_price": "$0.18",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-182/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gravity Mountain #183 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54738,7 +55391,8 @@
         "list_price": "$0.27",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-183/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Area Zero Underdepths #184 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54864,7 +55518,8 @@
         "list_price": "$0.17",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-184/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Levincia #185 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -54991,10 +55646,19 @@
       "name": "Levinciaハッコウシティ",
       "_list_data": {
         "card_id": "m2a_ja-185",
-        "list_price": "$0.21",
-        "price_trend": "none",
+        "list_price": "$0.19",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-185/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Postwick #186 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55122,9 +55786,10 @@
       "_list_data": {
         "card_id": "m2a_ja-186",
         "list_price": "$0.28",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-186/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mystery Garden #187 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55250,7 +55915,8 @@
         "list_price": "$0.15",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-187/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mine at Night #188 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55373,10 +56039,19 @@
       "name": "Mine at Night夜の鉱山",
       "_list_data": {
         "card_id": "m2a_ja-188",
-        "list_price": "$0.13",
-        "price_trend": "none",
+        "list_price": "$0.12",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-188/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Watchtower #189 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55499,10 +56174,19 @@
       "name": "Team Rocket's Watchtowerロケット団の監視塔",
       "_list_data": {
         "card_id": "m2a_ja-189",
-        "list_price": "$0.11",
-        "price_trend": "none",
+        "list_price": "$0.09",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-189/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Factory #190 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55561,7 +56245,8 @@
         "list_price": "¥50",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-190/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ignition Energy #191 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55683,10 +56368,19 @@
       "name": "Ignition Energyイグニッションエネルギー",
       "_list_data": {
         "card_id": "m2a_ja-191",
-        "list_price": "$0.14",
-        "price_trend": "none",
+        "list_price": "$0.13",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-191/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Prism Energy #192 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55811,7 +56505,8 @@
         "list_price": "$0.47",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-192/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Energy #193 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -55933,10 +56628,19 @@
       "name": "Team Rocket's Energyロケット団エネルギー",
       "_list_data": {
         "card_id": "m2a_ja-193",
-        "list_price": "$0.16",
-        "price_trend": "none",
+        "list_price": "$0.15",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-193/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Beautifly #194 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -56692,10 +57396,19 @@
       "name": "Beautiflyアゲハント",
       "_list_data": {
         "card_id": "m2a_ja-194",
-        "list_price": "$2.11",
+        "list_price": "$2.24",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-194/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.24",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dustox #195 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -57510,10 +58223,19 @@
       "name": "Dustoxドクケイル",
       "_list_data": {
         "card_id": "m2a_ja-195",
-        "list_price": "$1.39",
+        "list_price": "$1.60",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-195/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.60",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Budew #196 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -58451,10 +59173,19 @@
       "name": "Budewスボミー",
       "_list_data": {
         "card_id": "m2a_ja-196",
-        "list_price": "$2.96",
-        "price_trend": "up",
+        "list_price": "$2.95",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-196/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.95",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Magcargo #197 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -59413,10 +60144,19 @@
       "name": "Ethan's Magcargoヒビキのマグカルゴ",
       "_list_data": {
         "card_id": "m2a_ja-197",
-        "list_price": "$1.71",
-        "price_trend": "down",
+        "list_price": "$1.88",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-197/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.88",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Numel #198 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -60377,10 +61117,19 @@
       "name": "Numelドンメル",
       "_list_data": {
         "card_id": "m2a_ja-198",
-        "list_price": "$1.83",
+        "list_price": "$1.80",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-198/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.80",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snorunt #200 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -61127,10 +61876,19 @@
       "name": "Snoruntユキワラシ",
       "_list_data": {
         "card_id": "m2a_ja-200",
-        "list_price": "$1.57",
-        "price_trend": "down",
+        "list_price": "$1.65",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-200/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.65",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Heliolisk #201 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -61959,10 +62717,19 @@
       "name": "Helioliskエレザード",
       "_list_data": {
         "card_id": "m2a_ja-201",
-        "list_price": "$1.37",
-        "price_trend": "up",
+        "list_price": "$1.36",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-201/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.36",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Misdreavus #202 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -62915,10 +63682,19 @@
       "name": "Misdreavusムウマ",
       "_list_data": {
         "card_id": "m2a_ja-202",
-        "list_price": "$1.91",
-        "price_trend": "up",
+        "list_price": "$1.88",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-202/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.88",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togekiss #203 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -63817,10 +64593,19 @@
       "name": "Togekissトゲキッス",
       "_list_data": {
         "card_id": "m2a_ja-203",
-        "list_price": "$1.91",
-        "price_trend": "up",
+        "list_price": "$1.63",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-203/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.63",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Trevenant #204 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -64543,10 +65328,19 @@
       "name": "Hop's Trevenantホップのオーロット",
       "_list_data": {
         "card_id": "m2a_ja-204",
-        "list_price": "$1.37",
-        "price_trend": "down",
+        "list_price": "$1.48",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-204/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.48",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mimikyu #205 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -65892,10 +66686,19 @@
       "name": "Team Rocket's Mimikyuロケット団のミミッキュ",
       "_list_data": {
         "card_id": "m2a_ja-205",
-        "list_price": "$5.81",
+        "list_price": "$6.08",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-205/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Dugtrio #206 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -66923,10 +67726,19 @@
       "name": "Team Rocket's Dugtrioロケット団のダグトリオ",
       "_list_data": {
         "card_id": "m2a_ja-206",
-        "list_price": "$2.06",
-        "price_trend": "down",
+        "list_price": "$2.28",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-206/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Medicham #207 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -67604,10 +68416,19 @@
       "name": "Medichamチャーレム",
       "_list_data": {
         "card_id": "m2a_ja-207",
-        "list_price": "$1.65",
-        "price_trend": "up",
+        "list_price": "$1.63",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-207/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.63",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Spiritomb #208 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -68894,10 +69715,19 @@
       "name": "Cynthia's Spiritombシロナのミカルゲ",
       "_list_data": {
         "card_id": "m2a_ja-208",
-        "list_price": "$3.03",
+        "list_price": "$2.99",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-208/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.99",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Obstagoon #209 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -69726,10 +70556,19 @@
       "name": "Galarian Obstagoonガラル タチフサグマ",
       "_list_data": {
         "card_id": "m2a_ja-209",
-        "list_price": "$1.50",
+        "list_price": "$1.44",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-209/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.44",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zekrom #210 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -70960,10 +71799,19 @@
       "name": "N's ZekromNのゼクロム",
       "_list_data": {
         "card_id": "m2a_ja-210",
-        "list_price": "$5.85",
+        "list_price": "$5.83",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-210/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.83",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dreepy #211 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -71850,10 +72698,19 @@
       "name": "Dreepyドラメシヤ",
       "_list_data": {
         "card_id": "m2a_ja-211",
-        "list_price": "$1.70",
+        "list_price": "$1.83",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-211/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.83",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drakloak #212 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -72747,10 +73604,19 @@
       "name": "Drakloakドロンチ",
       "_list_data": {
         "card_id": "m2a_ja-212",
-        "list_price": "$1.66",
-        "price_trend": "up",
+        "list_price": "$1.45",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-212/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.45",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fan Rotom #213 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -73529,10 +74395,19 @@
       "name": "Fan Rotomスピンロトム",
       "_list_data": {
         "card_id": "m2a_ja-213",
-        "list_price": "$1.05",
-        "price_trend": "down",
+        "list_price": "$1.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-213/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's PP Up #214 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -73926,10 +74801,19 @@
       "name": "N's PP UpNのポイントアップ",
       "_list_data": {
         "card_id": "m2a_ja-214",
-        "list_price": "$0.73",
+        "list_price": "$0.72",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-214/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.72",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Glass Trumpet #215 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -74394,9 +75278,10 @@
       "_list_data": {
         "card_id": "m2a_ja-215",
         "list_price": "$0.27",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-215/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ultra Ball #216 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -74855,10 +75740,19 @@
       "name": "Ultra Ballハイパーボール",
       "_list_data": {
         "card_id": "m2a_ja-216",
-        "list_price": "$0.41",
+        "list_price": "$0.55",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-216/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.55",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Transceiver #217 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -75391,10 +76285,19 @@
       "name": "Team Rocket's Transceiverロケット団のレシーバー",
       "_list_data": {
         "card_id": "m2a_ja-217",
-        "list_price": "$0.26",
-        "price_trend": "down",
+        "list_price": "$0.27",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-217/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.27",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Counter Gain #218 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -75853,10 +76756,19 @@
       "name": "Counter Gainカウンターゲイン",
       "_list_data": {
         "card_id": "m2a_ja-218",
-        "list_price": "$0.18",
+        "list_price": "$0.25",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-218/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Canari #219 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -76728,10 +77640,19 @@
       "name": "Canariカナリィ",
       "_list_data": {
         "card_id": "m2a_ja-219",
-        "list_price": "$7.38",
+        "list_price": "$6.93",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-219/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.93",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Black Belt's Training #220 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -77064,10 +77985,19 @@
       "name": "Black Belt's Trainingからておうの稽古",
       "_list_data": {
         "card_id": "m2a_ja-220",
-        "list_price": "$1.16",
+        "list_price": "$1.23",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-220/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.23",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Anthea and Concordia #221 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -77601,9 +78531,10 @@
       "_list_data": {
         "card_id": "m2a_ja-221",
         "list_price": "$1.66",
-        "price_trend": "down",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-221/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jamming Tower #222 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -78062,10 +78993,19 @@
       "name": "Jamming Towerジャミングタワー",
       "_list_data": {
         "card_id": "m2a_ja-222",
-        "list_price": "$0.40",
-        "price_trend": "up",
+        "list_price": "$0.38",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-222/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.38",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Charizard X ex #223 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -79685,10 +80625,19 @@
       "name": "Mega Charizard X exメガリザードンXex",
       "_list_data": {
         "card_id": "m2a_ja-223",
-        "list_price": "$56.18",
+        "list_price": "$56.79",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-223/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$56.79",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Frosslass ex #224 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -80785,10 +81734,19 @@
       "name": "Mega Frosslass exメガユキメノコex",
       "_list_data": {
         "card_id": "m2a_ja-224",
-        "list_price": "$6.80",
-        "price_trend": "up",
+        "list_price": "$6.84",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-224/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.84",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Eelektross ex #225 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -81814,10 +82772,19 @@
       "name": "Mega Eelektross exメガシビルドンex",
       "_list_data": {
         "card_id": "m2a_ja-225",
-        "list_price": "$3.04",
-        "price_trend": "down",
+        "list_price": "$3.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-225/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gardevoir ex #226 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -83108,10 +84075,19 @@
       "name": "Mega Gardevoir exメガサーナイトex",
       "_list_data": {
         "card_id": "m2a_ja-226",
-        "list_price": "$7.75",
-        "price_trend": "up",
+        "list_price": "$7.52",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-226/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.52",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Diancie ex #227 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -84075,10 +85051,19 @@
       "name": "Mega Diancie exメガディアンシーex",
       "_list_data": {
         "card_id": "m2a_ja-227",
-        "list_price": "$5.94",
+        "list_price": "$6.01",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-227/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.01",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Lucario ex #228 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -85305,10 +86290,19 @@
       "name": "Mega Lucario exメガルカリオex",
       "_list_data": {
         "card_id": "m2a_ja-228",
-        "list_price": "$11.27",
-        "price_trend": "down",
+        "list_price": "$11.78",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-228/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.78",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Hawlucha ex #229 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -86281,10 +87275,19 @@
       "name": "Mega Hawlucha exメガルチャブルex",
       "_list_data": {
         "card_id": "m2a_ja-229",
-        "list_price": "$4.88",
-        "price_trend": "up",
+        "list_price": "$4.76",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-229/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.76",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gengar ex #230 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -87644,10 +88647,19 @@
       "name": "Mega Gengar exメガゲンガーex",
       "_list_data": {
         "card_id": "m2a_ja-230",
-        "list_price": "$33.33",
+        "list_price": "$35.80",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-230/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$35.80",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Scrafty ex #231 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -88664,10 +89676,19 @@
       "name": "Mega Scrafty exメガズルズキンex",
       "_list_data": {
         "card_id": "m2a_ja-231",
-        "list_price": "$4.53",
-        "price_trend": "up",
+        "list_price": "$4.57",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-231/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.57",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #232 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -90222,10 +91243,19 @@
       "name": "Mega Dragonite exメガカイリューex",
       "_list_data": {
         "card_id": "m2a_ja-232",
-        "list_price": "$19.21",
-        "price_trend": "down",
+        "list_price": "$20.37",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-232/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$20.37",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Frosslass ex #233 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -91254,10 +92284,19 @@
       "name": "Mega Frosslass exメガユキメノコex",
       "_list_data": {
         "card_id": "m2a_ja-233",
-        "list_price": "$33.81",
-        "price_trend": "down",
+        "list_price": "$34.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-233/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$34.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pikachu ex #234 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -92687,10 +93726,19 @@
       "name": "Pikachu exピカチュウex",
       "_list_data": {
         "card_id": "m2a_ja-234",
-        "list_price": "$241.82",
+        "list_price": "$252.67",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-234/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$252.67",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Eelektross ex #235 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -93450,10 +94498,19 @@
       "name": "Mega Eelektross exメガシビルドンex",
       "_list_data": {
         "card_id": "m2a_ja-235",
-        "list_price": "$11.89",
-        "price_trend": "up",
+        "list_price": "$11.73",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-235/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.73",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Bellibolt ex #236 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -94550,10 +95607,19 @@
       "name": "Iono's Bellibolt exナンジャモのハラバリーex",
       "_list_data": {
         "card_id": "m2a_ja-236",
-        "list_price": "$46.87",
+        "list_price": "$46.35",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-236/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$46.35",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mewtwo ex #237 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -95906,10 +96972,19 @@
       "name": "Team Rocket's Mewtwo exロケット団のミュウツーex",
       "_list_data": {
         "card_id": "m2a_ja-237",
-        "list_price": "$170.74",
+        "list_price": "$178.20",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-237/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$178.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Diancie ex #238 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -96734,10 +97809,19 @@
       "name": "Mega Diancie exメガディアンシーex",
       "_list_data": {
         "card_id": "m2a_ja-238",
-        "list_price": "$24.84",
+        "list_price": "$24.11",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-238/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$24.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Hawlucha ex #239 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -97693,10 +98777,19 @@
       "name": "Mega Hawlucha exメガルチャブルex",
       "_list_data": {
         "card_id": "m2a_ja-239",
-        "list_price": "$27.50",
+        "list_price": "$27.24",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-239/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$27.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gengar ex #240 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -99251,10 +100344,19 @@
       "name": "Mega Gengar exメガゲンガーex",
       "_list_data": {
         "card_id": "m2a_ja-240",
-        "list_price": "$464.19",
-        "price_trend": "up",
+        "list_price": "$460.22",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-240/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$460.22",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Scrafty ex #241 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -100005,10 +101107,19 @@
       "name": "Mega Scrafty exメガズルズキンex",
       "_list_data": {
         "card_id": "m2a_ja-241",
-        "list_price": "$18.07",
+        "list_price": "$17.62",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-241/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$17.62",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zoroark ex #242 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -101173,10 +102284,19 @@
       "name": "N's Zoroark exNのゾロアークex",
       "_list_data": {
         "card_id": "m2a_ja-242",
-        "list_price": "$81.99",
+        "list_price": "$83.85",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-242/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$83.85",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Marnie's Grimmsnarl ex #243 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -102402,10 +103522,19 @@
       "name": "Marnie's Grimmsnarl exマリィのオーロンゲex",
       "_list_data": {
         "card_id": "m2a_ja-243",
-        "list_price": "$32.96",
+        "list_price": "$34.44",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-243/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$34.44",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fezandipiti ex #244 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -103370,10 +104499,19 @@
       "name": "Fezandipiti exキチキギスex",
       "_list_data": {
         "card_id": "m2a_ja-244",
-        "list_price": "$22.86",
+        "list_price": "$22.84",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-244/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$22.84",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Steven's Metagross ex #245 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -104209,10 +105347,19 @@
       "name": "Steven's Metagross exダイゴのメタグロスex",
       "_list_data": {
         "card_id": "m2a_ja-245",
-        "list_price": "$40.33",
-        "price_trend": "down",
+        "list_price": "$40.61",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-245/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$40.61",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #246 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -105634,10 +106781,19 @@
       "name": "Mega Dragonite exメガカイリューex",
       "_list_data": {
         "card_id": "m2a_ja-246",
-        "list_price": "$279.07",
+        "list_price": "$284.92",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-246/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$284.92",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iris's Fighting Spirit #247 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -106436,10 +107592,19 @@
       "name": "Iris's Fighting Spiritアイリスの闘志",
       "_list_data": {
         "card_id": "m2a_ja-247",
-        "list_price": "$23.93",
+        "list_price": "$23.84",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-247/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$23.84",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Canari #248 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -107168,10 +108333,19 @@
       "name": "Canariカナリィ",
       "_list_data": {
         "card_id": "m2a_ja-248",
-        "list_price": "$30.11",
-        "price_trend": "none",
+        "list_price": "$30.73",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-248/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$30.73",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Surfer #249 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -107839,10 +109013,19 @@
       "name": "Surferサーファー",
       "_list_data": {
         "card_id": "m2a_ja-249",
-        "list_price": "$9.10",
+        "list_price": "$8.88",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-249/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$8.88",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #250 - MEGA Dream ex | Pokémon | Japanese | Scrydex",
@@ -108934,10 +110117,19 @@
       "name": "Mega Dragonite exメガカイリューex",
       "_list_data": {
         "card_id": "m2a_ja-250",
-        "list_price": "$214.80",
-        "price_trend": "up",
+        "list_price": "$211.87",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m2a_ja-250/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$211.87",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     }
   ],
   "errors": [
@@ -108949,5 +110141,6 @@
       "href": "/pokemon/cards/psyduck/m2a_ja-199?variant=holofoil",
       "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://scrydex.com/pokemon/cards/psyduck/m2a_ja-199?variant=holofoil\", waiting until \"domcontentloaded\"\n"
     }
-  ]
+  ],
+  "price_updated_at": "2026-05-18"
 }

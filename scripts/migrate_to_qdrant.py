@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 # Đảm bảo có thể import từ app
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from app.config import DATA_DIR, IMAGES_DIR, GEMINI_API_KEY_MIGRATION
+from app.config import DATA_DIR, IMAGES_DIR, GEMINI_MIGRATION_KEYS
 from app.qdrant_service import QdrantSearchService
 from app.embedding_service import GeminiEmbeddingService
 from app.image_downloader import load_cards_from_json, find_json_files
@@ -30,6 +30,31 @@ def generate_point_id(global_id: str) -> str:
     """Tạo UUID deterministic từ global_id (vd: perfect-order:me3-1_normal)"""
     return str(uuid.uuid5(NAMESPACE_POKEMON, global_id))
 
+def fetch_existing_ids(qdrant_svc: 'QdrantSearchService') -> set:
+    """Lấy toàn bộ point IDs đã tồn tại trên Qdrant bằng scroll (nhanh hơn retrieve từng cái)."""
+    existing_ids = set()
+    if not qdrant_svc.client:
+        return existing_ids
+    try:
+        offset = None
+        while True:
+            results, next_offset = qdrant_svc.client.scroll(
+                collection_name=qdrant_svc.collection_name,
+                limit=256,
+                offset=offset,
+                with_payload=False,
+                with_vectors=False,
+            )
+            for point in results:
+                existing_ids.add(str(point.id))
+            if next_offset is None:
+                break
+            offset = next_offset
+        logger.info(f"Đã tải {len(existing_ids)} point IDs từ Qdrant để skip-check.")
+    except Exception as e:
+        logger.error(f"Lỗi khi scroll Qdrant: {e}")
+    return existing_ids
+
 def get_store_ids() -> List[str]:
     """Lấy danh sách store_id từ manifest.json"""
     manifest_path = os.path.join(DATA_DIR, "manifest.json")
@@ -39,24 +64,47 @@ def get_store_ids() -> List[str]:
     
     with open(manifest_path, "r", encoding="utf-8") as f:
         data = json.load(f)
-        return data.get("stores", [])
+        stores = data.get("stores", {})
+        # stores là dict {store_id: {...info}} → chỉ cần list keys
+        return list(stores.keys()) if isinstance(stores, dict) else stores
 
 def load_image_base64(filepath: str) -> str:
     """Đọc file ảnh và chuyển sang base64"""
     with open(filepath, "rb") as f:
         return base64.b64encode(f.read()).decode("utf-8")
 
+class RateLimitError(Exception):
+    """Raised khi Gemini API trả về lỗi rate limit (429/RPD exhausted)."""
+    pass
+
+def embed_with_failover(image_bytes: bytes, embedding_svc: GeminiEmbeddingService) -> list:
+    """
+    Gọi embed_image. Nếu lỗi chứa '429' hoặc 'RESOURCE_EXHAUSTED' → raise RateLimitError
+    để caller biết cần đổi key.
+    Trả về None nếu lỗi khác (ảnh hỏng, response rỗng) — caller sẽ skip card đó.
+    """
+    try:
+        vector = embedding_svc.embed_image(image_bytes)
+        return vector  # Có thể là list hoặc None (lỗi không phải rate limit)
+    except Exception as e:
+        err_msg = str(e).lower()
+        if '429' in err_msg or 'resource_exhausted' in err_msg or 'quota' in err_msg:
+            raise RateLimitError(f"Rate limit detected: {e}")
+        raise  # Lỗi khác (network, etc.) → raise bình thường
+
 def migrate_store(
     store_id: str, 
     qdrant_svc: QdrantSearchService, 
     embedding_svc: GeminiEmbeddingService,
+    existing_ids: set,
     dry_run: bool = False,
     session_limit: int = 950,
     current_count: int = 0
 ) -> int:
     """
-    Migrate toàn bộ cards của một store vào Qdrant
-    Trả về current_count mới sau khi migrate
+    Migrate toàn bộ cards của một store vào Qdrant.
+    Raise RateLimitError khi key hiện tại bị rate limit → caller đổi key.
+    Trả về current_count mới sau khi migrate.
     """
     logger.info(f"Đang xử lý store: {store_id}")
     
@@ -64,7 +112,7 @@ def migrate_store(
     all_json_files = find_json_files(DATA_DIR, filter_name=store_id)
     if not all_json_files:
         logger.warning(f"Không tìm thấy file JSON nào cho store {store_id}")
-        return
+        return current_count
 
     # Dùng cùng hàm load_cards_from_json đã có sẵn — đảm bảo card_id nhất quán
     all_cards = []
@@ -110,33 +158,23 @@ def migrate_store(
         global_id = f"{store_id}:{card_id}"
         point_id = generate_point_id(global_id)
         
-        # Kiểm tra xem point đã tồn tại chưa để tiết kiệm RPD khi resume
-        if not dry_run:
-            try:
-                existing = qdrant_svc.client.retrieve(
-                    collection_name=qdrant_svc.collection_name, 
-                    ids=[point_id]
-                )
-                if existing:
-                    logger.info(f"Bỏ qua card {global_id} vì đã tồn tại trên Qdrant.")
-                    skipped += 1
-                    continue
-            except Exception as e:
-                pass # Bỏ qua lỗi retrieve
+        # Kiểm tra nhanh bằng set đã pre-fetch (không cần gọi API từng cái)
+        if point_id in existing_ids:
+            skipped += 1
+            continue
         
         try:
             with open(image_path, "rb") as f:
                 image_bytes = f.read()
                 
             if dry_run:
-                # Mock embedding for dry run
-                vector = [0.0] * embedding_svc.VECTOR_DIM
+                vector = [0.0] * GeminiEmbeddingService.VECTOR_DIM
             else:
-                vector = embedding_svc.embed_image(image_bytes)
-                time.sleep(1) # Pacing to avoid hitting 100 RPM limit
+                vector = embed_with_failover(image_bytes, embedding_svc)
+                time.sleep(1)  # Pacing to avoid hitting 100 RPM limit
                 
             if not vector:
-                logger.error(f"Lỗi embed ảnh {image_path}. Bỏ qua.")
+                logger.warning(f"Không embed được card {card_id} (ảnh lỗi?). Bỏ qua.")
                 skipped += 1
                 continue
             
@@ -154,7 +192,15 @@ def migrate_store(
             }
             
             points_to_upsert.append((point_id, vector, payload))
+            existing_ids.add(point_id)  # Đánh dấu đã xử lý để không retry
             current_count += 1
+            
+        except RateLimitError:
+            # Flush batch đã có trước khi raise
+            if points_to_upsert and not dry_run:
+                qdrant_svc.upsert_batch(points_to_upsert, batch_size=50)
+                points_to_upsert.clear()
+            raise  # Để caller đổi key
             
         except Exception as e:
             logger.error(f"Lỗi khi xử lý card {card_id}: {e}")
@@ -181,17 +227,18 @@ def main():
     parser.add_argument("--store", type=str, help="Chỉ migrate một store_id cụ thể")
     parser.add_argument("--dry-run", action="store_true", help="Chỉ kiểm tra, không upsert thực sự")
     parser.add_argument("--rebuild", action="store_true", help="Xóa collection cũ trước khi migrate")
-    parser.add_argument("--session-limit", type=int, default=950, help="Giới hạn số thẻ migrate mỗi session (default 950 để tránh hit RPD limit)")
+    parser.add_argument("--session-limit", type=int, default=1000, help="Giới hạn số thẻ migrate mỗi key (default 1000 = RPD limit Gemini Embedding 2)")
     args = parser.parse_args()
+
+    # Kiểm tra có migration keys không
+    if not GEMINI_MIGRATION_KEYS:
+        logger.error("Không có GEMINI_API_KEY_MIGRATION nào được cấu hình.")
+        return
+    logger.info(f"Có {len(GEMINI_MIGRATION_KEYS)} migration key(s) khả dụng.")
 
     qdrant_svc = QdrantSearchService()
     if not qdrant_svc.client:
         logger.error("Không thể kết nối Qdrant. Vui lòng kiểm tra .env")
-        return
-        
-    embedding_svc = GeminiEmbeddingService(api_key=GEMINI_API_KEY_MIGRATION)
-    if not embedding_svc.client:
-        logger.error("Không thể kết nối Gemini API. Vui lòng kiểm tra GEMINI_API_KEY hoặc GEMINI_API_KEY_MIGRATION")
         return
         
     if args.rebuild and not args.dry_run:
@@ -204,31 +251,74 @@ def main():
         logger.error("Không có store nào để xử lý.")
         return
         
-    current_count = 0
-    for store_id in store_ids:
-        current_count = migrate_store(
-            store_id, 
-            qdrant_svc, 
-            embedding_svc, 
-            dry_run=args.dry_run, 
-            session_limit=args.session_limit,
-            current_count=current_count
-        )
-        if current_count >= args.session_limit:
-            logger.warning(f"Đã đạt session_limit ({args.session_limit}). Dừng migrate để tránh Rate Limit.")
-            
-            # Tính 28h sau từ bây giờ
-            next_run = datetime.datetime.now() + datetime.timedelta(hours=28)
-            next_run_str = next_run.strftime('%Y-%m-%d %H:%M:%S')
-            
-            logger.info("============== RATE LIMIT NOTICE ==============")
-            logger.info(f"Đã sử dụng ~{current_count} Gemini requests hôm nay.")
-            logger.info("Giới hạn miễn phí là 1,000 RPD (Requests Per Day).")
-            logger.info(f"Vui lòng đợi 28 giờ để RPD reset hoàn toàn.")
-            logger.info(f"Thời điểm an toàn để chạy lại: {next_run_str}")
-            logger.info("==============================================")
-            break
+    # Pre-fetch toàn bộ IDs đã tồn tại trên Qdrant (1 lần duy nhất)
+    existing_ids = set() if args.dry_run else fetch_existing_ids(qdrant_svc)
+    
+    # ═══ Multi-key failover: chỉ dùng 1 key/ngày, đổi key khi bị rate limit ═══
+    # Mục đích: Key 1 dùng hôm nay → Key 2 để dành cho ngày mai (khi Key 1 chưa reset)
+    # Chỉ failover sang Key 2 nếu Key 1 bị rate limit NGAY TỪ ĐẦU
+    total_embedded = 0
+    store_list = list(store_ids)
+    
+    for key_index, api_key in enumerate(GEMINI_MIGRATION_KEYS):
+        key_label = f"Key #{key_index + 1}/{len(GEMINI_MIGRATION_KEYS)}"
+        logger.info(f"\n{'='*50}")
+        logger.info(f"🔑 Thử {key_label} (***{api_key[-6:]})")
+        logger.info(f"{'='*50}")
         
+        embedding_svc = GeminiEmbeddingService(api_key=api_key)
+        if not embedding_svc.client:
+            logger.warning(f"{key_label} không hợp lệ. Thử key tiếp theo...")
+            continue
+        
+        key_count = 0
+        key_rate_limited = False
+        all_stores_done = True
+        
+        for store_id in store_list:
+            try:
+                key_count = migrate_store(
+                    store_id, 
+                    qdrant_svc, 
+                    embedding_svc,
+                    existing_ids=existing_ids,
+                    dry_run=args.dry_run, 
+                    session_limit=args.session_limit,
+                    current_count=key_count
+                )
+                if key_count >= args.session_limit:
+                    logger.info(f"⏸️  {key_label} đã đạt session limit ({key_count} thẻ). Dừng phiên.")
+                    all_stores_done = False
+                    break
+                    
+            except RateLimitError as e:
+                logger.warning(f"⚠️  {key_label} bị rate limit: {e}")
+                key_rate_limited = True
+                all_stores_done = False
+                break
+        
+        total_embedded += key_count
+        
+        if key_rate_limited and key_count == 0:
+            # Key này bị limit ngay từ đầu → thử key tiếp theo
+            logger.info(f"↪️  {key_label} chưa reset. Chuyển sang key tiếp...")
+            continue
+        else:
+            # Key này đã hoạt động (dù đạt limit hoặc xong hết) → DỪNG, không dùng key tiếp
+            if all_stores_done:
+                logger.info(f"✅ Đã xử lý xong tất cả stores với {key_label}.")
+            else:
+                logger.info(f"💾 {key_label} đã embed {key_count} thẻ. Để dành key còn lại cho ngày mai.")
+            break
+    
+    # ═══ Report ═══
+    if total_embedded == 0:
+        logger.info("Không có thẻ mới nào cần embed. Tất cả đã tồn tại trên Qdrant.")
+    else:
+        logger.info(f"\n{'='*50}")
+        logger.info(f"📊 Tổng kết: Đã embed {total_embedded} thẻ mới trong phiên này.")
+        logger.info(f"{'='*50}")
+    
     if not args.dry_run:
         info = qdrant_svc.get_collection_info()
         if info:

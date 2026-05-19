@@ -485,10 +485,19 @@
       "name": "Oddish",
       "_list_data": {
         "card_id": "me2-1",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-1/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gloom #2 - Phantasmal Flames | Pokémon | Scrydex",
@@ -761,9 +770,10 @@
       "_list_data": {
         "card_id": "me2-2",
         "list_price": "$0.07",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-2/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Vileplume #3 - Phantasmal Flames | Pokémon | Scrydex",
@@ -1131,10 +1141,19 @@
       "name": "Vileplume",
       "_list_data": {
         "card_id": "me2-3",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-3/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Heracross ex #4 - Phantasmal Flames | Pokémon | Scrydex",
@@ -1966,10 +1985,19 @@
       "name": "Mega Heracross ex",
       "_list_data": {
         "card_id": "me2-4",
-        "list_price": "$0.54",
+        "list_price": "$0.53",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-4/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.53",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lotad #5 - Phantasmal Flames | Pokémon | Scrydex",
@@ -2255,9 +2283,10 @@
       "_list_data": {
         "card_id": "me2-5",
         "list_price": "$0.10",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-5/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lombre #6 - Phantasmal Flames | Pokémon | Scrydex",
@@ -2472,10 +2501,19 @@
       "name": "Lombre",
       "_list_data": {
         "card_id": "me2-6",
-        "list_price": "$0.08",
-        "price_trend": "none",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-6/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ludicolo #7 - Phantasmal Flames | Pokémon | Scrydex",
@@ -2771,10 +2809,19 @@
       "name": "Ludicolo",
       "_list_data": {
         "card_id": "me2-7",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-7/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Genesect #8 - Phantasmal Flames | Pokémon | Scrydex",
@@ -3203,10 +3250,19 @@
       "name": "Genesect",
       "_list_data": {
         "card_id": "me2-8",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.16",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-8/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Nymble #9 - Phantasmal Flames | Pokémon | Scrydex",
@@ -3564,10 +3620,19 @@
       "name": "Nymble",
       "_list_data": {
         "card_id": "me2-9",
-        "list_price": "$0.15",
-        "price_trend": "up",
+        "list_price": "$0.13",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-9/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lokix #10 - Phantasmal Flames | Pokémon | Scrydex",
@@ -3791,10 +3856,19 @@
       "name": "Lokix",
       "_list_data": {
         "card_id": "me2-10",
-        "list_price": "$0.05",
-        "price_trend": "none",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-10/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Charmander #11 - Phantasmal Flames | Pokémon | Scrydex",
@@ -4537,10 +4611,19 @@
       "name": "Charmander",
       "_list_data": {
         "card_id": "me2-11",
-        "list_price": "$0.18",
+        "list_price": "$0.17",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-11/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Charmeleon #12 - Phantasmal Flames | Pokémon | Scrydex",
@@ -5075,10 +5158,19 @@
       "name": "Charmeleon",
       "_list_data": {
         "card_id": "me2-12",
-        "list_price": "$0.15",
+        "list_price": "$0.14",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-12/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Charizard X ex #13 - Phantasmal Flames | Pokémon | Scrydex",
@@ -6235,10 +6327,19 @@
       "name": "Mega Charizard X ex",
       "_list_data": {
         "card_id": "me2-13",
-        "list_price": "$5.15",
-        "price_trend": "up",
+        "list_price": "$4.58",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-13/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.58",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Moltres #14 - Phantasmal Flames | Pokémon | Scrydex",
@@ -6941,10 +7042,19 @@
       "name": "Moltres",
       "_list_data": {
         "card_id": "me2-14",
-        "list_price": "$6.17",
+        "list_price": "$5.37",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-14/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.37",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Darumaka #15 - Phantasmal Flames | Pokémon | Scrydex",
@@ -7162,9 +7272,10 @@
       "_list_data": {
         "card_id": "me2-15",
         "list_price": "$0.09",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-15/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Darmanitan #16 - Phantasmal Flames | Pokémon | Scrydex",
@@ -7376,9 +7487,10 @@
       "_list_data": {
         "card_id": "me2-16",
         "list_price": "$0.04",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-16/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Reshiram #17 - Phantasmal Flames | Pokémon | Scrydex",
@@ -8047,10 +8159,19 @@
       "name": "Reshiram",
       "_list_data": {
         "card_id": "me2-17",
-        "list_price": "$0.11",
-        "price_trend": "none",
+        "list_price": "$0.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-17/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Oricorio ex #18 - Phantasmal Flames | Pokémon | Scrydex",
@@ -8822,10 +8943,19 @@
       "name": "Oricorio ex",
       "_list_data": {
         "card_id": "me2-18",
-        "list_price": "$0.57",
-        "price_trend": "down",
+        "list_price": "$0.60",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-18/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.60",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Charcadet #19 - Phantasmal Flames | Pokémon | Scrydex",
@@ -9188,10 +9318,19 @@
       "name": "Charcadet",
       "_list_data": {
         "card_id": "me2-19",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-19/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ceruledge #20 - Phantasmal Flames | Pokémon | Scrydex",
@@ -9398,10 +9537,19 @@
       "name": "Ceruledge",
       "_list_data": {
         "card_id": "me2-20",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-20/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Seel #21 - Phantasmal Flames | Pokémon | Scrydex",
@@ -9617,10 +9765,19 @@
       "name": "Seel",
       "_list_data": {
         "card_id": "me2-21",
-        "list_price": "$0.11",
-        "price_trend": "up",
+        "list_price": "$0.06",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-21/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dewgong #22 - Phantasmal Flames | Pokémon | Scrydex",
@@ -9904,10 +10061,19 @@
       "name": "Dewgong",
       "_list_data": {
         "card_id": "me2-22",
-        "list_price": "$0.04",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-22/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Swinub #23 - Phantasmal Flames | Pokémon | Scrydex",
@@ -10131,10 +10297,19 @@
       "name": "Swinub",
       "_list_data": {
         "card_id": "me2-23",
-        "list_price": "$0.08",
+        "list_price": "$0.06",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-23/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Piloswine #24 - Phantasmal Flames | Pokémon | Scrydex",
@@ -10419,10 +10594,19 @@
       "name": "Piloswine",
       "_list_data": {
         "card_id": "me2-24",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-24/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mamoswine #25 - Phantasmal Flames | Pokémon | Scrydex",
@@ -10653,9 +10837,10 @@
       "_list_data": {
         "card_id": "me2-25",
         "list_price": "$0.05",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-25/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Suicune #26 - Phantasmal Flames | Pokémon | Scrydex",
@@ -11565,10 +11750,19 @@
       "name": "Suicune",
       "_list_data": {
         "card_id": "me2-26",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.18",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-26/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Piplup #27 - Phantasmal Flames | Pokémon | Scrydex",
@@ -12065,10 +12259,19 @@
       "name": "Piplup",
       "_list_data": {
         "card_id": "me2-27",
-        "list_price": "$0.17",
-        "price_trend": "none",
+        "list_price": "$0.25",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-27/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Prinplup #28 - Phantasmal Flames | Pokémon | Scrydex",
@@ -12367,10 +12570,19 @@
       "name": "Prinplup",
       "_list_data": {
         "card_id": "me2-28",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-28/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rotom ex #29 - Phantasmal Flames | Pokémon | Scrydex",
@@ -13002,10 +13214,19 @@
       "name": "Rotom ex",
       "_list_data": {
         "card_id": "me2-29",
-        "list_price": "$0.60",
-        "price_trend": "up",
+        "list_price": "$0.43",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-29/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.43",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yamper #30 - Phantasmal Flames | Pokémon | Scrydex",
@@ -13220,10 +13441,19 @@
       "name": "Yamper",
       "_list_data": {
         "card_id": "me2-30",
-        "list_price": "$0.09",
-        "price_trend": "down",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-30/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Boltund #31 - Phantasmal Flames | Pokémon | Scrydex",
@@ -13500,10 +13730,19 @@
       "name": "Boltund",
       "_list_data": {
         "card_id": "me2-31",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.06",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-31/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pawmi #32 - Phantasmal Flames | Pokémon | Scrydex",
@@ -13783,10 +14022,19 @@
       "name": "Pawmi",
       "_list_data": {
         "card_id": "me2-32",
-        "list_price": "$0.08",
-        "price_trend": "up",
+        "list_price": "$0.07",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-32/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pawmo #33 - Phantasmal Flames | Pokémon | Scrydex",
@@ -14001,10 +14249,19 @@
       "name": "Pawmo",
       "_list_data": {
         "card_id": "me2-33",
-        "list_price": "$0.05",
-        "price_trend": "none",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-33/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pawmot #34 - Phantasmal Flames | Pokémon | Scrydex",
@@ -14354,10 +14611,19 @@
       "name": "Pawmot",
       "_list_data": {
         "card_id": "me2-34",
-        "list_price": "$0.12",
+        "list_price": "$0.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-34/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Misdreavus #35 - Phantasmal Flames | Pokémon | Scrydex",
@@ -14563,10 +14829,19 @@
       "name": "Misdreavus",
       "_list_data": {
         "card_id": "me2-35",
-        "list_price": "$0.08",
-        "price_trend": "none",
+        "list_price": "$0.16",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-35/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mismagius ex #36 - Phantasmal Flames | Pokémon | Scrydex",
@@ -15068,10 +15343,19 @@
       "name": "Mismagius ex",
       "_list_data": {
         "card_id": "me2-36",
-        "list_price": "$0.51",
-        "price_trend": "down",
+        "list_price": "$0.57",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-36/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.57",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snubbull #37 - Phantasmal Flames | Pokémon | Scrydex",
@@ -15286,10 +15570,19 @@
       "name": "Snubbull",
       "_list_data": {
         "card_id": "me2-37",
-        "list_price": "$0.07",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-37/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Granbull #38 - Phantasmal Flames | Pokémon | Scrydex",
@@ -15507,10 +15800,19 @@
       "name": "Granbull",
       "_list_data": {
         "card_id": "me2-38",
-        "list_price": "$0.07",
-        "price_trend": "none",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-38/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cresselia #39 - Phantasmal Flames | Pokémon | Scrydex",
@@ -15792,10 +16094,19 @@
       "name": "Cresselia",
       "_list_data": {
         "card_id": "me2-39",
-        "list_price": "$0.11",
-        "price_trend": "up",
+        "list_price": "$0.09",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-39/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meloetta #40 - Phantasmal Flames | Pokémon | Scrydex",
@@ -16018,10 +16329,19 @@
       "name": "Meloetta",
       "_list_data": {
         "card_id": "me2-40",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-40/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Diancie ex #41 - Phantasmal Flames | Pokémon | Scrydex",
@@ -16722,10 +17042,19 @@
       "name": "Mega Diancie ex",
       "_list_data": {
         "card_id": "me2-41",
-        "list_price": "$0.57",
-        "price_trend": "down",
+        "list_price": "$0.61",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-41/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.61",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mimikyu #42 - Phantasmal Flames | Pokémon | Scrydex",
@@ -17161,10 +17490,19 @@
       "name": "Mimikyu",
       "_list_data": {
         "card_id": "me2-42",
-        "list_price": "$0.22",
-        "price_trend": "up",
+        "list_price": "$0.20",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-42/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Milcery #43 - Phantasmal Flames | Pokémon | Scrydex",
@@ -17375,9 +17713,10 @@
       "_list_data": {
         "card_id": "me2-43",
         "list_price": "$0.07",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-43/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Alcremie #44 - Phantasmal Flames | Pokémon | Scrydex",
@@ -17654,9 +17993,10 @@
       "_list_data": {
         "card_id": "me2-44",
         "list_price": "$0.12",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-44/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Zacian #45 - Phantasmal Flames | Pokémon | Scrydex",
@@ -18076,10 +18416,19 @@
       "name": "Zacian",
       "_list_data": {
         "card_id": "me2-45",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-45/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bramblin #46 - Phantasmal Flames | Pokémon | Scrydex",
@@ -18285,10 +18634,19 @@
       "name": "Bramblin",
       "_list_data": {
         "card_id": "me2-46",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-46/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Brambleghast #47 - Phantasmal Flames | Pokémon | Scrydex",
@@ -18515,10 +18873,19 @@
       "name": "Brambleghast",
       "_list_data": {
         "card_id": "me2-47",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-47/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Paldean Tauros #48 - Phantasmal Flames | Pokémon | Scrydex",
@@ -18885,7 +19252,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-48/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gligar #49 - Phantasmal Flames | Pokémon | Scrydex",
@@ -19091,10 +19459,19 @@
       "name": "Gligar",
       "_list_data": {
         "card_id": "me2-49",
-        "list_price": "$0.06",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-49/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gliscor #50 - Phantasmal Flames | Pokémon | Scrydex",
@@ -19300,10 +19677,19 @@
       "name": "Gliscor",
       "_list_data": {
         "card_id": "me2-50",
-        "list_price": "$0.09",
-        "price_trend": "down",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-50/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Trapinch #51 - Phantasmal Flames | Pokémon | Scrydex",
@@ -19517,10 +19903,19 @@
       "name": "Trapinch",
       "_list_data": {
         "card_id": "me2-51",
-        "list_price": "$0.09",
-        "price_trend": "up",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-51/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Vibrava #52 - Phantasmal Flames | Pokémon | Scrydex",
@@ -19735,10 +20130,19 @@
       "name": "Vibrava",
       "_list_data": {
         "card_id": "me2-52",
-        "list_price": "$0.09",
-        "price_trend": "none",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-52/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Flygon #53 - Phantasmal Flames | Pokémon | Scrydex",
@@ -20177,10 +20581,19 @@
       "name": "Flygon",
       "_list_data": {
         "card_id": "me2-53",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-53/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gastly #54 - Phantasmal Flames | Pokémon | Scrydex",
@@ -20386,10 +20799,19 @@
       "name": "Gastly",
       "_list_data": {
         "card_id": "me2-54",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.18",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-54/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Haunter #55 - Phantasmal Flames | Pokémon | Scrydex",
@@ -20665,10 +21087,19 @@
       "name": "Haunter",
       "_list_data": {
         "card_id": "me2-55",
-        "list_price": "$0.11",
+        "list_price": "$0.15",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-55/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gengar ex #56 - Phantasmal Flames | Pokémon | Scrydex",
@@ -22203,10 +22634,19 @@
       "name": "Mega Gengar ex",
       "_list_data": {
         "card_id": "me2-56",
-        "list_price": "$2.74",
+        "list_price": "$3.25",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-56/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.25",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Murkrow #57 - Phantasmal Flames | Pokémon | Scrydex",
@@ -22490,10 +22930,19 @@
       "name": "Murkrow",
       "_list_data": {
         "card_id": "me2-57",
-        "list_price": "$0.07",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-57/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Honchkrow #58 - Phantasmal Flames | Pokémon | Scrydex",
@@ -22778,7 +23227,8 @@
         "list_price": "$0.05",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-58/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sableye #59 - Phantasmal Flames | Pokémon | Scrydex",
@@ -23066,10 +23516,19 @@
       "name": "Sableye",
       "_list_data": {
         "card_id": "me2-59",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-59/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Carvanha #60 - Phantasmal Flames | Pokémon | Scrydex",
@@ -23341,10 +23800,19 @@
       "name": "Carvanha",
       "_list_data": {
         "card_id": "me2-60",
-        "list_price": "$0.20",
-        "price_trend": "up",
+        "list_price": "$0.17",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-60/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Sharpedo ex #61 - Phantasmal Flames | Pokémon | Scrydex",
@@ -24240,10 +24708,19 @@
       "name": "Mega Sharpedo ex",
       "_list_data": {
         "card_id": "me2-61",
-        "list_price": "$0.70",
-        "price_trend": "up",
+        "list_price": "$0.60",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-61/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.60",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Seviper #62 - Phantasmal Flames | Pokémon | Scrydex",
@@ -24469,10 +24946,19 @@
       "name": "Seviper",
       "_list_data": {
         "card_id": "me2-62",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-62/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Absol #63 - Phantasmal Flames | Pokémon | Scrydex",
@@ -24753,10 +25239,19 @@
       "name": "Absol",
       "_list_data": {
         "card_id": "me2-63",
-        "list_price": "$0.10",
+        "list_price": "$0.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-63/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sandile #64 - Phantasmal Flames | Pokémon | Scrydex",
@@ -25054,10 +25549,19 @@
       "name": "Sandile",
       "_list_data": {
         "card_id": "me2-64",
-        "list_price": "$0.04",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-64/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Krokorok #65 - Phantasmal Flames | Pokémon | Scrydex",
@@ -25274,10 +25778,19 @@
       "name": "Krokorok",
       "_list_data": {
         "card_id": "me2-65",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-65/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Krookodile #66 - Phantasmal Flames | Pokémon | Scrydex",
@@ -25496,10 +26009,19 @@
       "name": "Krookodile",
       "_list_data": {
         "card_id": "me2-66",
-        "list_price": "$0.03",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-66/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Toxel #67 - Phantasmal Flames | Pokémon | Scrydex",
@@ -25792,10 +26314,19 @@
       "name": "Toxel",
       "_list_data": {
         "card_id": "me2-67",
-        "list_price": "$0.23",
-        "price_trend": "up",
+        "list_price": "$0.19",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-67/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Toxtricity #68 - Phantasmal Flames | Pokémon | Scrydex",
@@ -26238,9 +26769,10 @@
       "_list_data": {
         "card_id": "me2-68",
         "list_price": "$0.22",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-68/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Eternatus #69 - Phantasmal Flames | Pokémon | Scrydex",
@@ -26459,9 +26991,10 @@
       "_list_data": {
         "card_id": "me2-69",
         "list_price": "$0.10",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-69/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Empoleon ex #70 - Phantasmal Flames | Pokémon | Scrydex",
@@ -27099,10 +27632,19 @@
       "name": "Empoleon ex",
       "_list_data": {
         "card_id": "me2-70",
-        "list_price": "$0.54",
+        "list_price": "$0.53",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-70/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.53",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bronzor #71 - Phantasmal Flames | Pokémon | Scrydex",
@@ -27319,10 +27861,19 @@
       "name": "Bronzor",
       "_list_data": {
         "card_id": "me2-71",
-        "list_price": "$0.03",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-71/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bronzong #72 - Phantasmal Flames | Pokémon | Scrydex",
@@ -27544,10 +28095,19 @@
       "name": "Bronzong",
       "_list_data": {
         "card_id": "me2-72",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-72/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togedemaru #73 - Phantasmal Flames | Pokémon | Scrydex",
@@ -27913,10 +28473,19 @@
       "name": "Togedemaru",
       "_list_data": {
         "card_id": "me2-73",
-        "list_price": "$0.03",
+        "list_price": "$0.06",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-73/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Duraludon #74 - Phantasmal Flames | Pokémon | Scrydex",
@@ -28412,10 +28981,19 @@
       "name": "Duraludon",
       "_list_data": {
         "card_id": "me2-74",
-        "list_price": "$0.09",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-74/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Archaludon #75 - Phantasmal Flames | Pokémon | Scrydex",
@@ -28627,7 +29205,8 @@
         "list_price": "$0.08",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-75/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jigglypuff #76 - Phantasmal Flames | Pokémon | Scrydex",
@@ -28845,10 +29424,19 @@
       "name": "Jigglypuff",
       "_list_data": {
         "card_id": "me2-76",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.23",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-76/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.23",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Wigglytuff #77 - Phantasmal Flames | Pokémon | Scrydex",
@@ -29144,10 +29732,19 @@
       "name": "Wigglytuff",
       "_list_data": {
         "card_id": "me2-77",
-        "list_price": "$0.16",
-        "price_trend": "up",
+        "list_price": "$0.12",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-77/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aipom #78 - Phantasmal Flames | Pokémon | Scrydex",
@@ -29366,10 +29963,19 @@
       "name": "Aipom",
       "_list_data": {
         "card_id": "me2-78",
-        "list_price": "$0.10",
-        "price_trend": "none",
+        "list_price": "$0.09",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-78/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ambipom #79 - Phantasmal Flames | Pokémon | Scrydex",
@@ -29656,10 +30262,19 @@
       "name": "Ambipom",
       "_list_data": {
         "card_id": "me2-79",
-        "list_price": "$0.08",
+        "list_price": "$0.07",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-79/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Smeargle #80 - Phantasmal Flames | Pokémon | Scrydex",
@@ -29882,10 +30497,19 @@
       "name": "Smeargle",
       "_list_data": {
         "card_id": "me2-80",
-        "list_price": "$0.04",
-        "price_trend": "none",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-80/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Zigzagoon #81 - Phantasmal Flames | Pokémon | Scrydex",
@@ -30099,10 +30723,19 @@
       "name": "Zigzagoon",
       "_list_data": {
         "card_id": "me2-81",
-        "list_price": "$0.05",
-        "price_trend": "none",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-81/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Linoone #82 - Phantasmal Flames | Pokémon | Scrydex",
@@ -30326,10 +30959,19 @@
       "name": "Linoone",
       "_list_data": {
         "card_id": "me2-82",
-        "list_price": "$0.06",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-82/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Buneary #83 - Phantasmal Flames | Pokémon | Scrydex",
@@ -30552,10 +31194,19 @@
       "name": "Buneary",
       "_list_data": {
         "card_id": "me2-83",
-        "list_price": "$0.16",
+        "list_price": "$0.20",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-83/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Lopunny ex #84 - Phantasmal Flames | Pokémon | Scrydex",
@@ -31259,10 +31910,19 @@
       "name": "Mega Lopunny ex",
       "_list_data": {
         "card_id": "me2-84",
-        "list_price": "$0.74",
-        "price_trend": "up",
+        "list_price": "$0.69",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-84/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.69",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Battle Cage #85 - Phantasmal Flames | Pokémon | Scrydex",
@@ -31469,10 +32129,19 @@
       "name": "Battle Cage",
       "_list_data": {
         "card_id": "me2-85",
-        "list_price": "$0.18",
-        "price_trend": "down",
+        "list_price": "$0.23",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-85/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.23",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Blowtorch #86 - Phantasmal Flames | Pokémon | Scrydex",
@@ -31680,9 +32349,10 @@
       "_list_data": {
         "card_id": "me2-86",
         "list_price": "$0.10",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-86/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dawn #87 - Phantasmal Flames | Pokémon | Scrydex",
@@ -31968,9 +32638,10 @@
       "_list_data": {
         "card_id": "me2-87",
         "list_price": "$0.20",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-87/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dizzying Valley #88 - Phantasmal Flames | Pokémon | Scrydex",
@@ -32165,10 +32836,19 @@
       "name": "Dizzying Valley",
       "_list_data": {
         "card_id": "me2-88",
-        "list_price": "$0.08",
-        "price_trend": "up",
+        "list_price": "$0.06",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-88/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Firebreather #89 - Phantasmal Flames | Pokémon | Scrydex",
@@ -32367,10 +33047,19 @@
       "name": "Firebreather",
       "_list_data": {
         "card_id": "me2-89",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-89/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Grimsley's Move #90 - Phantasmal Flames | Pokémon | Scrydex",
@@ -32631,10 +33320,19 @@
       "name": "Grimsley's Move",
       "_list_data": {
         "card_id": "me2-90",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.17",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-90/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jumbo Ice Cream #91 - Phantasmal Flames | Pokémon | Scrydex",
@@ -32837,10 +33535,19 @@
       "name": "Jumbo Ice Cream",
       "_list_data": {
         "card_id": "me2-91",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.18",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-91/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Punk Helmet #92 - Phantasmal Flames | Pokémon | Scrydex",
@@ -33051,10 +33758,19 @@
       "name": "Punk Helmet",
       "_list_data": {
         "card_id": "me2-92",
-        "list_price": "$0.08",
-        "price_trend": "none",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-92/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sacred Charm #93 - Phantasmal Flames | Pokémon | Scrydex",
@@ -33261,10 +33977,19 @@
       "name": "Sacred Charm",
       "_list_data": {
         "card_id": "me2-93",
-        "list_price": "$0.07",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-93/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Wondrous Patch #94 - Phantasmal Flames | Pokémon | Scrydex",
@@ -33472,9 +34197,10 @@
       "_list_data": {
         "card_id": "me2-94",
         "list_price": "$0.22",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-94/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ludicolo #95 - Phantasmal Flames | Pokémon | Scrydex",
@@ -34498,10 +35224,19 @@
       "name": "Ludicolo",
       "_list_data": {
         "card_id": "me2-95",
-        "list_price": "$2.52",
+        "list_price": "$2.66",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-95/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.66",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Nymble #96 - Phantasmal Flames | Pokémon | Scrydex",
@@ -35457,10 +36192,19 @@
       "name": "Nymble",
       "_list_data": {
         "card_id": "me2-96",
-        "list_price": "$1.39",
-        "price_trend": "down",
+        "list_price": "$1.63",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-96/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.63",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dewgong #97 - Phantasmal Flames | Pokémon | Scrydex",
@@ -36558,10 +37302,19 @@
       "name": "Dewgong",
       "_list_data": {
         "card_id": "me2-97",
-        "list_price": "$4.74",
+        "list_price": "$5.33",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-97/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.33",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Piplup #98 - Phantasmal Flames | Pokémon | Scrydex",
@@ -37726,10 +38479,19 @@
       "name": "Piplup",
       "_list_data": {
         "card_id": "me2-98",
-        "list_price": "$20.63",
-        "price_trend": "up",
+        "list_price": "$19.83",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-98/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$19.83",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yamper #99 - Phantasmal Flames | Pokémon | Scrydex",
@@ -38616,10 +39378,19 @@
       "name": "Yamper",
       "_list_data": {
         "card_id": "me2-99",
-        "list_price": "$2.91",
+        "list_price": "$2.98",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-99/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.98",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Zacian #100 - Phantasmal Flames | Pokémon | Scrydex",
@@ -39642,10 +40413,19 @@
       "name": "Zacian",
       "_list_data": {
         "card_id": "me2-100",
-        "list_price": "$3.96",
-        "price_trend": "up",
+        "list_price": "$3.92",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-100/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.92",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Flygon #101 - Phantasmal Flames | Pokémon | Scrydex",
@@ -40807,10 +41587,19 @@
       "name": "Flygon",
       "_list_data": {
         "card_id": "me2-101",
-        "list_price": "$4.33",
+        "list_price": "$4.76",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-101/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.76",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Paldean Wooper #102 - Phantasmal Flames | Pokémon | Scrydex",
@@ -41775,10 +42564,19 @@
       "name": "Paldean Wooper",
       "_list_data": {
         "card_id": "me2-102",
-        "list_price": "$3.87",
+        "list_price": "$3.76",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-102/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.76",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Toxtricity #103 - Phantasmal Flames | Pokémon | Scrydex",
@@ -42742,10 +43540,19 @@
       "name": "Toxtricity",
       "_list_data": {
         "card_id": "me2-103",
-        "list_price": "$1.77",
-        "price_trend": "down",
+        "list_price": "$1.95",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-103/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.95",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togedemaru #104 - Phantasmal Flames | Pokémon | Scrydex",
@@ -43635,10 +44442,19 @@
       "name": "Togedemaru",
       "_list_data": {
         "card_id": "me2-104",
-        "list_price": "$2.29",
+        "list_price": "$2.68",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-104/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.68",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Wigglytuff #105 - Phantasmal Flames | Pokémon | Scrydex",
@@ -44806,10 +45622,19 @@
       "name": "Wigglytuff",
       "_list_data": {
         "card_id": "me2-105",
-        "list_price": "$6.45",
+        "list_price": "$6.65",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-105/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.65",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowth #106 - Phantasmal Flames | Pokémon | Scrydex",
@@ -46207,10 +47032,19 @@
       "name": "Meowth",
       "_list_data": {
         "card_id": "me2-106",
-        "list_price": "$23.37",
-        "price_trend": "up",
+        "list_price": "$23.19",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-106/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$23.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ambipom #107 - Phantasmal Flames | Pokémon | Scrydex",
@@ -47307,10 +48141,19 @@
       "name": "Ambipom",
       "_list_data": {
         "card_id": "me2-107",
-        "list_price": "$2.18",
-        "price_trend": "up",
+        "list_price": "$2.10",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-107/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Heracross ex #108 - Phantasmal Flames | Pokémon | Scrydex",
@@ -48277,10 +49120,19 @@
       "name": "Mega Heracross ex",
       "_list_data": {
         "card_id": "me2-108",
-        "list_price": "$2.30",
-        "price_trend": "up",
+        "list_price": "$2.13",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-108/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.13",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Charizard X ex #109 - Phantasmal Flames | Pokémon | Scrydex",
@@ -49561,10 +50413,19 @@
       "name": "Mega Charizard X ex",
       "_list_data": {
         "card_id": "me2-109",
-        "list_price": "$35.17",
+        "list_price": "$38.53",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-109/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$38.53",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Oricorio ex #110 - Phantasmal Flames | Pokémon | Scrydex",
@@ -50397,10 +51258,19 @@
       "name": "Oricorio ex",
       "_list_data": {
         "card_id": "me2-110",
-        "list_price": "$1.60",
+        "list_price": "$1.41",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-110/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.41",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rotom ex #111 - Phantasmal Flames | Pokémon | Scrydex",
@@ -51036,10 +51906,19 @@
       "name": "Rotom ex",
       "_list_data": {
         "card_id": "me2-111",
-        "list_price": "$1.56",
-        "price_trend": "up",
+        "list_price": "$1.14",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-111/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mismagius ex #112 - Phantasmal Flames | Pokémon | Scrydex",
@@ -51736,10 +52615,19 @@
       "name": "Mismagius ex",
       "_list_data": {
         "card_id": "me2-112",
-        "list_price": "$1.57",
-        "price_trend": "up",
+        "list_price": "$1.47",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-112/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.47",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Sharpedo ex #113 - Phantasmal Flames | Pokémon | Scrydex",
@@ -52905,10 +53793,19 @@
       "name": "Mega Sharpedo ex",
       "_list_data": {
         "card_id": "me2-113",
-        "list_price": "$2.30",
-        "price_trend": "down",
+        "list_price": "$2.52",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-113/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.52",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Empoleon ex #114 - Phantasmal Flames | Pokémon | Scrydex",
@@ -53698,10 +54595,19 @@
       "name": "Empoleon ex",
       "_list_data": {
         "card_id": "me2-114",
-        "list_price": "$2.12",
+        "list_price": "$1.69",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-114/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.69",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Lopunny ex #115 - Phantasmal Flames | Pokémon | Scrydex",
@@ -54665,10 +55571,19 @@
       "name": "Mega Lopunny ex",
       "_list_data": {
         "card_id": "me2-115",
-        "list_price": "$2.95",
+        "list_price": "$2.99",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-115/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.99",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Battle Cage #116 - Phantasmal Flames | Pokémon | Scrydex",
@@ -55115,10 +56030,19 @@
       "name": "Battle Cage",
       "_list_data": {
         "card_id": "me2-116",
-        "list_price": "$2.29",
-        "price_trend": "up",
+        "list_price": "$2.26",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-116/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.26",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Blowtorch #117 - Phantasmal Flames | Pokémon | Scrydex",
@@ -55500,10 +56424,19 @@
       "name": "Blowtorch",
       "_list_data": {
         "card_id": "me2-117",
-        "list_price": "$0.82",
-        "price_trend": "up",
+        "list_price": "$0.78",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-117/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.78",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dawn #118 - Phantasmal Flames | Pokémon | Scrydex",
@@ -56644,10 +57577,19 @@
       "name": "Dawn",
       "_list_data": {
         "card_id": "me2-118",
-        "list_price": "$7.39",
+        "list_price": "$7.10",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-118/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Firebreather #119 - Phantasmal Flames | Pokémon | Scrydex",
@@ -57352,10 +58294,19 @@
       "name": "Firebreather",
       "_list_data": {
         "card_id": "me2-119",
-        "list_price": "$1.17",
-        "price_trend": "up",
+        "list_price": "$0.99",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-119/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.99",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Grimsley's Move #120 - Phantasmal Flames | Pokémon | Scrydex",
@@ -58100,10 +59051,19 @@
       "name": "Grimsley's Move",
       "_list_data": {
         "card_id": "me2-120",
-        "list_price": "$1.11",
+        "list_price": "$0.98",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-120/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.98",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Punk Helmet #121 - Phantasmal Flames | Pokémon | Scrydex",
@@ -58644,10 +59604,19 @@
       "name": "Punk Helmet",
       "_list_data": {
         "card_id": "me2-121",
-        "list_price": "$0.95",
-        "price_trend": "up",
+        "list_price": "$0.89",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-121/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.89",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sacred Charm #122 - Phantasmal Flames | Pokémon | Scrydex",
@@ -59258,9 +60227,10 @@
       "_list_data": {
         "card_id": "me2-122",
         "list_price": "$0.71",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2-122/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Switch #123 - Phantasmal Flames | Pokémon | Scrydex",
@@ -59899,10 +60869,19 @@
       "name": "Switch",
       "_list_data": {
         "card_id": "me2-123",
-        "list_price": "$1.76",
-        "price_trend": "up",
+        "list_price": "$1.37",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-123/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.37",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ignition Energy #124 - Phantasmal Flames | Pokémon | Scrydex",
@@ -60502,10 +61481,19 @@
       "name": "Ignition Energy",
       "_list_data": {
         "card_id": "me2-124",
-        "list_price": "$2.62",
-        "price_trend": "down",
+        "list_price": "$2.63",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-124/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.63",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Charizard X ex #125 - Phantasmal Flames | Pokémon | Scrydex",
@@ -61848,10 +62836,19 @@
       "name": "Mega Charizard X ex",
       "_list_data": {
         "card_id": "me2-125",
-        "list_price": "$769.14",
-        "price_trend": "down",
+        "list_price": "$839.02",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-125/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$839.02",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rotom ex #126 - Phantasmal Flames | Pokémon | Scrydex",
@@ -62822,10 +63819,19 @@
       "name": "Rotom ex",
       "_list_data": {
         "card_id": "me2-126",
-        "list_price": "$19.49",
-        "price_trend": "down",
+        "list_price": "$20.00",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-126/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$20.00",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Sharpedo ex #127 - Phantasmal Flames | Pokémon | Scrydex",
@@ -63862,10 +64868,19 @@
       "name": "Mega Sharpedo ex",
       "_list_data": {
         "card_id": "me2-127",
-        "list_price": "$25.23",
-        "price_trend": "up",
+        "list_price": "$24.71",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-127/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$24.71",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Lopunny ex #128 - Phantasmal Flames | Pokémon | Scrydex",
@@ -64900,10 +65915,19 @@
       "name": "Mega Lopunny ex",
       "_list_data": {
         "card_id": "me2-128",
-        "list_price": "$19.99",
+        "list_price": "$21.08",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2-128/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$21.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dawn #129 - Phantasmal Flames | Pokémon | Scrydex",
@@ -66106,10 +67130,19 @@
       "name": "Dawn",
       "_list_data": {
         "card_id": "me2-129",
-        "list_price": "$30.76",
+        "list_price": "$29.70",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-129/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$29.70",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Charizard X ex #130 - Phantasmal Flames | Pokémon | Scrydex",
@@ -67320,11 +68353,21 @@
       "name": "Mega Charizard X ex",
       "_list_data": {
         "card_id": "me2-130",
-        "list_price": "$370.04",
+        "list_price": "$348.12",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2-130/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$348.12",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     }
   ],
-  "errors": []
+  "errors": [],
+  "price_updated_at": "2026-05-18"
 }

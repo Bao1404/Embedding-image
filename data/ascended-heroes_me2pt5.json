@@ -290,10 +290,19 @@
       "name": "Erika's Oddish",
       "_list_data": {
         "card_id": "me2pt5-1",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-1/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Erika's Gloom #2 - Ascended Heroes | Pokémon | Scrydex",
@@ -583,10 +592,19 @@
       "name": "Erika's Gloom",
       "_list_data": {
         "card_id": "me2pt5-2",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-2/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Erika's Vileplume ex #3 - Ascended Heroes | Pokémon | Scrydex",
@@ -816,10 +834,19 @@
       "name": "Erika's Vileplume ex",
       "_list_data": {
         "card_id": "me2pt5-3",
-        "list_price": "$1.02",
-        "price_trend": "down",
+        "list_price": "$1.28",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-3/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Erika's Bellsprout #4 - Ascended Heroes | Pokémon | Scrydex",
@@ -1096,10 +1123,19 @@
       "name": "Erika's Bellsprout",
       "_list_data": {
         "card_id": "me2pt5-4",
-        "list_price": "$0.04",
-        "price_trend": "down",
+        "list_price": "$0.05",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-4/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Erika's Weepinbell #5 - Ascended Heroes | Pokémon | Scrydex",
@@ -1398,10 +1434,19 @@
       "name": "Erika's Weepinbell",
       "_list_data": {
         "card_id": "me2pt5-5",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-5/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Erika's Victreebel #6 - Ascended Heroes | Pokémon | Scrydex",
@@ -1691,10 +1736,19 @@
       "name": "Erika's Victreebel",
       "_list_data": {
         "card_id": "me2pt5-6",
-        "list_price": "$0.21",
+        "list_price": "$0.25",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-6/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Erika's Tangela #7 - Ascended Heroes | Pokémon | Scrydex",
@@ -2070,10 +2124,19 @@
       "name": "Erika's Tangela",
       "_list_data": {
         "card_id": "me2pt5-7",
-        "list_price": "$0.07",
-        "price_trend": "none",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-7/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Chikorita #8 - Ascended Heroes | Pokémon | Scrydex",
@@ -2581,10 +2644,19 @@
       "name": "Chikorita",
       "_list_data": {
         "card_id": "me2pt5-8",
-        "list_price": "$0.20",
-        "price_trend": "up",
+        "list_price": "$0.17",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-8/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bayleef #9 - Ascended Heroes | Pokémon | Scrydex",
@@ -2875,10 +2947,19 @@
       "name": "Bayleef",
       "_list_data": {
         "card_id": "me2pt5-9",
-        "list_price": "$0.21",
+        "list_price": "$0.19",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-9/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Meganium ex #10 - Ascended Heroes | Pokémon | Scrydex",
@@ -3168,10 +3249,19 @@
       "name": "Mega Meganium ex",
       "_list_data": {
         "card_id": "me2pt5-10",
-        "list_price": "$2.14",
+        "list_price": "$1.74",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-10/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.74",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Wurmple #11 - Ascended Heroes | Pokémon | Scrydex",
@@ -3460,10 +3550,19 @@
       "name": "Wurmple",
       "_list_data": {
         "card_id": "me2pt5-11",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-11/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Silcoon #12 - Ascended Heroes | Pokémon | Scrydex",
@@ -3764,10 +3863,19 @@
       "name": "Silcoon",
       "_list_data": {
         "card_id": "me2pt5-12",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-12/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Beautifly #13 - Ascended Heroes | Pokémon | Scrydex",
@@ -4052,10 +4160,19 @@
       "name": "Beautifly",
       "_list_data": {
         "card_id": "me2pt5-13",
-        "list_price": "$0.10",
+        "list_price": "$0.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-13/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cascoon #14 - Ascended Heroes | Pokémon | Scrydex",
@@ -4334,10 +4451,19 @@
       "name": "Cascoon",
       "_list_data": {
         "card_id": "me2pt5-14",
-        "list_price": "$0.07",
-        "price_trend": "none",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-14/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dustox #15 - Ascended Heroes | Pokémon | Scrydex",
@@ -4637,10 +4763,19 @@
       "name": "Dustox",
       "_list_data": {
         "card_id": "me2pt5-15",
-        "list_price": "$0.09",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-15/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Budew #16 - Ascended Heroes | Pokémon | Scrydex",
@@ -4928,10 +5063,19 @@
       "name": "Budew",
       "_list_data": {
         "card_id": "me2pt5-16",
-        "list_price": "$0.08",
-        "price_trend": "up",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-16/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Grubbin #17 - Ascended Heroes | Pokémon | Scrydex",
@@ -5222,10 +5366,19 @@
       "name": "Grubbin",
       "_list_data": {
         "card_id": "me2pt5-17",
-        "list_price": "$0.05",
+        "list_price": "$0.03",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-17/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.03",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Tarountula #18 - Ascended Heroes | Pokémon | Scrydex",
@@ -5518,10 +5671,19 @@
       "name": "Team Rocket's Tarountula",
       "_list_data": {
         "card_id": "me2pt5-18",
-        "list_price": "$0.09",
-        "price_trend": "up",
+        "list_price": "$0.06",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-18/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Spidops #19 - Ascended Heroes | Pokémon | Scrydex",
@@ -5822,10 +5984,19 @@
       "name": "Team Rocket's Spidops",
       "_list_data": {
         "card_id": "me2pt5-19",
-        "list_price": "$0.18",
-        "price_trend": "down",
+        "list_price": "$0.22",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-19/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Charmander #20 - Ascended Heroes | Pokémon | Scrydex",
@@ -6433,10 +6604,19 @@
       "name": "Charmander",
       "_list_data": {
         "card_id": "me2pt5-20",
-        "list_price": "$0.10",
+        "list_price": "$0.11",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-20/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Charmeleon #21 - Ascended Heroes | Pokémon | Scrydex",
@@ -6717,7 +6897,8 @@
         "list_price": "$0.07",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-21/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Charizard Y ex #22 - Ascended Heroes | Pokémon | Scrydex",
@@ -7409,10 +7590,19 @@
       "name": "Mega Charizard Y ex",
       "_list_data": {
         "card_id": "me2pt5-22",
-        "list_price": "$9.18",
+        "list_price": "$8.42",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-22/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$8.42",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Slugma #23 - Ascended Heroes | Pokémon | Scrydex",
@@ -7690,10 +7880,19 @@
       "name": "Ethan's Slugma",
       "_list_data": {
         "card_id": "me2pt5-23",
-        "list_price": "$0.08",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-23/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Magcargo #24 - Ascended Heroes | Pokémon | Scrydex",
@@ -7996,10 +8195,19 @@
       "name": "Ethan's Magcargo",
       "_list_data": {
         "card_id": "me2pt5-24",
-        "list_price": "$0.12",
-        "price_trend": "none",
+        "list_price": "$0.16",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-24/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Entei #25 - Ascended Heroes | Pokémon | Scrydex",
@@ -8279,10 +8487,19 @@
       "name": "Entei",
       "_list_data": {
         "card_id": "me2pt5-25",
-        "list_price": "$0.24",
-        "price_trend": "up",
+        "list_price": "$0.20",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-25/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Ho-Oh ex #26 - Ascended Heroes | Pokémon | Scrydex",
@@ -8439,10 +8656,19 @@
       "name": "Ethan's Ho-Oh ex",
       "_list_data": {
         "card_id": "me2pt5-26",
-        "list_price": "$0.68",
-        "price_trend": "up",
+        "list_price": "$0.66",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-26/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.66",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Numel #27 - Ascended Heroes | Pokémon | Scrydex",
@@ -8732,10 +8958,19 @@
       "name": "Numel",
       "_list_data": {
         "card_id": "me2pt5-27",
-        "list_price": "$0.13",
+        "list_price": "$0.12",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-27/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Camerupt #28 - Ascended Heroes | Pokémon | Scrydex",
@@ -9037,10 +9272,19 @@
       "name": "Camerupt",
       "_list_data": {
         "card_id": "me2pt5-28",
-        "list_price": "$0.04",
-        "price_trend": "none",
+        "list_price": "$0.06",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-28/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tepig #29 - Ascended Heroes | Pokémon | Scrydex",
@@ -9405,10 +9649,19 @@
       "name": "Tepig",
       "_list_data": {
         "card_id": "me2pt5-29",
-        "list_price": "$0.06",
+        "list_price": "$0.10",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-29/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pignite #30 - Ascended Heroes | Pokémon | Scrydex",
@@ -9689,10 +9942,19 @@
       "name": "Pignite",
       "_list_data": {
         "card_id": "me2pt5-30",
-        "list_price": "$0.12",
+        "list_price": "$0.14",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-30/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Emboar ex #31 - Ascended Heroes | Pokémon | Scrydex",
@@ -9919,9 +10181,10 @@
       "_list_data": {
         "card_id": "me2pt5-31",
         "list_price": "$1.03",
-        "price_trend": "up",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-31/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Darumaka #32 - Ascended Heroes | Pokémon | Scrydex",
@@ -10222,10 +10485,19 @@
       "name": "N's Darumaka",
       "_list_data": {
         "card_id": "me2pt5-32",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-32/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Darmanitan #33 - Ascended Heroes | Pokémon | Scrydex",
@@ -10528,9 +10800,10 @@
       "_list_data": {
         "card_id": "me2pt5-33",
         "list_price": "$0.05",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-33/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salandit #34 - Ascended Heroes | Pokémon | Scrydex",
@@ -10807,10 +11080,19 @@
       "name": "Salandit",
       "_list_data": {
         "card_id": "me2pt5-34",
-        "list_price": "$0.03",
-        "price_trend": "down",
+        "list_price": "$0.05",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-34/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salazzle #35 - Ascended Heroes | Pokémon | Scrydex",
@@ -11098,10 +11380,19 @@
       "name": "Salazzle",
       "_list_data": {
         "card_id": "me2pt5-35",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-35/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Scorbunny #36 - Ascended Heroes | Pokémon | Scrydex",
@@ -11378,10 +11669,19 @@
       "name": "Scorbunny",
       "_list_data": {
         "card_id": "me2pt5-36",
-        "list_price": "$0.10",
-        "price_trend": "up",
+        "list_price": "$0.04",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-36/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Raboot #37 - Ascended Heroes | Pokémon | Scrydex",
@@ -11680,10 +11980,19 @@
       "name": "Raboot",
       "_list_data": {
         "card_id": "me2pt5-37",
-        "list_price": "$0.08",
+        "list_price": "$0.06",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-37/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cinderace ex #38 - Ascended Heroes | Pokémon | Scrydex",
@@ -11843,10 +12152,19 @@
       "name": "Cinderace ex",
       "_list_data": {
         "card_id": "me2pt5-38",
-        "list_price": "$0.85",
-        "price_trend": "up",
+        "list_price": "$0.69",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-38/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.69",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Psyduck #39 - Ascended Heroes | Pokémon | Scrydex",
@@ -12416,10 +12734,19 @@
       "name": "Psyduck",
       "_list_data": {
         "card_id": "me2pt5-39",
-        "list_price": "$0.25",
+        "list_price": "$0.22",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-39/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Golduck #40 - Ascended Heroes | Pokémon | Scrydex",
@@ -12720,10 +13047,19 @@
       "name": "Golduck",
       "_list_data": {
         "card_id": "me2pt5-40",
-        "list_price": "$0.12",
-        "price_trend": "none",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-40/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Totodile #41 - Ascended Heroes | Pokémon | Scrydex",
@@ -13072,10 +13408,19 @@
       "name": "Totodile",
       "_list_data": {
         "card_id": "me2pt5-41",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.22",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-41/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Croconaw #42 - Ascended Heroes | Pokémon | Scrydex",
@@ -13354,10 +13699,19 @@
       "name": "Croconaw",
       "_list_data": {
         "card_id": "me2pt5-42",
-        "list_price": "$0.11",
-        "price_trend": "up",
+        "list_price": "$0.08",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-42/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Feraligatr ex #43 - Ascended Heroes | Pokémon | Scrydex",
@@ -13652,10 +14006,19 @@
       "name": "Mega Feraligatr ex",
       "_list_data": {
         "card_id": "me2pt5-43",
-        "list_price": "$1.83",
-        "price_trend": "up",
+        "list_price": "$1.43",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-43/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.43",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sneasel #44 - Ascended Heroes | Pokémon | Scrydex",
@@ -13945,10 +14308,19 @@
       "name": "Sneasel",
       "_list_data": {
         "card_id": "me2pt5-44",
-        "list_price": "$0.07",
+        "list_price": "$0.03",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-44/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.03",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Weavile #45 - Ascended Heroes | Pokémon | Scrydex",
@@ -14246,10 +14618,19 @@
       "name": "Weavile",
       "_list_data": {
         "card_id": "me2pt5-45",
-        "list_price": "$0.04",
-        "price_trend": "none",
+        "list_price": "$0.05",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-45/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snorunt #46 - Ascended Heroes | Pokémon | Scrydex",
@@ -14526,10 +14907,19 @@
       "name": "Snorunt",
       "_list_data": {
         "card_id": "me2pt5-46",
-        "list_price": "$0.20",
+        "list_price": "$0.18",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-46/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Froslass ex #47 - Ascended Heroes | Pokémon | Scrydex",
@@ -14686,10 +15076,19 @@
       "name": "Mega Froslass ex",
       "_list_data": {
         "card_id": "me2pt5-47",
-        "list_price": "$5.93",
+        "list_price": "$6.19",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-47/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Regice ex #48 - Ascended Heroes | Pokémon | Scrydex",
@@ -14853,10 +15252,19 @@
       "name": "Regice ex",
       "_list_data": {
         "card_id": "me2pt5-48",
-        "list_price": "$0.60",
-        "price_trend": "down",
+        "list_price": "$0.64",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-48/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.64",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Vanillite #49 - Ascended Heroes | Pokémon | Scrydex",
@@ -15154,10 +15562,19 @@
       "name": "N's Vanillite",
       "_list_data": {
         "card_id": "me2pt5-49",
-        "list_price": "$0.12",
-        "price_trend": "up",
+        "list_price": "$0.08",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-49/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Vanillish #50 - Ascended Heroes | Pokémon | Scrydex",
@@ -15444,10 +15861,19 @@
       "name": "N's Vanillish",
       "_list_data": {
         "card_id": "me2pt5-50",
-        "list_price": "$0.16",
+        "list_price": "$0.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-50/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Vanilluxe #51 - Ascended Heroes | Pokémon | Scrydex",
@@ -15736,10 +16162,19 @@
       "name": "N's Vanilluxe",
       "_list_data": {
         "card_id": "me2pt5-51",
-        "list_price": "$0.12",
-        "price_trend": "up",
+        "list_price": "$0.08",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-51/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snom #52 - Ascended Heroes | Pokémon | Scrydex",
@@ -16032,10 +16467,19 @@
       "name": "Snom",
       "_list_data": {
         "card_id": "me2pt5-52",
-        "list_price": "$0.12",
-        "price_trend": "none",
+        "list_price": "$0.07",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-52/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Frosmoth #53 - Ascended Heroes | Pokémon | Scrydex",
@@ -16336,10 +16780,19 @@
       "name": "Frosmoth",
       "_list_data": {
         "card_id": "me2pt5-53",
-        "list_price": "$0.05",
+        "list_price": "$0.03",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-53/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.03",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Glastrier #54 - Ascended Heroes | Pokémon | Scrydex",
@@ -16639,10 +17092,19 @@
       "name": "Glastrier",
       "_list_data": {
         "card_id": "me2pt5-54",
-        "list_price": "$0.14",
+        "list_price": "$0.12",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-54/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pikachu #55 - Ascended Heroes | Pokémon | Scrydex",
@@ -17210,10 +17672,19 @@
       "name": "Pikachu",
       "_list_data": {
         "card_id": "me2pt5-55",
-        "list_price": "$0.20",
-        "price_trend": "down",
+        "list_price": "$0.29",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-55/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.29",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Raichu #56 - Ascended Heroes | Pokémon | Scrydex",
@@ -17513,9 +17984,10 @@
       "_list_data": {
         "card_id": "me2pt5-56",
         "list_price": "$0.09",
-        "price_trend": "down",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-56/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pikachu ex #57 - Ascended Heroes | Pokémon | Scrydex",
@@ -17818,10 +18290,19 @@
       "name": "Pikachu ex",
       "_list_data": {
         "card_id": "me2pt5-57",
-        "list_price": "$2.67",
-        "price_trend": "up",
+        "list_price": "$2.65",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-57/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.65",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Voltorb ex #58 - Ascended Heroes | Pokémon | Scrydex",
@@ -17974,10 +18455,19 @@
       "name": "Voltorb ex",
       "_list_data": {
         "card_id": "me2pt5-58",
-        "list_price": "$0.61",
-        "price_trend": "down",
+        "list_price": "$0.63",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-58/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.63",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tynamo #59 - Ascended Heroes | Pokémon | Scrydex",
@@ -18266,7 +18756,8 @@
         "list_price": "$0.11",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-59/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Eelektrik #60 - Ascended Heroes | Pokémon | Scrydex",
@@ -18568,10 +19059,19 @@
       "name": "Eelektrik",
       "_list_data": {
         "card_id": "me2pt5-60",
-        "list_price": "$0.06",
-        "price_trend": "up",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-60/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Eelektross ex #61 - Ascended Heroes | Pokémon | Scrydex",
@@ -18792,10 +19292,19 @@
       "name": "Mega Eelektross ex",
       "_list_data": {
         "card_id": "me2pt5-61",
-        "list_price": "$1.05",
-        "price_trend": "up",
+        "list_price": "$0.99",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-61/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.99",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Stunfisk #62 - Ascended Heroes | Pokémon | Scrydex",
@@ -19085,10 +19594,19 @@
       "name": "Stunfisk",
       "_list_data": {
         "card_id": "me2pt5-62",
-        "list_price": "$0.15",
+        "list_price": "$0.16",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-62/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Helioptile #63 - Ascended Heroes | Pokémon | Scrydex",
@@ -19378,10 +19896,19 @@
       "name": "Helioptile",
       "_list_data": {
         "card_id": "me2pt5-63",
-        "list_price": "$0.06",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-63/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Heliolisk #64 - Ascended Heroes | Pokémon | Scrydex",
@@ -19670,10 +20197,19 @@
       "name": "Heliolisk",
       "_list_data": {
         "card_id": "me2pt5-64",
-        "list_price": "$0.07",
-        "price_trend": "none",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-64/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Charjabug #65 - Ascended Heroes | Pokémon | Scrydex",
@@ -19965,9 +20501,10 @@
       "_list_data": {
         "card_id": "me2pt5-65",
         "list_price": "$0.04",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-65/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Vikavolt #66 - Ascended Heroes | Pokémon | Scrydex",
@@ -20255,10 +20792,19 @@
       "name": "Vikavolt",
       "_list_data": {
         "card_id": "me2pt5-66",
-        "list_price": "$0.03",
-        "price_trend": "down",
+        "list_price": "$0.05",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-66/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tapu Koko #67 - Ascended Heroes | Pokémon | Scrydex",
@@ -20546,9 +21092,10 @@
       "_list_data": {
         "card_id": "me2pt5-67",
         "list_price": "$0.09",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-67/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Pincurchin ex #68 - Ascended Heroes | Pokémon | Scrydex",
@@ -20704,10 +21251,19 @@
       "name": "Hop's Pincurchin ex",
       "_list_data": {
         "card_id": "me2pt5-68",
-        "list_price": "$0.58",
-        "price_trend": "down",
+        "list_price": "$0.72",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-68/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.72",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Tadbulb #69 - Ascended Heroes | Pokémon | Scrydex",
@@ -20986,10 +21542,19 @@
       "name": "Iono's Tadbulb",
       "_list_data": {
         "card_id": "me2pt5-69",
-        "list_price": "$0.13",
-        "price_trend": "up",
+        "list_price": "$0.08",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-69/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Bellibolt ex #70 - Ascended Heroes | Pokémon | Scrydex",
@@ -21217,9 +21782,10 @@
       "_list_data": {
         "card_id": "me2pt5-70",
         "list_price": "$0.61",
-        "price_trend": "up",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-70/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Wattrel #71 - Ascended Heroes | Pokémon | Scrydex",
@@ -21496,10 +22062,19 @@
       "name": "Iono's Wattrel",
       "_list_data": {
         "card_id": "me2pt5-71",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-71/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Kilowattrel #72 - Ascended Heroes | Pokémon | Scrydex",
@@ -21788,10 +22363,19 @@
       "name": "Iono's Kilowattrel",
       "_list_data": {
         "card_id": "me2pt5-72",
-        "list_price": "$0.17",
+        "list_price": "$0.20",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-72/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Miraidon ex #73 - Ascended Heroes | Pokémon | Scrydex",
@@ -22014,10 +22598,19 @@
       "name": "Miraidon ex",
       "_list_data": {
         "card_id": "me2pt5-73",
-        "list_price": "$0.57",
+        "list_price": "$0.49",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-73/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.49",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Clefairy #74 - Ascended Heroes | Pokémon | Scrydex",
@@ -22295,10 +22888,19 @@
       "name": "Clefairy",
       "_list_data": {
         "card_id": "me2pt5-74",
-        "list_price": "$0.15",
+        "list_price": "$0.14",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-74/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Clefable #75 - Ascended Heroes | Pokémon | Scrydex",
@@ -22599,10 +23201,19 @@
       "name": "Clefable",
       "_list_data": {
         "card_id": "me2pt5-75",
-        "list_price": "$0.13",
-        "price_trend": "up",
+        "list_price": "$0.11",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-75/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lillie's Clefairy ex #76 - Ascended Heroes | Pokémon | Scrydex",
@@ -22760,10 +23371,19 @@
       "name": "Lillie's Clefairy ex",
       "_list_data": {
         "card_id": "me2pt5-76",
-        "list_price": "$1.36",
+        "list_price": "$1.28",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-76/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Exeggcute #77 - Ascended Heroes | Pokémon | Scrydex",
@@ -23059,7 +23679,8 @@
         "list_price": "$0.06",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-77/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Exeggutor #78 - Ascended Heroes | Pokémon | Scrydex",
@@ -23349,10 +23970,19 @@
       "name": "Team Rocket's Exeggutor",
       "_list_data": {
         "card_id": "me2pt5-78",
-        "list_price": "$0.20",
+        "list_price": "$0.11",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-78/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mewtwo ex #79 - Ascended Heroes | Pokémon | Scrydex",
@@ -23636,10 +24266,19 @@
       "name": "Team Rocket's Mewtwo ex",
       "_list_data": {
         "card_id": "me2pt5-79",
-        "list_price": "$1.38",
+        "list_price": "$1.43",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-79/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.43",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togepi #80 - Ascended Heroes | Pokémon | Scrydex",
@@ -23918,9 +24557,10 @@
       "_list_data": {
         "card_id": "me2pt5-80",
         "list_price": "$0.05",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-80/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togetic #81 - Ascended Heroes | Pokémon | Scrydex",
@@ -24198,10 +24838,19 @@
       "name": "Togetic",
       "_list_data": {
         "card_id": "me2pt5-81",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-81/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togekiss #82 - Ascended Heroes | Pokémon | Scrydex",
@@ -24490,10 +25139,19 @@
       "name": "Togekiss",
       "_list_data": {
         "card_id": "me2pt5-82",
-        "list_price": "$0.09",
+        "list_price": "$0.08",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-82/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Marill #83 - Ascended Heroes | Pokémon | Scrydex",
@@ -24779,10 +25437,19 @@
       "name": "Marill",
       "_list_data": {
         "card_id": "me2pt5-83",
-        "list_price": "$0.12",
-        "price_trend": "none",
+        "list_price": "$0.06",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-83/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Azumarill ex #84 - Ascended Heroes | Pokémon | Scrydex",
@@ -24942,10 +25609,19 @@
       "name": "Azumarill ex",
       "_list_data": {
         "card_id": "me2pt5-84",
-        "list_price": "$0.72",
-        "price_trend": "up",
+        "list_price": "$0.70",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-84/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.70",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Misdreavus #85 - Ascended Heroes | Pokémon | Scrydex",
@@ -25234,10 +25910,19 @@
       "name": "Misdreavus",
       "_list_data": {
         "card_id": "me2pt5-85",
-        "list_price": "$0.04",
-        "price_trend": "down",
+        "list_price": "$0.05",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-85/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mismagius #86 - Ascended Heroes | Pokémon | Scrydex",
@@ -25519,10 +26204,19 @@
       "name": "Mismagius",
       "_list_data": {
         "card_id": "me2pt5-86",
-        "list_price": "$0.09",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-86/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ralts #87 - Ascended Heroes | Pokémon | Scrydex",
@@ -25893,10 +26587,19 @@
       "name": "Ralts",
       "_list_data": {
         "card_id": "me2pt5-87",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.17",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-87/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Kirlia #88 - Ascended Heroes | Pokémon | Scrydex",
@@ -26184,7 +26887,8 @@
         "list_price": "$0.16",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-88/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gardevoir ex #89 - Ascended Heroes | Pokémon | Scrydex",
@@ -26414,10 +27118,19 @@
       "name": "Mega Gardevoir ex",
       "_list_data": {
         "card_id": "me2pt5-89",
-        "list_price": "$0.67",
-        "price_trend": "down",
+        "list_price": "$0.82",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-89/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.82",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Shuppet #90 - Ascended Heroes | Pokémon | Scrydex",
@@ -26697,7 +27410,8 @@
         "list_price": "$0.06",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-90/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Banette #91 - Ascended Heroes | Pokémon | Scrydex",
@@ -26995,10 +27709,19 @@
       "name": "Banette",
       "_list_data": {
         "card_id": "me2pt5-91",
-        "list_price": "$0.07",
-        "price_trend": "down",
+        "list_price": "$0.05",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-91/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rotom #92 - Ascended Heroes | Pokémon | Scrydex",
@@ -27296,10 +28019,19 @@
       "name": "Rotom",
       "_list_data": {
         "card_id": "me2pt5-92",
-        "list_price": "$0.15",
-        "price_trend": "none",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-92/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Swirlix #93 - Ascended Heroes | Pokémon | Scrydex",
@@ -27589,9 +28321,10 @@
       "_list_data": {
         "card_id": "me2pt5-93",
         "list_price": "$0.11",
-        "price_trend": "down",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-93/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Slurpuff #94 - Ascended Heroes | Pokémon | Scrydex",
@@ -27890,10 +28623,19 @@
       "name": "Slurpuff",
       "_list_data": {
         "card_id": "me2pt5-94",
-        "list_price": "$0.07",
+        "list_price": "$0.04",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-94/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Phantump #95 - Ascended Heroes | Pokémon | Scrydex",
@@ -28183,10 +28925,19 @@
       "name": "Hop's Phantump",
       "_list_data": {
         "card_id": "me2pt5-95",
-        "list_price": "$0.22",
+        "list_price": "$0.18",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-95/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Trevenant #96 - Ascended Heroes | Pokémon | Scrydex",
@@ -28474,10 +29225,19 @@
       "name": "Hop's Trevenant",
       "_list_data": {
         "card_id": "me2pt5-96",
-        "list_price": "$0.18",
+        "list_price": "$0.17",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-96/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mimikyu #97 - Ascended Heroes | Pokémon | Scrydex",
@@ -28899,10 +29659,19 @@
       "name": "Team Rocket's Mimikyu",
       "_list_data": {
         "card_id": "me2pt5-97",
-        "list_price": "$0.17",
+        "list_price": "$0.14",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-97/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spectrier #98 - Ascended Heroes | Pokémon | Scrydex",
@@ -29193,10 +29962,19 @@
       "name": "Spectrier",
       "_list_data": {
         "card_id": "me2pt5-98",
-        "list_price": "$0.24",
+        "list_price": "$0.25",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-98/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.25",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Munkidori #99 - Ascended Heroes | Pokémon | Scrydex",
@@ -29500,10 +30278,19 @@
       "name": "Munkidori",
       "_list_data": {
         "card_id": "me2pt5-99",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-99/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Diglett #100 - Ascended Heroes | Pokémon | Scrydex",
@@ -29862,10 +30649,19 @@
       "name": "Team Rocket's Diglett",
       "_list_data": {
         "card_id": "me2pt5-100",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-100/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Dugtrio #101 - Ascended Heroes | Pokémon | Scrydex",
@@ -30235,10 +31031,19 @@
       "name": "Team Rocket's Dugtrio",
       "_list_data": {
         "card_id": "me2pt5-101",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-101/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hitmontop #102 - Ascended Heroes | Pokémon | Scrydex",
@@ -30536,10 +31341,19 @@
       "name": "Hitmontop",
       "_list_data": {
         "card_id": "me2pt5-102",
-        "list_price": "$0.12",
+        "list_price": "$0.10",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-102/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meditite #103 - Ascended Heroes | Pokémon | Scrydex",
@@ -30824,10 +31638,19 @@
       "name": "Meditite",
       "_list_data": {
         "card_id": "me2pt5-103",
-        "list_price": "$0.13",
-        "price_trend": "up",
+        "list_price": "$0.10",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-103/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Medicham #104 - Ascended Heroes | Pokémon | Scrydex",
@@ -31116,10 +31939,19 @@
       "name": "Medicham",
       "_list_data": {
         "card_id": "me2pt5-104",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-104/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lunatone #105 - Ascended Heroes | Pokémon | Scrydex",
@@ -31408,9 +32240,10 @@
       "_list_data": {
         "card_id": "me2pt5-105",
         "list_price": "$0.10",
-        "price_trend": "down",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-105/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Solrock #106 - Ascended Heroes | Pokémon | Scrydex",
@@ -31699,10 +32532,19 @@
       "name": "Solrock",
       "_list_data": {
         "card_id": "me2pt5-106",
-        "list_price": "$0.07",
-        "price_trend": "none",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-106/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Regirock ex #107 - Ascended Heroes | Pokémon | Scrydex",
@@ -31862,10 +32704,19 @@
       "name": "Regirock ex",
       "_list_data": {
         "card_id": "me2pt5-107",
-        "list_price": "$0.56",
+        "list_price": "$0.59",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-107/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.59",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Groudon #108 - Ascended Heroes | Pokémon | Scrydex",
@@ -32169,10 +33020,19 @@
       "name": "Groudon",
       "_list_data": {
         "card_id": "me2pt5-108",
-        "list_price": "$0.09",
-        "price_trend": "down",
+        "list_price": "$0.10",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-108/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Gible #109 - Ascended Heroes | Pokémon | Scrydex",
@@ -32461,10 +33321,19 @@
       "name": "Cynthia's Gible",
       "_list_data": {
         "card_id": "me2pt5-109",
-        "list_price": "$0.06",
+        "list_price": "$0.04",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-109/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Gabite #110 - Ascended Heroes | Pokémon | Scrydex",
@@ -32751,10 +33620,19 @@
       "name": "Cynthia's Gabite",
       "_list_data": {
         "card_id": "me2pt5-110",
-        "list_price": "$0.21",
-        "price_trend": "down",
+        "list_price": "$0.20",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-110/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Garchomp ex #111 - Ascended Heroes | Pokémon | Scrydex",
@@ -32910,7 +33788,8 @@
         "list_price": "$0.90",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-111/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Riolu #112 - Ascended Heroes | Pokémon | Scrydex",
@@ -33270,10 +34149,19 @@
       "name": "Riolu",
       "_list_data": {
         "card_id": "me2pt5-112",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-112/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Lucario ex #113 - Ascended Heroes | Pokémon | Scrydex",
@@ -33496,10 +34384,19 @@
       "name": "Mega Lucario ex",
       "_list_data": {
         "card_id": "me2pt5-113",
-        "list_price": "$1.30",
-        "price_trend": "down",
+        "list_price": "$1.48",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-113/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.48",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Stunfisk ex #114 - Ascended Heroes | Pokémon | Scrydex",
@@ -33653,10 +34550,19 @@
       "name": "Stunfisk ex",
       "_list_data": {
         "card_id": "me2pt5-114",
-        "list_price": "$0.59",
+        "list_price": "$0.65",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-114/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.65",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pancham #115 - Ascended Heroes | Pokémon | Scrydex",
@@ -33934,10 +34840,19 @@
       "name": "Pancham",
       "_list_data": {
         "card_id": "me2pt5-115",
-        "list_price": "$0.12",
+        "list_price": "$0.08",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-115/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Hawlucha ex #116 - Ascended Heroes | Pokémon | Scrydex",
@@ -34170,10 +35085,19 @@
       "name": "Mega Hawlucha ex",
       "_list_data": {
         "card_id": "me2pt5-116",
-        "list_price": "$0.91",
-        "price_trend": "down",
+        "list_price": "$1.02",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-116/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.02",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Carbink #117 - Ascended Heroes | Pokémon | Scrydex",
@@ -34474,10 +35398,19 @@
       "name": "Carbink",
       "_list_data": {
         "card_id": "me2pt5-117",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.06",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-117/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rolycoly #118 - Ascended Heroes | Pokémon | Scrydex",
@@ -34768,10 +35701,19 @@
       "name": "Rolycoly",
       "_list_data": {
         "card_id": "me2pt5-118",
-        "list_price": "$0.05",
-        "price_trend": "none",
+        "list_price": "$0.02",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-118/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.02",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Carkol #119 - Ascended Heroes | Pokémon | Scrydex",
@@ -35060,10 +36002,19 @@
       "name": "Carkol",
       "_list_data": {
         "card_id": "me2pt5-119",
-        "list_price": "$0.06",
-        "price_trend": "up",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-119/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Coalossal #120 - Ascended Heroes | Pokémon | Scrydex",
@@ -35367,9 +36318,10 @@
       "_list_data": {
         "card_id": "me2pt5-120",
         "list_price": "$0.13",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-120/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Koraidon ex #121 - Ascended Heroes | Pokémon | Scrydex",
@@ -35594,10 +36546,19 @@
       "name": "Koraidon ex",
       "_list_data": {
         "card_id": "me2pt5-121",
-        "list_price": "$0.75",
+        "list_price": "$0.67",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-121/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.67",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Okidogi #122 - Ascended Heroes | Pokémon | Scrydex",
@@ -35952,10 +36913,19 @@
       "name": "Okidogi",
       "_list_data": {
         "card_id": "me2pt5-122",
-        "list_price": "$0.08",
+        "list_price": "$0.07",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-122/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gastly #123 - Ascended Heroes | Pokémon | Scrydex",
@@ -36389,10 +37359,19 @@
       "name": "Gastly",
       "_list_data": {
         "card_id": "me2pt5-123",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.06",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-123/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Haunter #124 - Ascended Heroes | Pokémon | Scrydex",
@@ -36751,10 +37730,19 @@
       "name": "Haunter",
       "_list_data": {
         "card_id": "me2pt5-124",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.16",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-124/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gengar ex #125 - Ascended Heroes | Pokémon | Scrydex",
@@ -36987,10 +37975,19 @@
       "name": "Mega Gengar ex",
       "_list_data": {
         "card_id": "me2pt5-125",
-        "list_price": "$3.55",
-        "price_trend": "up",
+        "list_price": "$3.25",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-125/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.25",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Murkrow #126 - Ascended Heroes | Pokémon | Scrydex",
@@ -37288,10 +38285,19 @@
       "name": "Team Rocket's Murkrow",
       "_list_data": {
         "card_id": "me2pt5-126",
-        "list_price": "$0.12",
-        "price_trend": "up",
+        "list_price": "$0.11",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-126/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Honchkrow #127 - Ascended Heroes | Pokémon | Scrydex",
@@ -37579,10 +38585,19 @@
       "name": "Team Rocket's Honchkrow",
       "_list_data": {
         "card_id": "me2pt5-127",
-        "list_price": "$0.28",
+        "list_price": "$0.29",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-127/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.29",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Poochyena #128 - Ascended Heroes | Pokémon | Scrydex",
@@ -37872,10 +38887,19 @@
       "name": "Poochyena",
       "_list_data": {
         "card_id": "me2pt5-128",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-128/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mightyena #129 - Ascended Heroes | Pokémon | Scrydex",
@@ -38176,10 +39200,19 @@
       "name": "Mightyena",
       "_list_data": {
         "card_id": "me2pt5-129",
-        "list_price": "$0.05",
+        "list_price": "$0.03",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-129/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.03",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Zigzagoon #130 - Ascended Heroes | Pokémon | Scrydex",
@@ -38468,10 +39501,19 @@
       "name": "Galarian Zigzagoon",
       "_list_data": {
         "card_id": "me2pt5-130",
-        "list_price": "$0.11",
-        "price_trend": "up",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-130/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Linoone #131 - Ascended Heroes | Pokémon | Scrydex",
@@ -38770,10 +39812,19 @@
       "name": "Galarian Linoone",
       "_list_data": {
         "card_id": "me2pt5-131",
-        "list_price": "$0.08",
+        "list_price": "$0.07",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-131/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Obstagoon #132 - Ascended Heroes | Pokémon | Scrydex",
@@ -39074,10 +40125,19 @@
       "name": "Galarian Obstagoon",
       "_list_data": {
         "card_id": "me2pt5-132",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-132/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Spiritomb #133 - Ascended Heroes | Pokémon | Scrydex",
@@ -39354,10 +40414,19 @@
       "name": "Cynthia's Spiritomb",
       "_list_data": {
         "card_id": "me2pt5-133",
-        "list_price": "$0.06",
-        "price_trend": "none",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-133/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Scraggy #134 - Ascended Heroes | Pokémon | Scrydex",
@@ -39648,10 +40717,19 @@
       "name": "Scraggy",
       "_list_data": {
         "card_id": "me2pt5-134",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-134/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Scrafty ex #135 - Ascended Heroes | Pokémon | Scrydex",
@@ -39881,10 +40959,19 @@
       "name": "Mega Scrafty ex",
       "_list_data": {
         "card_id": "me2pt5-135",
-        "list_price": "$0.91",
+        "list_price": "$0.80",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-135/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.80",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zorua #136 - Ascended Heroes | Pokémon | Scrydex",
@@ -40174,9 +41261,10 @@
       "_list_data": {
         "card_id": "me2pt5-136",
         "list_price": "$0.18",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-136/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zoroark ex #137 - Ascended Heroes | Pokémon | Scrydex",
@@ -40339,10 +41427,19 @@
       "name": "N's Zoroark ex",
       "_list_data": {
         "card_id": "me2pt5-137",
-        "list_price": "$0.81",
-        "price_trend": "down",
+        "list_price": "$0.94",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-137/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.94",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Vullaby #138 - Ascended Heroes | Pokémon | Scrydex",
@@ -40620,10 +41717,19 @@
       "name": "Vullaby",
       "_list_data": {
         "card_id": "me2pt5-138",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-138/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mandibuzz ex #139 - Ascended Heroes | Pokémon | Scrydex",
@@ -40781,10 +41887,19 @@
       "name": "Mandibuzz ex",
       "_list_data": {
         "card_id": "me2pt5-139",
-        "list_price": "$0.52",
-        "price_trend": "down",
+        "list_price": "$0.57",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-139/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.57",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pangoro #140 - Ascended Heroes | Pokémon | Scrydex",
@@ -41085,10 +42200,19 @@
       "name": "Pangoro",
       "_list_data": {
         "card_id": "me2pt5-140",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.03",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-140/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.03",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hoopa #141 - Ascended Heroes | Pokémon | Scrydex",
@@ -41391,7 +42515,8 @@
         "list_price": "$0.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-141/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fezandipiti ex #142 - Ascended Heroes | Pokémon | Scrydex",
@@ -41550,10 +42675,19 @@
       "name": "Fezandipiti ex",
       "_list_data": {
         "card_id": "me2pt5-142",
-        "list_price": "$3.57",
-        "price_trend": "down",
+        "list_price": "$3.62",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-142/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.62",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pecharunt #143 - Ascended Heroes | Pokémon | Scrydex",
@@ -41848,10 +42982,19 @@
       "name": "Pecharunt",
       "_list_data": {
         "card_id": "me2pt5-143",
-        "list_price": "$0.12",
+        "list_price": "$0.10",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-143/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mawile #144 - Ascended Heroes | Pokémon | Scrydex",
@@ -42154,10 +43297,19 @@
       "name": "Mawile",
       "_list_data": {
         "card_id": "me2pt5-144",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.06",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-144/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Registeel ex #145 - Ascended Heroes | Pokémon | Scrydex",
@@ -42317,10 +43469,19 @@
       "name": "Registeel ex",
       "_list_data": {
         "card_id": "me2pt5-145",
-        "list_price": "$0.64",
+        "list_price": "$0.68",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-145/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.68",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pawniard #146 - Ascended Heroes | Pokémon | Scrydex",
@@ -42609,10 +43770,19 @@
       "name": "Pawniard",
       "_list_data": {
         "card_id": "me2pt5-146",
-        "list_price": "$0.06",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-146/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bisharp #147 - Ascended Heroes | Pokémon | Scrydex",
@@ -42904,7 +44074,8 @@
         "list_price": "$0.03",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-147/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Kingambit #148 - Ascended Heroes | Pokémon | Scrydex",
@@ -43206,10 +44377,19 @@
       "name": "Kingambit",
       "_list_data": {
         "card_id": "me2pt5-148",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.18",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-148/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togedemaru ex #149 - Ascended Heroes | Pokémon | Scrydex",
@@ -43361,10 +44541,19 @@
       "name": "Togedemaru ex",
       "_list_data": {
         "card_id": "me2pt5-149",
-        "list_price": "$0.72",
+        "list_price": "$0.67",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-149/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.67",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dratini #150 - Ascended Heroes | Pokémon | Scrydex",
@@ -43643,10 +44832,19 @@
       "name": "Dratini",
       "_list_data": {
         "card_id": "me2pt5-150",
-        "list_price": "$0.21",
-        "price_trend": "up",
+        "list_price": "$0.20",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-150/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dragonair #151 - Ascended Heroes | Pokémon | Scrydex",
@@ -43951,10 +45149,19 @@
       "name": "Dragonair",
       "_list_data": {
         "card_id": "me2pt5-151",
-        "list_price": "$0.22",
-        "price_trend": "up",
+        "list_price": "$0.19",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-151/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #152 - Ascended Heroes | Pokémon | Scrydex",
@@ -44393,10 +45600,19 @@
       "name": "Mega Dragonite ex",
       "_list_data": {
         "card_id": "me2pt5-152",
-        "list_price": "$4.47",
-        "price_trend": "down",
+        "list_price": "$5.01",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-152/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.01",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rayquaza #153 - Ascended Heroes | Pokémon | Scrydex",
@@ -44896,10 +46112,19 @@
       "name": "Rayquaza",
       "_list_data": {
         "card_id": "me2pt5-153",
-        "list_price": "$0.19",
-        "price_trend": "down",
+        "list_price": "$0.30",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-153/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.30",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Reshiram #154 - Ascended Heroes | Pokémon | Scrydex",
@@ -45271,10 +46496,19 @@
       "name": "N's Reshiram",
       "_list_data": {
         "card_id": "me2pt5-154",
-        "list_price": "$0.18",
-        "price_trend": "down",
+        "list_price": "$0.22",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-154/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zekrom #155 - Ascended Heroes | Pokémon | Scrydex",
@@ -45647,10 +46881,19 @@
       "name": "N's Zekrom",
       "_list_data": {
         "card_id": "me2pt5-155",
-        "list_price": "$0.27",
-        "price_trend": "up",
+        "list_price": "$0.26",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-155/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.26",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Noibat #156 - Ascended Heroes | Pokémon | Scrydex",
@@ -45948,10 +47191,19 @@
       "name": "Noibat",
       "_list_data": {
         "card_id": "me2pt5-156",
-        "list_price": "$0.09",
-        "price_trend": "up",
+        "list_price": "$0.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-156/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Noivern #157 - Ascended Heroes | Pokémon | Scrydex",
@@ -46247,10 +47499,19 @@
       "name": "Noivern",
       "_list_data": {
         "card_id": "me2pt5-157",
-        "list_price": "$0.09",
+        "list_price": "$0.07",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-157/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dreepy #158 - Ascended Heroes | Pokémon | Scrydex",
@@ -46548,10 +47809,19 @@
       "name": "Dreepy",
       "_list_data": {
         "card_id": "me2pt5-158",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-158/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drakloak #159 - Ascended Heroes | Pokémon | Scrydex",
@@ -46921,10 +48191,19 @@
       "name": "Drakloak",
       "_list_data": {
         "card_id": "me2pt5-159",
-        "list_price": "$0.05",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-159/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dragapult ex #160 - Ascended Heroes | Pokémon | Scrydex",
@@ -47080,10 +48359,19 @@
       "name": "Dragapult ex",
       "_list_data": {
         "card_id": "me2pt5-160",
-        "list_price": "$1.05",
-        "price_trend": "down",
+        "list_price": "$1.26",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-160/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.26",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Meowth #161 - Ascended Heroes | Pokémon | Scrydex",
@@ -47591,10 +48879,19 @@
       "name": "Team Rocket's Meowth",
       "_list_data": {
         "card_id": "me2pt5-161",
-        "list_price": "$0.08",
+        "list_price": "$0.10",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-161/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Kangaskhan ex #162 - Ascended Heroes | Pokémon | Scrydex",
@@ -47757,10 +49054,19 @@
       "name": "Team Rocket's Kangaskhan ex",
       "_list_data": {
         "card_id": "me2pt5-162",
-        "list_price": "$0.96",
+        "list_price": "$1.00",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-162/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.00",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Dunsparce #163 - Ascended Heroes | Pokémon | Scrydex",
@@ -48046,10 +49352,19 @@
       "name": "Larry's Dunsparce",
       "_list_data": {
         "card_id": "me2pt5-163",
-        "list_price": "$0.12",
+        "list_price": "$0.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-163/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Dudunsparce ex #164 - Ascended Heroes | Pokémon | Scrydex",
@@ -48200,10 +49515,19 @@
       "name": "Larry's Dudunsparce ex",
       "_list_data": {
         "card_id": "me2pt5-164",
-        "list_price": "$0.65",
+        "list_price": "$0.70",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-164/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.70",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Skitty #165 - Ascended Heroes | Pokémon | Scrydex",
@@ -48492,10 +49816,19 @@
       "name": "Skitty",
       "_list_data": {
         "card_id": "me2pt5-165",
-        "list_price": "$0.11",
+        "list_price": "$0.13",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-165/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Delcatty #166 - Ascended Heroes | Pokémon | Scrydex",
@@ -48793,10 +50126,19 @@
       "name": "Delcatty",
       "_list_data": {
         "card_id": "me2pt5-166",
-        "list_price": "$0.06",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-166/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Zangoose ex #167 - Ascended Heroes | Pokémon | Scrydex",
@@ -48945,10 +50287,19 @@
       "name": "Zangoose ex",
       "_list_data": {
         "card_id": "me2pt5-167",
-        "list_price": "$0.58",
-        "price_trend": "down",
+        "list_price": "$0.72",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-167/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.72",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Starly #168 - Ascended Heroes | Pokémon | Scrydex",
@@ -49246,9 +50597,10 @@
       "_list_data": {
         "card_id": "me2pt5-168",
         "list_price": "$0.05",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-168/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Staravia #169 - Ascended Heroes | Pokémon | Scrydex",
@@ -49546,10 +50898,19 @@
       "name": "Larry's Staravia",
       "_list_data": {
         "card_id": "me2pt5-169",
-        "list_price": "$0.03",
-        "price_trend": "down",
+        "list_price": "$0.05",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-169/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Staraptor #170 - Ascended Heroes | Pokémon | Scrydex",
@@ -49848,10 +51209,19 @@
       "name": "Larry's Staraptor",
       "_list_data": {
         "card_id": "me2pt5-170",
-        "list_price": "$0.08",
+        "list_price": "$0.12",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-170/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fan Rotom #171 - Ascended Heroes | Pokémon | Scrydex",
@@ -50150,10 +51520,19 @@
       "name": "Fan Rotom",
       "_list_data": {
         "card_id": "me2pt5-171",
-        "list_price": "$0.07",
+        "list_price": "$0.06",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-171/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Audino ex #172 - Ascended Heroes | Pokémon | Scrydex",
@@ -50314,10 +51693,19 @@
       "name": "Mega Audino ex",
       "_list_data": {
         "card_id": "me2pt5-172",
-        "list_price": "$1.17",
+        "list_price": "$1.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-172/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Rufflet #173 - Ascended Heroes | Pokémon | Scrydex",
@@ -50607,10 +51995,19 @@
       "name": "Larry's Rufflet",
       "_list_data": {
         "card_id": "me2pt5-173",
-        "list_price": "$0.09",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-173/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Braviary #174 - Ascended Heroes | Pokémon | Scrydex",
@@ -50910,10 +52307,19 @@
       "name": "Larry's Braviary",
       "_list_data": {
         "card_id": "me2pt5-174",
-        "list_price": "$0.05",
-        "price_trend": "none",
+        "list_price": "$0.04",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-174/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Komala #175 - Ascended Heroes | Pokémon | Scrydex",
@@ -51358,10 +52764,19 @@
       "name": "Larry's Komala",
       "_list_data": {
         "card_id": "me2pt5-175",
-        "list_price": "$0.07",
+        "list_price": "$0.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-175/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drampa #176 - Ascended Heroes | Pokémon | Scrydex",
@@ -51662,10 +53077,19 @@
       "name": "Drampa",
       "_list_data": {
         "card_id": "me2pt5-176",
-        "list_price": "$0.04",
+        "list_price": "$0.03",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-176/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.03",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Cramorant #177 - Ascended Heroes | Pokémon | Scrydex",
@@ -51955,9 +53379,10 @@
       "_list_data": {
         "card_id": "me2pt5-177",
         "list_price": "$0.10",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-177/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Terapagos #178 - Ascended Heroes | Pokémon | Scrydex",
@@ -52245,10 +53670,19 @@
       "name": "Terapagos",
       "_list_data": {
         "card_id": "me2pt5-178",
-        "list_price": "$0.16",
+        "list_price": "$0.20",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-178/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Terapagos ex #179 - Ascended Heroes | Pokémon | Scrydex",
@@ -52411,10 +53845,19 @@
       "name": "Terapagos ex",
       "_list_data": {
         "card_id": "me2pt5-179",
-        "list_price": "$0.66",
-        "price_trend": "up",
+        "list_price": "$0.64",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-179/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.64",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Acerola's Mischief #180 - Ascended Heroes | Pokémon | Scrydex",
@@ -52609,10 +54052,19 @@
       "name": "Acerola's Mischief",
       "_list_data": {
         "card_id": "me2pt5-180",
-        "list_price": "$0.06",
+        "list_price": "$0.07",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-180/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Air Balloon #181 - Ascended Heroes | Pokémon | Scrydex",
@@ -52819,10 +54271,19 @@
       "name": "Air Balloon",
       "_list_data": {
         "card_id": "me2pt5-181",
-        "list_price": "$0.21",
-        "price_trend": "up",
+        "list_price": "$0.15",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-181/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Anthea & Concordia #182 - Ascended Heroes | Pokémon | Scrydex",
@@ -53025,10 +54486,19 @@
       "name": "Anthea & Concordia",
       "_list_data": {
         "card_id": "me2pt5-182",
-        "list_price": "$0.05",
+        "list_price": "$0.04",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-182/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Boss's Orders #183 - Ascended Heroes | Pokémon | Scrydex",
@@ -53223,10 +54693,19 @@
       "name": "Boss's Orders",
       "_list_data": {
         "card_id": "me2pt5-183",
-        "list_price": "$0.22",
-        "price_trend": "none",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-183/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Buddy-Buddy Poffin #184 - Ascended Heroes | Pokémon | Scrydex",
@@ -53429,10 +54908,19 @@
       "name": "Buddy-Buddy Poffin",
       "_list_data": {
         "card_id": "me2pt5-184",
-        "list_price": "$0.15",
-        "price_trend": "up",
+        "list_price": "$0.10",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-184/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Canari #185 - Ascended Heroes | Pokémon | Scrydex",
@@ -53635,10 +55123,19 @@
       "name": "Canari",
       "_list_data": {
         "card_id": "me2pt5-185",
-        "list_price": "$0.18",
-        "price_trend": "down",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-185/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Counter Gain #186 - Ascended Heroes | Pokémon | Scrydex",
@@ -53841,10 +55338,19 @@
       "name": "Counter Gain",
       "_list_data": {
         "card_id": "me2pt5-186",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-186/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fighting Gong #187 - Ascended Heroes | Pokémon | Scrydex",
@@ -54047,10 +55553,19 @@
       "name": "Fighting Gong",
       "_list_data": {
         "card_id": "me2pt5-187",
-        "list_price": "$0.17",
+        "list_price": "$0.16",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-187/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Forest of Vitality #188 - Ascended Heroes | Pokémon | Scrydex",
@@ -54253,10 +55768,19 @@
       "name": "Forest of Vitality",
       "_list_data": {
         "card_id": "me2pt5-188",
-        "list_price": "$0.12",
-        "price_trend": "up",
+        "list_price": "$0.11",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-188/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Glass Trumpet #189 - Ascended Heroes | Pokémon | Scrydex",
@@ -54460,9 +55984,10 @@
       "_list_data": {
         "card_id": "me2pt5-189",
         "list_price": "$0.10",
-        "price_trend": "up",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-189/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iris's Fighting Spirit #190 - Ascended Heroes | Pokémon | Scrydex",
@@ -54800,10 +56325,19 @@
       "name": "Iris's Fighting Spirit",
       "_list_data": {
         "card_id": "me2pt5-190",
-        "list_price": "$0.06",
+        "list_price": "$0.04",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-190/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Light Ball #191 - Ascended Heroes | Pokémon | Scrydex",
@@ -55009,7 +56543,8 @@
         "list_price": "$0.20",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-191/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lillie's Determination #192 - Ascended Heroes | Pokémon | Scrydex",
@@ -55220,10 +56755,19 @@
       "name": "Lillie's Determination",
       "_list_data": {
         "card_id": "me2pt5-192",
-        "list_price": "$0.34",
-        "price_trend": "down",
+        "list_price": "$0.37",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-192/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.37",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Signal #193 - Ascended Heroes | Pokémon | Scrydex",
@@ -55426,10 +56970,19 @@
       "name": "Mega Signal",
       "_list_data": {
         "card_id": "me2pt5-193",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-193/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mystery Garden #194 - Ascended Heroes | Pokémon | Scrydex",
@@ -55632,10 +57185,19 @@
       "name": "Mystery Garden",
       "_list_data": {
         "card_id": "me2pt5-194",
-        "list_price": "$0.19",
-        "price_trend": "down",
+        "list_price": "$0.23",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-194/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.23",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's PP Up #195 - Ascended Heroes | Pokémon | Scrydex",
@@ -55838,10 +57400,19 @@
       "name": "N's PP Up",
       "_list_data": {
         "card_id": "me2pt5-195",
-        "list_price": "$0.15",
-        "price_trend": "down",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-195/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Night Stretcher #196 - Ascended Heroes | Pokémon | Scrydex",
@@ -56048,10 +57619,19 @@
       "name": "Night Stretcher",
       "_list_data": {
         "card_id": "me2pt5-196",
-        "list_price": "$0.23",
+        "list_price": "$0.21",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-196/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.21",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Nighttime Mine #197 - Ascended Heroes | Pokémon | Scrydex",
@@ -56254,10 +57834,19 @@
       "name": "Nighttime Mine",
       "_list_data": {
         "card_id": "me2pt5-197",
-        "list_price": "$0.21",
+        "list_price": "$0.18",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-197/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Poké Pad #198 - Ascended Heroes | Pokémon | Scrydex",
@@ -56472,10 +58061,19 @@
       "name": "Poké Pad",
       "_list_data": {
         "card_id": "me2pt5-198",
-        "list_price": "$0.56",
+        "list_price": "$0.47",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-198/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.47",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Premium Power Pro #199 - Ascended Heroes | Pokémon | Scrydex",
@@ -56681,7 +58279,8 @@
         "list_price": "$0.13",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-199/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Surfer #200 - Ascended Heroes | Pokémon | Scrydex",
@@ -56884,10 +58483,19 @@
       "name": "Surfer",
       "_list_data": {
         "card_id": "me2pt5-200",
-        "list_price": "$0.11",
-        "price_trend": "up",
+        "list_price": "$0.06",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-200/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Archer #201 - Ascended Heroes | Pokémon | Scrydex",
@@ -57090,10 +58698,19 @@
       "name": "Team Rocket's Archer",
       "_list_data": {
         "card_id": "me2pt5-201",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-201/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Ariana #202 - Ascended Heroes | Pokémon | Scrydex",
@@ -57296,10 +58913,19 @@
       "name": "Team Rocket's Ariana",
       "_list_data": {
         "card_id": "me2pt5-202",
-        "list_price": "$0.12",
+        "list_price": "$0.15",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-202/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Factory #203 - Ascended Heroes | Pokémon | Scrydex",
@@ -57502,10 +59128,19 @@
       "name": "Team Rocket's Factory",
       "_list_data": {
         "card_id": "me2pt5-203",
-        "list_price": "$0.20",
-        "price_trend": "up",
+        "list_price": "$0.17",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-203/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Giovanni #204 - Ascended Heroes | Pokémon | Scrydex",
@@ -57708,10 +59343,19 @@
       "name": "Team Rocket's Giovanni",
       "_list_data": {
         "card_id": "me2pt5-204",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-204/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Great Ball #205 - Ascended Heroes | Pokémon | Scrydex",
@@ -57914,10 +59558,19 @@
       "name": "Team Rocket's Great Ball",
       "_list_data": {
         "card_id": "me2pt5-205",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-205/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Hypnotizer #206 - Ascended Heroes | Pokémon | Scrydex",
@@ -58115,7 +59768,8 @@
         "list_price": "$0.15",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-206/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Petrel #207 - Ascended Heroes | Pokémon | Scrydex",
@@ -58318,10 +59972,19 @@
       "name": "Team Rocket's Petrel",
       "_list_data": {
         "card_id": "me2pt5-207",
-        "list_price": "$0.30",
-        "price_trend": "down",
+        "list_price": "$0.33",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-207/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.33",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Proton #208 - Ascended Heroes | Pokémon | Scrydex",
@@ -58524,10 +60187,19 @@
       "name": "Team Rocket's Proton",
       "_list_data": {
         "card_id": "me2pt5-208",
-        "list_price": "$0.11",
-        "price_trend": "none",
+        "list_price": "$0.12",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-208/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Transceiver #209 - Ascended Heroes | Pokémon | Scrydex",
@@ -58730,10 +60402,19 @@
       "name": "Team Rocket's Transceiver",
       "_list_data": {
         "card_id": "me2pt5-209",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.16",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-209/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Watchtower #210 - Ascended Heroes | Pokémon | Scrydex",
@@ -58940,10 +60621,19 @@
       "name": "Team Rocket's Watchtower",
       "_list_data": {
         "card_id": "me2pt5-210",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-210/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Thick Scale #211 - Ascended Heroes | Pokémon | Scrydex",
@@ -59150,10 +60840,19 @@
       "name": "Thick Scale",
       "_list_data": {
         "card_id": "me2pt5-211",
-        "list_price": "$0.10",
-        "price_trend": "up",
+        "list_price": "$0.08",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-211/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tool Scrapper #212 - Ascended Heroes | Pokémon | Scrydex",
@@ -59356,10 +61055,19 @@
       "name": "Tool Scrapper",
       "_list_data": {
         "card_id": "me2pt5-212",
-        "list_price": "$0.18",
+        "list_price": "$0.22",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-212/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ultra Ball #213 - Ascended Heroes | Pokémon | Scrydex",
@@ -59565,7 +61273,8 @@
         "list_price": "$0.12",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-213/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Urbain #214 - Ascended Heroes | Pokémon | Scrydex",
@@ -59768,10 +61477,19 @@
       "name": "Urbain",
       "_list_data": {
         "card_id": "me2pt5-214",
-        "list_price": "$0.08",
+        "list_price": "$0.04",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-214/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Waitress #215 - Ascended Heroes | Pokémon | Scrydex",
@@ -59982,10 +61700,19 @@
       "name": "Waitress",
       "_list_data": {
         "card_id": "me2pt5-215",
-        "list_price": "$0.22",
+        "list_price": "$0.19",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-215/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Prism Energy #216 - Ascended Heroes | Pokémon | Scrydex",
@@ -60187,10 +61914,19 @@
       "name": "Prism Energy",
       "_list_data": {
         "card_id": "me2pt5-216",
-        "list_price": "$0.18",
-        "price_trend": "up",
+        "list_price": "$0.19",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-216/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Energy #217 - Ascended Heroes | Pokémon | Scrydex",
@@ -60396,10 +62132,19 @@
       "name": "Team Rocket's Energy",
       "_list_data": {
         "card_id": "me2pt5-217",
-        "list_price": "$0.15",
-        "price_trend": "down",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-217/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Erika's Tangela #218 - Ascended Heroes | Pokémon | Scrydex",
@@ -61005,10 +62750,19 @@
       "name": "Erika's Tangela",
       "_list_data": {
         "card_id": "me2pt5-218",
-        "list_price": "$25.02",
-        "price_trend": "down",
+        "list_price": "$26.43",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-218/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$26.43",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Beautifly #219 - Ascended Heroes | Pokémon | Scrydex",
@@ -61568,10 +63322,19 @@
       "name": "Beautifly",
       "_list_data": {
         "card_id": "me2pt5-219",
-        "list_price": "$7.24",
+        "list_price": "$7.53",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-219/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.53",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dustox #220 - Ascended Heroes | Pokémon | Scrydex",
@@ -61795,10 +63558,19 @@
       "name": "Dustox",
       "_list_data": {
         "card_id": "me2pt5-220",
-        "list_price": "$4.46",
+        "list_price": "$4.32",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-220/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.32",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Budew #221 - Ascended Heroes | Pokémon | Scrydex",
@@ -62256,10 +64028,19 @@
       "name": "Budew",
       "_list_data": {
         "card_id": "me2pt5-221",
-        "list_price": "$10.97",
+        "list_price": "$11.87",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-221/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.87",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ethan's Magcargo #222 - Ascended Heroes | Pokémon | Scrydex",
@@ -62956,10 +64737,19 @@
       "name": "Ethan's Magcargo",
       "_list_data": {
         "card_id": "me2pt5-222",
-        "list_price": "$7.81",
+        "list_price": "$8.38",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-222/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$8.38",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Numel #223 - Ascended Heroes | Pokémon | Scrydex",
@@ -63525,10 +65315,19 @@
       "name": "Numel",
       "_list_data": {
         "card_id": "me2pt5-223",
-        "list_price": "$5.92",
+        "list_price": "$6.07",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-223/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salazzle #224 - Ascended Heroes | Pokémon | Scrydex",
@@ -63956,10 +65755,19 @@
       "name": "Salazzle",
       "_list_data": {
         "card_id": "me2pt5-224",
-        "list_price": "$3.62",
-        "price_trend": "up",
+        "list_price": "$3.65",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-224/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.65",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Scorbunny #225 - Ascended Heroes | Pokémon | Scrydex",
@@ -64365,10 +66173,19 @@
       "name": "Scorbunny",
       "_list_data": {
         "card_id": "me2pt5-225",
-        "list_price": "$12.10",
-        "price_trend": "down",
+        "list_price": "$13.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-225/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$13.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Psyduck #226 - Ascended Heroes | Pokémon | Scrydex",
@@ -65349,10 +67166,19 @@
       "name": "Psyduck",
       "_list_data": {
         "card_id": "me2pt5-226",
-        "list_price": "$97.38",
+        "list_price": "$97.67",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-226/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$97.67",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snorunt #227 - Ascended Heroes | Pokémon | Scrydex",
@@ -65639,10 +67465,19 @@
       "name": "Snorunt",
       "_list_data": {
         "card_id": "me2pt5-227",
-        "list_price": "$6.65",
+        "list_price": "$7.94",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-227/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.94",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Weavile #228 - Ascended Heroes | Pokémon | Scrydex",
@@ -65992,10 +67827,19 @@
       "name": "Weavile",
       "_list_data": {
         "card_id": "me2pt5-228",
-        "list_price": "$7.29",
+        "list_price": "$7.45",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-228/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.45",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Heliolisk #229 - Ascended Heroes | Pokémon | Scrydex",
@@ -66294,10 +68138,19 @@
       "name": "Heliolisk",
       "_list_data": {
         "card_id": "me2pt5-229",
-        "list_price": "$2.70",
-        "price_trend": "up",
+        "list_price": "$2.57",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-229/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.57",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Vikavolt #230 - Ascended Heroes | Pokémon | Scrydex",
@@ -66833,10 +68686,19 @@
       "name": "Vikavolt",
       "_list_data": {
         "card_id": "me2pt5-230",
-        "list_price": "$2.91",
-        "price_trend": "up",
+        "list_price": "$2.73",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-230/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.73",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Wattrel #231 - Ascended Heroes | Pokémon | Scrydex",
@@ -67365,10 +69227,19 @@
       "name": "Iono's Wattrel",
       "_list_data": {
         "card_id": "me2pt5-231",
-        "list_price": "$11.42",
+        "list_price": "$11.48",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-231/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.48",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Marill #232 - Ascended Heroes | Pokémon | Scrydex",
@@ -67930,10 +69801,19 @@
       "name": "Marill",
       "_list_data": {
         "card_id": "me2pt5-232",
-        "list_price": "$16.38",
+        "list_price": "$16.89",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-232/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$16.89",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Misdreavus #233 - Ascended Heroes | Pokémon | Scrydex",
@@ -68351,10 +70231,19 @@
       "name": "Misdreavus",
       "_list_data": {
         "card_id": "me2pt5-233",
-        "list_price": "$6.56",
+        "list_price": "$6.80",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-233/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.80",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Banette #234 - Ascended Heroes | Pokémon | Scrydex",
@@ -68981,10 +70870,19 @@
       "name": "Banette",
       "_list_data": {
         "card_id": "me2pt5-234",
-        "list_price": "$11.18",
+        "list_price": "$11.66",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-234/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.66",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Togekiss #235 - Ascended Heroes | Pokémon | Scrydex",
@@ -69525,10 +71423,19 @@
       "name": "Togekiss",
       "_list_data": {
         "card_id": "me2pt5-235",
-        "list_price": "$6.89",
+        "list_price": "$6.97",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-235/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.97",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Slurpuff #236 - Ascended Heroes | Pokémon | Scrydex",
@@ -70128,10 +72035,19 @@
       "name": "Slurpuff",
       "_list_data": {
         "card_id": "me2pt5-236",
-        "list_price": "$8.85",
-        "price_trend": "down",
+        "list_price": "$9.32",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-236/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$9.32",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hop's Trevenant #237 - Ascended Heroes | Pokémon | Scrydex",
@@ -70478,10 +72394,19 @@
       "name": "Hop's Trevenant",
       "_list_data": {
         "card_id": "me2pt5-237",
-        "list_price": "$5.61",
+        "list_price": "$5.71",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-237/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.71",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mimikyu #238 - Ascended Heroes | Pokémon | Scrydex",
@@ -71313,10 +73238,19 @@
       "name": "Team Rocket's Mimikyu",
       "_list_data": {
         "card_id": "me2pt5-238",
-        "list_price": "$29.49",
-        "price_trend": "up",
+        "list_price": "$29.29",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-238/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$29.29",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Dugtrio #239 - Ascended Heroes | Pokémon | Scrydex",
@@ -72014,10 +73948,19 @@
       "name": "Team Rocket's Dugtrio",
       "_list_data": {
         "card_id": "me2pt5-239",
-        "list_price": "$11.28",
+        "list_price": "$13.64",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-239/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$13.64",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hitmontop #240 - Ascended Heroes | Pokémon | Scrydex",
@@ -72517,10 +74460,19 @@
       "name": "Hitmontop",
       "_list_data": {
         "card_id": "me2pt5-240",
-        "list_price": "$7.35",
-        "price_trend": "up",
+        "list_price": "$7.61",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-240/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.61",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Medicham #241 - Ascended Heroes | Pokémon | Scrydex",
@@ -73077,10 +75029,19 @@
       "name": "Medicham",
       "_list_data": {
         "card_id": "me2pt5-241",
-        "list_price": "$6.35",
-        "price_trend": "down",
+        "list_price": "$6.96",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-241/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.96",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Carbink #242 - Ascended Heroes | Pokémon | Scrydex",
@@ -73509,10 +75470,19 @@
       "name": "Carbink",
       "_list_data": {
         "card_id": "me2pt5-242",
-        "list_price": "$5.44",
-        "price_trend": "up",
+        "list_price": "$5.16",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-242/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.16",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mightyena #243 - Ascended Heroes | Pokémon | Scrydex",
@@ -74170,10 +76140,19 @@
       "name": "Mightyena",
       "_list_data": {
         "card_id": "me2pt5-243",
-        "list_price": "$8.06",
+        "list_price": "$8.14",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-243/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$8.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cynthia's Spiritomb #244 - Ascended Heroes | Pokémon | Scrydex",
@@ -74730,10 +76709,19 @@
       "name": "Cynthia's Spiritomb",
       "_list_data": {
         "card_id": "me2pt5-244",
-        "list_price": "$14.77",
+        "list_price": "$15.28",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-244/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$15.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Galarian Obstagoon #245 - Ascended Heroes | Pokémon | Scrydex",
@@ -75237,10 +77225,19 @@
       "name": "Galarian Obstagoon",
       "_list_data": {
         "card_id": "me2pt5-245",
-        "list_price": "$3.64",
+        "list_price": "$3.97",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-245/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.97",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mawile #246 - Ascended Heroes | Pokémon | Scrydex",
@@ -75672,10 +77669,19 @@
       "name": "Mawile",
       "_list_data": {
         "card_id": "me2pt5-246",
-        "list_price": "$6.52",
+        "list_price": "$6.61",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-246/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.61",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dreepy #247 - Ascended Heroes | Pokémon | Scrydex",
@@ -76171,10 +78177,19 @@
       "name": "Dreepy",
       "_list_data": {
         "card_id": "me2pt5-247",
-        "list_price": "$11.53",
-        "price_trend": "down",
+        "list_price": "$11.98",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-247/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.98",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drakloak #248 - Ascended Heroes | Pokémon | Scrydex",
@@ -76677,10 +78692,19 @@
       "name": "Drakloak",
       "_list_data": {
         "card_id": "me2pt5-248",
-        "list_price": "$11.05",
-        "price_trend": "down",
+        "list_price": "$11.31",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-248/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.31",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Larry's Staraptor #249 - Ascended Heroes | Pokémon | Scrydex",
@@ -77112,10 +79136,19 @@
       "name": "Larry's Staraptor",
       "_list_data": {
         "card_id": "me2pt5-249",
-        "list_price": "$4.80",
-        "price_trend": "down",
+        "list_price": "$4.96",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-249/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.96",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fan Rotom #250 - Ascended Heroes | Pokémon | Scrydex",
@@ -77473,10 +79506,19 @@
       "name": "Fan Rotom",
       "_list_data": {
         "card_id": "me2pt5-250",
-        "list_price": "$3.97",
-        "price_trend": "down",
+        "list_price": "$4.71",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-250/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.71",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sprigatito ex #251 - Ascended Heroes | Pokémon | Scrydex",
@@ -77838,10 +79880,19 @@
       "name": "Sprigatito ex",
       "_list_data": {
         "card_id": "me2pt5-251",
-        "list_price": "$2.63",
-        "price_trend": "up",
+        "list_price": "$2.77",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-251/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.77",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Stunfisk ex #252 - Ascended Heroes | Pokémon | Scrydex",
@@ -77995,10 +80046,19 @@
       "name": "Stunfisk ex",
       "_list_data": {
         "card_id": "me2pt5-252",
-        "list_price": "$0.71",
+        "list_price": "$0.83",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-252/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.83",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Audino ex #253 - Ascended Heroes | Pokémon | Scrydex",
@@ -78418,10 +80478,19 @@
       "name": "Mega Audino ex",
       "_list_data": {
         "card_id": "me2pt5-253",
-        "list_price": "$2.11",
-        "price_trend": "up",
+        "list_price": "$1.95",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-253/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.95",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Anthea & Concordia #254 - Ascended Heroes | Pokémon | Scrydex",
@@ -78697,10 +80766,19 @@
       "name": "Anthea & Concordia",
       "_list_data": {
         "card_id": "me2pt5-254",
-        "list_price": "$1.29",
-        "price_trend": "down",
+        "list_price": "$1.31",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-254/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.31",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Black Belt's Training #255 - Ascended Heroes | Pokémon | Scrydex",
@@ -78898,10 +80976,19 @@
       "name": "Black Belt's Training",
       "_list_data": {
         "card_id": "me2pt5-255",
-        "list_price": "$1.11",
-        "price_trend": "down",
+        "list_price": "$1.30",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-255/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.30",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Boss's Orders #256 - Ascended Heroes | Pokémon | Scrydex",
@@ -79226,10 +81313,19 @@
       "name": "Boss's Orders",
       "_list_data": {
         "card_id": "me2pt5-256",
-        "list_price": "$9.87",
-        "price_trend": "down",
+        "list_price": "$10.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-256/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$10.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Canari #257 - Ascended Heroes | Pokémon | Scrydex",
@@ -79775,10 +81871,19 @@
       "name": "Canari",
       "_list_data": {
         "card_id": "me2pt5-257",
-        "list_price": "$4.15",
-        "price_trend": "up",
+        "list_price": "$4.16",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-257/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.16",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Cheren #258 - Ascended Heroes | Pokémon | Scrydex",
@@ -79980,10 +82085,19 @@
       "name": "Cheren",
       "_list_data": {
         "card_id": "me2pt5-258",
-        "list_price": "$0.74",
+        "list_price": "$0.86",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-258/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.86",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Counter Gain #259 - Ascended Heroes | Pokémon | Scrydex",
@@ -80115,10 +82229,19 @@
       "name": "Counter Gain",
       "_list_data": {
         "card_id": "me2pt5-259",
-        "list_price": "$0.53",
+        "list_price": "$0.64",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-259/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.64",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Glass Trumpet #260 - Ascended Heroes | Pokémon | Scrydex",
@@ -80250,10 +82373,19 @@
       "name": "Glass Trumpet",
       "_list_data": {
         "card_id": "me2pt5-260",
-        "list_price": "$0.70",
+        "list_price": "$0.79",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-260/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.79",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jamming Tower #261 - Ascended Heroes | Pokémon | Scrydex",
@@ -80381,10 +82513,19 @@
       "name": "Jamming Tower",
       "_list_data": {
         "card_id": "me2pt5-261",
-        "list_price": "$0.96",
-        "price_trend": "down",
+        "list_price": "$1.36",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-261/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.36",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's PP Up #262 - Ascended Heroes | Pokémon | Scrydex",
@@ -80726,10 +82867,19 @@
       "name": "N's PP Up",
       "_list_data": {
         "card_id": "me2pt5-262",
-        "list_price": "$2.78",
-        "price_trend": "down",
+        "list_price": "$3.28",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-262/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Transceiver #263 - Ascended Heroes | Pokémon | Scrydex",
@@ -80861,10 +83011,19 @@
       "name": "Team Rocket's Transceiver",
       "_list_data": {
         "card_id": "me2pt5-263",
-        "list_price": "$2.04",
-        "price_trend": "up",
+        "list_price": "$1.70",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-263/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.70",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ultra Ball #264 - Ascended Heroes | Pokémon | Scrydex",
@@ -80996,10 +83155,19 @@
       "name": "Ultra Ball",
       "_list_data": {
         "card_id": "me2pt5-264",
-        "list_price": "$8.60",
-        "price_trend": "down",
+        "list_price": "$8.80",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-264/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$8.80",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Froslass ex #265 - Ascended Heroes | Pokémon | Scrydex",
@@ -81704,10 +83872,19 @@
       "name": "Mega Froslass ex",
       "_list_data": {
         "card_id": "me2pt5-265",
-        "list_price": "$16.11",
-        "price_trend": "down",
+        "list_price": "$17.79",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-265/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$17.79",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Eelektross ex #266 - Ascended Heroes | Pokémon | Scrydex",
@@ -82280,10 +84457,19 @@
       "name": "Mega Eelektross ex",
       "_list_data": {
         "card_id": "me2pt5-266",
-        "list_price": "$5.68",
-        "price_trend": "down",
+        "list_price": "$5.54",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-266/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.54",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Diancie ex #267 - Ascended Heroes | Pokémon | Scrydex",
@@ -82859,10 +85045,19 @@
       "name": "Mega Diancie ex",
       "_list_data": {
         "card_id": "me2pt5-267",
-        "list_price": "$11.28",
+        "list_price": "$11.34",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-267/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.34",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Hawlucha ex #268 - Ascended Heroes | Pokémon | Scrydex",
@@ -83500,10 +85695,19 @@
       "name": "Mega Hawlucha ex",
       "_list_data": {
         "card_id": "me2pt5-268",
-        "list_price": "$8.31",
-        "price_trend": "down",
+        "list_price": "$8.62",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-268/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$8.62",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gengar ex #269 - Ascended Heroes | Pokémon | Scrydex",
@@ -84419,10 +86623,19 @@
       "name": "Mega Gengar ex",
       "_list_data": {
         "card_id": "me2pt5-269",
-        "list_price": "$89.74",
-        "price_trend": "down",
+        "list_price": "$92.29",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-269/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$92.29",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Scrafty ex #270 - Ascended Heroes | Pokémon | Scrydex",
@@ -84992,10 +87205,19 @@
       "name": "Mega Scrafty ex",
       "_list_data": {
         "card_id": "me2pt5-270",
-        "list_price": "$6.79",
+        "list_price": "$7.18",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-270/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #271 - Ascended Heroes | Pokémon | Scrydex",
@@ -85851,10 +88073,19 @@
       "name": "Mega Dragonite ex",
       "_list_data": {
         "card_id": "me2pt5-271",
-        "list_price": "$60.01",
-        "price_trend": "down",
+        "list_price": "$62.74",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-271/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$62.74",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Meganium ex #272 - Ascended Heroes | Pokémon | Scrydex",
@@ -86574,10 +88805,19 @@
       "name": "Mega Meganium ex",
       "_list_data": {
         "card_id": "me2pt5-272",
-        "list_price": "$99.19",
+        "list_price": "$95.81",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-272/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$95.81",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Emboar ex #273 - Ascended Heroes | Pokémon | Scrydex",
@@ -87040,10 +89280,19 @@
       "name": "Mega Emboar ex",
       "_list_data": {
         "card_id": "me2pt5-273",
-        "list_price": "$76.09",
+        "list_price": "$71.53",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-273/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$71.53",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Feraligatr ex #274 - Ascended Heroes | Pokémon | Scrydex",
@@ -87572,10 +89821,19 @@
       "name": "Mega Feraligatr ex",
       "_list_data": {
         "card_id": "me2pt5-274",
-        "list_price": "$173.86",
-        "price_trend": "up",
+        "list_price": "$171.14",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-274/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$171.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Froslass ex #275 - Ascended Heroes | Pokémon | Scrydex",
@@ -88049,10 +90307,19 @@
       "name": "Mega Froslass ex",
       "_list_data": {
         "card_id": "me2pt5-275",
-        "list_price": "$91.67",
-        "price_trend": "down",
+        "list_price": "$96.07",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-275/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$96.07",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pikachu ex #276 - Ascended Heroes | Pokémon | Scrydex",
@@ -89011,10 +91278,19 @@
       "name": "Pikachu ex",
       "_list_data": {
         "card_id": "me2pt5-276",
-        "list_price": "$1,115.05",
+        "list_price": "$1,224.19",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-276/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1,224.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pikachu ex #277 - Ascended Heroes | Pokémon | Scrydex",
@@ -89922,10 +92198,19 @@
       "name": "Pikachu ex",
       "_list_data": {
         "card_id": "me2pt5-277",
-        "list_price": "$483.90",
+        "list_price": "$482.40",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-277/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$482.40",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Eelektross ex #278 - Ascended Heroes | Pokémon | Scrydex",
@@ -90269,10 +92554,19 @@
       "name": "Mega Eelektross ex",
       "_list_data": {
         "card_id": "me2pt5-278",
-        "list_price": "$42.05",
+        "list_price": "$44.62",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-278/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$44.62",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iono's Bellibolt ex #279 - Ascended Heroes | Pokémon | Scrydex",
@@ -90749,10 +93043,19 @@
       "name": "Iono's Bellibolt ex",
       "_list_data": {
         "card_id": "me2pt5-279",
-        "list_price": "$79.83",
-        "price_trend": "up",
+        "list_price": "$76.85",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-279/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$76.85",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lillie's Clefairy ex #280 - Ascended Heroes | Pokémon | Scrydex",
@@ -91484,10 +93787,19 @@
       "name": "Lillie's Clefairy ex",
       "_list_data": {
         "card_id": "me2pt5-280",
-        "list_price": "$206.68",
-        "price_trend": "up",
+        "list_price": "$205.98",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-280/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$205.98",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Team Rocket's Mewtwo ex #281 - Ascended Heroes | Pokémon | Scrydex",
@@ -92519,10 +94831,19 @@
       "name": "Team Rocket's Mewtwo ex",
       "_list_data": {
         "card_id": "me2pt5-281",
-        "list_price": "$470.05",
+        "list_price": "$455.10",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-281/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$455.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Diancie ex #282 - Ascended Heroes | Pokémon | Scrydex",
@@ -92997,10 +95318,19 @@
       "name": "Mega Diancie ex",
       "_list_data": {
         "card_id": "me2pt5-282",
-        "list_price": "$74.07",
-        "price_trend": "up",
+        "list_price": "$73.03",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-282/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$73.03",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Hawlucha ex #283 - Ascended Heroes | Pokémon | Scrydex",
@@ -93598,10 +95928,19 @@
       "name": "Mega Hawlucha ex",
       "_list_data": {
         "card_id": "me2pt5-283",
-        "list_price": "$69.68",
-        "price_trend": "down",
+        "list_price": "$73.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-283/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$73.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Gengar ex #284 - Ascended Heroes | Pokémon | Scrydex",
@@ -94643,10 +96982,19 @@
       "name": "Mega Gengar ex",
       "_list_data": {
         "card_id": "me2pt5-284",
-        "list_price": "$1,409.10",
-        "price_trend": "up",
+        "list_price": "$1,316.45",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-284/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1,316.45",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Scrafty ex #285 - Ascended Heroes | Pokémon | Scrydex",
@@ -95306,10 +97654,19 @@
       "name": "Mega Scrafty ex",
       "_list_data": {
         "card_id": "me2pt5-285",
-        "list_price": "$77.24",
-        "price_trend": "up",
+        "list_price": "$76.54",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-285/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$76.54",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "N's Zoroark ex #286 - Ascended Heroes | Pokémon | Scrydex",
@@ -96156,10 +98513,19 @@
       "name": "N's Zoroark ex",
       "_list_data": {
         "card_id": "me2pt5-286",
-        "list_price": "$192.35",
+        "list_price": "$178.75",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-286/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$178.75",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Marnie's Grimmsnarl ex #287 - Ascended Heroes | Pokémon | Scrydex",
@@ -96708,10 +99074,19 @@
       "name": "Marnie's Grimmsnarl ex",
       "_list_data": {
         "card_id": "me2pt5-287",
-        "list_price": "$83.15",
+        "list_price": "$83.60",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-287/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$83.60",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fezandipiti ex #288 - Ascended Heroes | Pokémon | Scrydex",
@@ -97313,10 +99688,19 @@
       "name": "Fezandipiti ex",
       "_list_data": {
         "card_id": "me2pt5-288",
-        "list_price": "$77.40",
+        "list_price": "$72.14",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-288/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$72.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Steven's Metagross ex #289 - Ascended Heroes | Pokémon | Scrydex",
@@ -97924,10 +100308,19 @@
       "name": "Steven's Metagross ex",
       "_list_data": {
         "card_id": "me2pt5-289",
-        "list_price": "$96.89",
+        "list_price": "$100.65",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-289/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$100.65",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #290 - Ascended Heroes | Pokémon | Scrydex",
@@ -98836,10 +101229,19 @@
       "name": "Mega Dragonite ex",
       "_list_data": {
         "card_id": "me2pt5-290",
-        "list_price": "$852.17",
+        "list_price": "$830.82",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-290/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$830.82",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Canari #291 - Ascended Heroes | Pokémon | Scrydex",
@@ -99090,10 +101492,19 @@
       "name": "Canari",
       "_list_data": {
         "card_id": "me2pt5-291",
-        "list_price": "$45.44",
-        "price_trend": "down",
+        "list_price": "$47.93",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-291/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$47.93",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Iris's Fighting Spirit #292 - Ascended Heroes | Pokémon | Scrydex",
@@ -99480,10 +101891,19 @@
       "name": "Iris's Fighting Spirit",
       "_list_data": {
         "card_id": "me2pt5-292",
-        "list_price": "$42.35",
-        "price_trend": "down",
+        "list_price": "$42.58",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-292/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$42.58",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Surfer #293 - Ascended Heroes | Pokémon | Scrydex",
@@ -99865,10 +102285,19 @@
       "name": "Surfer",
       "_list_data": {
         "card_id": "me2pt5-293",
-        "list_price": "$28.91",
-        "price_trend": "down",
+        "list_price": "$30.20",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-293/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$30.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Charizard Y ex #294 - Ascended Heroes | Pokémon | Scrydex",
@@ -100839,10 +103268,19 @@
       "name": "Mega Charizard Y ex",
       "_list_data": {
         "card_id": "me2pt5-294",
-        "list_price": "$645.22",
+        "list_price": "$663.76",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-294/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$663.76",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Dragonite ex #295 - Ascended Heroes | Pokémon | Scrydex",
@@ -101812,11 +104250,21 @@
       "name": "Mega Dragonite ex",
       "_list_data": {
         "card_id": "me2pt5-295",
-        "list_price": "$334.59",
-        "price_trend": "up",
+        "list_price": "$335.05",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me2pt5-295/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$335.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     }
   ],
-  "errors": []
+  "errors": [],
+  "price_updated_at": "2026-05-18"
 }
