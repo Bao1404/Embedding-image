@@ -61,5 +61,10 @@ class GeminiEmbeddingService:
                 return None
                 
         except Exception as e:
+            err_msg = str(e).lower()
+            # Rate limit errors phải được raise lên để caller (migrate) xử lý đổi key
+            if '429' in err_msg or 'resource_exhausted' in err_msg or 'quota' in err_msg:
+                logger.warning(f"Rate limit từ Gemini API: {e}")
+                raise  # Để migrate_to_qdrant bắt và đổi key
             logger.error(f"Lỗi khi embed ảnh với Gemini: {e}")
             return None

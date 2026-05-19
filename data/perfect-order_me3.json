@@ -216,9 +216,10 @@
       "_list_data": {
         "card_id": "me3-1",
         "list_price": "$0.06",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-1/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ariados #2 - Perfect Order | Pokémon | Scrydex",
@@ -424,10 +425,19 @@
       "name": "Ariados",
       "_list_data": {
         "card_id": "me3-2",
-        "list_price": "$0.07",
-        "price_trend": "up",
+        "list_price": "$0.08",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-2/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Shaymin #3 - Perfect Order | Pokémon | Scrydex",
@@ -638,10 +648,19 @@
       "name": "Shaymin",
       "_list_data": {
         "card_id": "me3-3",
-        "list_price": "$0.13",
-        "price_trend": "up",
+        "list_price": "$0.12",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-3/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snivy #4 - Perfect Order | Pokémon | Scrydex",
@@ -847,10 +866,19 @@
       "name": "Snivy",
       "_list_data": {
         "card_id": "me3-4",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-4/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Servine #5 - Perfect Order | Pokémon | Scrydex",
@@ -1056,10 +1084,19 @@
       "name": "Servine",
       "_list_data": {
         "card_id": "me3-5",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-5/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Serperior #6 - Perfect Order | Pokémon | Scrydex",
@@ -1284,10 +1321,19 @@
       "name": "Serperior",
       "_list_data": {
         "card_id": "me3-6",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.17",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-6/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Scatterbug #7 - Perfect Order | Pokémon | Scrydex",
@@ -1501,10 +1547,19 @@
       "name": "Scatterbug",
       "_list_data": {
         "card_id": "me3-7",
-        "list_price": "$0.14",
+        "list_price": "$0.10",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-7/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spewpa #8 - Perfect Order | Pokémon | Scrydex",
@@ -1716,10 +1771,19 @@
       "name": "Spewpa",
       "_list_data": {
         "card_id": "me3-8",
-        "list_price": "$0.19",
+        "list_price": "$0.18",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-8/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Vivillon #9 - Perfect Order | Pokémon | Scrydex",
@@ -1943,10 +2007,19 @@
       "name": "Vivillon",
       "_list_data": {
         "card_id": "me3-9",
-        "list_price": "$0.15",
-        "price_trend": "up",
+        "list_price": "$0.12",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-9/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rowlet #10 - Perfect Order | Pokémon | Scrydex",
@@ -2171,10 +2244,19 @@
       "name": "Rowlet",
       "_list_data": {
         "card_id": "me3-10",
-        "list_price": "$0.18",
-        "price_trend": "up",
+        "list_price": "$0.14",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-10/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dartrix #11 - Perfect Order | Pokémon | Scrydex",
@@ -2399,10 +2481,19 @@
       "name": "Dartrix",
       "_list_data": {
         "card_id": "me3-11",
-        "list_price": "$0.20",
-        "price_trend": "up",
+        "list_price": "$0.14",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-11/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Decidueye ex #12 - Perfect Order | Pokémon | Scrydex",
@@ -2567,10 +2658,19 @@
       "name": "Decidueye ex",
       "_list_data": {
         "card_id": "me3-12",
-        "list_price": "$0.54",
+        "list_price": "$0.56",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-12/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.56",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fletchinder #13 - Perfect Order | Pokémon | Scrydex",
@@ -2777,10 +2877,19 @@
       "name": "Fletchinder",
       "_list_data": {
         "card_id": "me3-13",
-        "list_price": "$0.12",
+        "list_price": "$0.11",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-13/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Talonflame #14 - Perfect Order | Pokémon | Scrydex",
@@ -3009,10 +3118,19 @@
       "name": "Talonflame",
       "_list_data": {
         "card_id": "me3-14",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-14/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salandit #15 - Perfect Order | Pokémon | Scrydex",
@@ -3218,10 +3336,19 @@
       "name": "Salandit",
       "_list_data": {
         "card_id": "me3-15",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-15/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salazzle ex #16 - Perfect Order | Pokémon | Scrydex",
@@ -3385,10 +3512,19 @@
       "name": "Salazzle ex",
       "_list_data": {
         "card_id": "me3-16",
-        "list_price": "$0.45",
+        "list_price": "$0.49",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-16/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.49",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Turtonator #17 - Perfect Order | Pokémon | Scrydex",
@@ -3619,10 +3755,19 @@
       "name": "Turtonator",
       "_list_data": {
         "card_id": "me3-17",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-17/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Seel #18 - Perfect Order | Pokémon | Scrydex",
@@ -3846,10 +3991,19 @@
       "name": "Seel",
       "_list_data": {
         "card_id": "me3-18",
-        "list_price": "$0.10",
+        "list_price": "$0.11",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-18/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dewgong #19 - Perfect Order | Pokémon | Scrydex",
@@ -4079,10 +4233,19 @@
       "name": "Dewgong",
       "_list_data": {
         "card_id": "me3-19",
-        "list_price": "$0.13",
-        "price_trend": "none",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-19/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Staryu #20 - Perfect Order | Pokémon | Scrydex",
@@ -4296,10 +4459,19 @@
       "name": "Staryu",
       "_list_data": {
         "card_id": "me3-20",
-        "list_price": "$0.19",
+        "list_price": "$0.13",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-20/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Starmie ex #21 - Perfect Order | Pokémon | Scrydex",
@@ -4457,10 +4629,19 @@
       "name": "Mega Starmie ex",
       "_list_data": {
         "card_id": "me3-21",
-        "list_price": "$0.92",
+        "list_price": "$0.87",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-21/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.87",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lapras ex #22 - Perfect Order | Pokémon | Scrydex",
@@ -4622,10 +4803,19 @@
       "name": "Lapras ex",
       "_list_data": {
         "card_id": "me3-22",
-        "list_price": "$0.47",
+        "list_price": "$0.55",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-22/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.55",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Amaura #23 - Perfect Order | Pokémon | Scrydex",
@@ -4842,10 +5032,19 @@
       "name": "Amaura",
       "_list_data": {
         "card_id": "me3-23",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-23/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aurorus #24 - Perfect Order | Pokémon | Scrydex",
@@ -5077,10 +5276,19 @@
       "name": "Aurorus",
       "_list_data": {
         "card_id": "me3-24",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.26",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-24/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.26",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Volcanion #25 - Perfect Order | Pokémon | Scrydex",
@@ -5307,10 +5515,19 @@
       "name": "Volcanion",
       "_list_data": {
         "card_id": "me3-25",
-        "list_price": "$0.10",
-        "price_trend": "none",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-25/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Shinx #26 - Perfect Order | Pokémon | Scrydex",
@@ -5524,10 +5741,19 @@
       "name": "Shinx",
       "_list_data": {
         "card_id": "me3-26",
-        "list_price": "$0.13",
-        "price_trend": "none",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-26/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Luxio #27 - Perfect Order | Pokémon | Scrydex",
@@ -5744,10 +5970,19 @@
       "name": "Luxio",
       "_list_data": {
         "card_id": "me3-27",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-27/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Luxray #28 - Perfect Order | Pokémon | Scrydex",
@@ -5973,10 +6208,19 @@
       "name": "Luxray",
       "_list_data": {
         "card_id": "me3-28",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.20",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-28/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dedenne #29 - Perfect Order | Pokémon | Scrydex",
@@ -6202,7 +6446,8 @@
         "list_price": "$0.14",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-29/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Clefairy #30 - Perfect Order | Pokémon | Scrydex",
@@ -6425,10 +6670,19 @@
       "name": "Clefairy",
       "_list_data": {
         "card_id": "me3-30",
-        "list_price": "$0.14",
+        "list_price": "$0.16",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-30/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Clefable ex #31 - Perfect Order | Pokémon | Scrydex",
@@ -6590,10 +6844,19 @@
       "name": "Mega Clefable ex",
       "_list_data": {
         "card_id": "me3-31",
-        "list_price": "$0.79",
-        "price_trend": "up",
+        "list_price": "$0.65",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-31/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.65",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mawile #32 - Perfect Order | Pokémon | Scrydex",
@@ -6801,10 +7064,19 @@
       "name": "Mawile",
       "_list_data": {
         "card_id": "me3-32",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.15",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-32/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Espurr #33 - Perfect Order | Pokémon | Scrydex",
@@ -7018,10 +7290,19 @@
       "name": "Espurr",
       "_list_data": {
         "card_id": "me3-33",
-        "list_price": "$0.07",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-33/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowstic #34 - Perfect Order | Pokémon | Scrydex",
@@ -7243,10 +7524,19 @@
       "name": "Meowstic",
       "_list_data": {
         "card_id": "me3-34",
-        "list_price": "$0.09",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-34/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spritzee #35 - Perfect Order | Pokémon | Scrydex",
@@ -7468,10 +7758,19 @@
       "name": "Spritzee",
       "_list_data": {
         "card_id": "me3-35",
-        "list_price": "$0.10",
-        "price_trend": "none",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-35/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aromatisse #36 - Perfect Order | Pokémon | Scrydex",
@@ -7696,10 +7995,19 @@
       "name": "Aromatisse",
       "_list_data": {
         "card_id": "me3-36",
-        "list_price": "$0.07",
-        "price_trend": "down",
+        "list_price": "$0.11",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-36/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Nosepass #37 - Perfect Order | Pokémon | Scrydex",
@@ -7916,10 +8224,19 @@
       "name": "Nosepass",
       "_list_data": {
         "card_id": "me3-37",
-        "list_price": "$0.13",
+        "list_price": "$0.12",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-37/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Probopass #38 - Perfect Order | Pokémon | Scrydex",
@@ -8147,10 +8464,19 @@
       "name": "Probopass",
       "_list_data": {
         "card_id": "me3-38",
-        "list_price": "$0.10",
+        "list_price": "$0.08",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-38/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hippopotas #39 - Perfect Order | Pokémon | Scrydex",
@@ -8378,9 +8704,10 @@
       "_list_data": {
         "card_id": "me3-39",
         "list_price": "$0.09",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-39/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hippowdon #40 - Perfect Order | Pokémon | Scrydex",
@@ -8615,9 +8942,10 @@
       "_list_data": {
         "card_id": "me3-40",
         "list_price": "$0.09",
-        "price_trend": "down",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-40/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Landorus #41 - Perfect Order | Pokémon | Scrydex",
@@ -8834,10 +9162,19 @@
       "name": "Landorus",
       "_list_data": {
         "card_id": "me3-41",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-41/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Binacle #42 - Perfect Order | Pokémon | Scrydex",
@@ -9061,10 +9398,19 @@
       "name": "Binacle",
       "_list_data": {
         "card_id": "me3-42",
-        "list_price": "$0.16",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-42/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Barbaracle #43 - Perfect Order | Pokémon | Scrydex",
@@ -9287,10 +9633,19 @@
       "name": "Barbaracle",
       "_list_data": {
         "card_id": "me3-43",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-43/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tyrunt #44 - Perfect Order | Pokémon | Scrydex",
@@ -9507,10 +9862,19 @@
       "name": "Tyrunt",
       "_list_data": {
         "card_id": "me3-44",
-        "list_price": "$0.12",
-        "price_trend": "down",
+        "list_price": "$0.20",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-44/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tyrantrum #45 - Perfect Order | Pokémon | Scrydex",
@@ -9737,10 +10101,19 @@
       "name": "Tyrantrum",
       "_list_data": {
         "card_id": "me3-45",
-        "list_price": "$0.16",
-        "price_trend": "down",
+        "list_price": "$0.28",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-45/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hawlucha #46 - Perfect Order | Pokémon | Scrydex",
@@ -9958,7 +10331,8 @@
         "list_price": "$0.13",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-46/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #47 - Perfect Order | Pokémon | Scrydex",
@@ -10124,10 +10498,19 @@
       "name": "Mega Zygarde ex",
       "_list_data": {
         "card_id": "me3-47",
-        "list_price": "$0.65",
+        "list_price": "$0.56",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-47/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.56",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gastly #48 - Perfect Order | Pokémon | Scrydex",
@@ -10341,10 +10724,19 @@
       "name": "Gastly",
       "_list_data": {
         "card_id": "me3-48",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-48/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Haunter #49 - Perfect Order | Pokémon | Scrydex",
@@ -10550,10 +10942,19 @@
       "name": "Haunter",
       "_list_data": {
         "card_id": "me3-49",
-        "list_price": "$0.16",
-        "price_trend": "none",
+        "list_price": "$0.22",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-49/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gengar #50 - Perfect Order | Pokémon | Scrydex",
@@ -10900,10 +11301,19 @@
       "name": "Gengar",
       "_list_data": {
         "card_id": "me3-50",
-        "list_price": "$0.62",
+        "list_price": "$0.60",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-50/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.60",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Skorupi #51 - Perfect Order | Pokémon | Scrydex",
@@ -11120,9 +11530,10 @@
       "_list_data": {
         "card_id": "me3-51",
         "list_price": "$0.09",
-        "price_trend": "down",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-51/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drapion #52 - Perfect Order | Pokémon | Scrydex",
@@ -11341,10 +11752,19 @@
       "name": "Drapion",
       "_list_data": {
         "card_id": "me3-52",
-        "list_price": "$0.07",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-52/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yveltal ex #53 - Perfect Order | Pokémon | Scrydex",
@@ -11503,10 +11923,19 @@
       "name": "Yveltal ex",
       "_list_data": {
         "card_id": "me3-53",
-        "list_price": "$0.49",
-        "price_trend": "up",
+        "list_price": "$0.48",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-53/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.48",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Chien-Pao #54 - Perfect Order | Pokémon | Scrydex",
@@ -11730,10 +12159,19 @@
       "name": "Chien-Pao",
       "_list_data": {
         "card_id": "me3-54",
-        "list_price": "$0.12",
-        "price_trend": "none",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-54/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Skarmory ex #55 - Perfect Order | Pokémon | Scrydex",
@@ -11887,10 +12325,19 @@
       "name": "Mega Skarmory ex",
       "_list_data": {
         "card_id": "me3-55",
-        "list_price": "$0.53",
-        "price_trend": "none",
+        "list_price": "$0.46",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-55/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.46",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Honedge #56 - Perfect Order | Pokémon | Scrydex",
@@ -12109,10 +12556,19 @@
       "name": "Honedge",
       "_list_data": {
         "card_id": "me3-56",
-        "list_price": "$0.15",
+        "list_price": "$0.16",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-56/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Doublade #57 - Perfect Order | Pokémon | Scrydex",
@@ -12332,10 +12788,19 @@
       "name": "Doublade",
       "_list_data": {
         "card_id": "me3-57",
-        "list_price": "$0.14",
+        "list_price": "$0.13",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-57/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aegislash #58 - Perfect Order | Pokémon | Scrydex",
@@ -12560,10 +13025,19 @@
       "name": "Aegislash",
       "_list_data": {
         "card_id": "me3-58",
-        "list_price": "$0.15",
+        "list_price": "$0.16",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-58/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Klefki #59 - Perfect Order | Pokémon | Scrydex",
@@ -12777,10 +13251,19 @@
       "name": "Klefki",
       "_list_data": {
         "card_id": "me3-59",
-        "list_price": "$0.13",
+        "list_price": "$0.11",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-59/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rattata #60 - Perfect Order | Pokémon | Scrydex",
@@ -12986,10 +13469,19 @@
       "name": "Rattata",
       "_list_data": {
         "card_id": "me3-60",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.09",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-60/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Raticate #61 - Perfect Order | Pokémon | Scrydex",
@@ -13211,10 +13703,19 @@
       "name": "Raticate",
       "_list_data": {
         "card_id": "me3-61",
-        "list_price": "$0.17",
-        "price_trend": "up",
+        "list_price": "$0.11",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-61/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.11",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowth ex #62 - Perfect Order | Pokémon | Scrydex",
@@ -13381,10 +13882,19 @@
       "name": "Meowth ex",
       "_list_data": {
         "card_id": "me3-62",
-        "list_price": "$4.40",
+        "list_price": "$4.38",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-62/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.38",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snorlax #63 - Perfect Order | Pokémon | Scrydex",
@@ -13616,10 +14126,19 @@
       "name": "Snorlax",
       "_list_data": {
         "card_id": "me3-63",
-        "list_price": "$0.16",
-        "price_trend": "none",
+        "list_price": "$0.22",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-63/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bunnelby #64 - Perfect Order | Pokémon | Scrydex",
@@ -13825,10 +14344,19 @@
       "name": "Bunnelby",
       "_list_data": {
         "card_id": "me3-64",
-        "list_price": "$0.07",
-        "price_trend": "none",
+        "list_price": "$0.08",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-64/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.08",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Diggersby #65 - Perfect Order | Pokémon | Scrydex",
@@ -14055,10 +14583,19 @@
       "name": "Diggersby",
       "_list_data": {
         "card_id": "me3-65",
-        "list_price": "$0.13",
-        "price_trend": "up",
+        "list_price": "$0.12",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-65/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fletchling #66 - Perfect Order | Pokémon | Scrydex",
@@ -14285,10 +14822,19 @@
       "name": "Fletchling",
       "_list_data": {
         "card_id": "me3-66",
-        "list_price": "$0.08",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-66/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Furfrou #67 - Perfect Order | Pokémon | Scrydex",
@@ -14502,10 +15048,19 @@
       "name": "Furfrou",
       "_list_data": {
         "card_id": "me3-67",
-        "list_price": "$0.11",
+        "list_price": "$0.09",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-67/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Antique Jaw Fossil #68 - Perfect Order | Pokémon | Scrydex",
@@ -14719,10 +15274,19 @@
       "name": "Antique Jaw Fossil",
       "_list_data": {
         "card_id": "me3-68",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.17",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-68/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Antique Sail Fossil #69 - Perfect Order | Pokémon | Scrydex",
@@ -14928,10 +15492,19 @@
       "name": "Antique Sail Fossil",
       "_list_data": {
         "card_id": "me3-69",
-        "list_price": "$0.13",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-69/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Core Memory #70 - Perfect Order | Pokémon | Scrydex",
@@ -15150,10 +15723,19 @@
       "name": "Core Memory",
       "_list_data": {
         "card_id": "me3-70",
-        "list_price": "$0.10",
-        "price_trend": "none",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-70/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Crushing Hammer #71 - Perfect Order | Pokémon | Scrydex",
@@ -15356,10 +15938,19 @@
       "name": "Crushing Hammer",
       "_list_data": {
         "card_id": "me3-71",
-        "list_price": "$0.06",
-        "price_trend": "down",
+        "list_price": "$0.12",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-71/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.12",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Energy Search #72 - Perfect Order | Pokémon | Scrydex",
@@ -15562,10 +16153,19 @@
       "name": "Energy Search",
       "_list_data": {
         "card_id": "me3-72",
-        "list_price": "$0.22",
-        "price_trend": "up",
+        "list_price": "$0.13",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-72/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Energy Swatter #73 - Perfect Order | Pokémon | Scrydex",
@@ -15760,10 +16360,19 @@
       "name": "Energy Swatter",
       "_list_data": {
         "card_id": "me3-73",
-        "list_price": "$0.09",
-        "price_trend": "none",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-73/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hole-Digging Shovel #74 - Perfect Order | Pokémon | Scrydex",
@@ -15966,10 +16575,19 @@
       "name": "Hole-Digging Shovel",
       "_list_data": {
         "card_id": "me3-74",
-        "list_price": "$0.11",
-        "price_trend": "none",
+        "list_price": "$0.16",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-74/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jacinthe #75 - Perfect Order | Pokémon | Scrydex",
@@ -16164,10 +16782,19 @@
       "name": "Jacinthe",
       "_list_data": {
         "card_id": "me3-75",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-75/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Judge #76 - Perfect Order | Pokémon | Scrydex",
@@ -16374,10 +17001,19 @@
       "name": "Judge",
       "_list_data": {
         "card_id": "me3-76",
-        "list_price": "$0.18",
+        "list_price": "$0.09",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-76/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lumiose City #77 - Perfect Order | Pokémon | Scrydex",
@@ -16572,10 +17208,19 @@
       "name": "Lumiose City",
       "_list_data": {
         "card_id": "me3-77",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.14",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-77/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.14",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lumiose Galette #78 - Perfect Order | Pokémon | Scrydex",
@@ -16779,9 +17424,10 @@
       "_list_data": {
         "card_id": "me3-78",
         "list_price": "$0.06",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-78/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Naveen #79 - Perfect Order | Pokémon | Scrydex",
@@ -16980,10 +17626,19 @@
       "name": "Naveen",
       "_list_data": {
         "card_id": "me3-79",
-        "list_price": "$0.10",
-        "price_trend": "down",
+        "list_price": "$0.13",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-79/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Poké Ball #80 - Perfect Order | Pokémon | Scrydex",
@@ -17182,10 +17837,19 @@
       "name": "Poké Ball",
       "_list_data": {
         "card_id": "me3-80",
-        "list_price": "$0.13",
-        "price_trend": "none",
+        "list_price": "$0.17",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-80/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Poké Pad #81 - Perfect Order | Pokémon | Scrydex",
@@ -17400,10 +18064,19 @@
       "name": "Poké Pad",
       "_list_data": {
         "card_id": "me3-81",
-        "list_price": "$0.37",
-        "price_trend": "down",
+        "list_price": "$0.31",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-81/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.31",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Pokémon Catcher #82 - Perfect Order | Pokémon | Scrydex",
@@ -17606,10 +18279,19 @@
       "name": "Pokémon Catcher",
       "_list_data": {
         "card_id": "me3-82",
-        "list_price": "$0.14",
-        "price_trend": "up",
+        "list_price": "$0.07",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-82/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.07",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Potion #83 - Perfect Order | Pokémon | Scrydex",
@@ -17804,10 +18486,19 @@
       "name": "Potion",
       "_list_data": {
         "card_id": "me3-83",
-        "list_price": "$0.11",
-        "price_trend": "down",
+        "list_price": "$0.20",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-83/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rosa's Encouragement #84 - Perfect Order | Pokémon | Scrydex",
@@ -18010,10 +18701,19 @@
       "name": "Rosa's Encouragement",
       "_list_data": {
         "card_id": "me3-84",
-        "list_price": "$0.15",
-        "price_trend": "none",
+        "list_price": "$0.19",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-84/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tarragon #85 - Perfect Order | Pokémon | Scrydex",
@@ -18212,10 +18912,19 @@
       "name": "Tarragon",
       "_list_data": {
         "card_id": "me3-85",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.20",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-85/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Growing Grass Energy #86 - Perfect Order | Pokémon | Scrydex",
@@ -18425,10 +19134,19 @@
       "name": "Growing Grass Energy",
       "_list_data": {
         "card_id": "me3-86",
-        "list_price": "$0.25",
-        "price_trend": "up",
+        "list_price": "$0.17",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-86/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rocky Fighting Energy #87 - Perfect Order | Pokémon | Scrydex",
@@ -18626,10 +19344,19 @@
       "name": "Rocky Fighting Energy",
       "_list_data": {
         "card_id": "me3-87",
-        "list_price": "$0.52",
-        "price_trend": "up",
+        "list_price": "$0.24",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-87/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Telepathic Psychic Energy #88 - Perfect Order | Pokémon | Scrydex",
@@ -18823,10 +19550,19 @@
       "name": "Telepathic Psychic Energy",
       "_list_data": {
         "card_id": "me3-88",
-        "list_price": "$0.36",
-        "price_trend": "up",
+        "list_price": "$0.29",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-88/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.29",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spewpa #89 - Perfect Order | Pokémon | Scrydex",
@@ -18971,10 +19707,19 @@
       "name": "Spewpa",
       "_list_data": {
         "card_id": "me3-89",
-        "list_price": "$2.84",
-        "price_trend": "up",
+        "list_price": "$2.75",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-89/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.75",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rowlet #90 - Perfect Order | Pokémon | Scrydex",
@@ -19202,10 +19947,19 @@
       "name": "Rowlet",
       "_list_data": {
         "card_id": "me3-90",
-        "list_price": "$6.43",
-        "price_trend": "up",
+        "list_price": "$6.49",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-90/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.49",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Talonflame #91 - Perfect Order | Pokémon | Scrydex",
@@ -19359,10 +20113,19 @@
       "name": "Talonflame",
       "_list_data": {
         "card_id": "me3-91",
-        "list_price": "$3.22",
+        "list_price": "$2.99",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-91/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.99",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aurorus #92 - Perfect Order | Pokémon | Scrydex",
@@ -19728,10 +20491,19 @@
       "name": "Aurorus",
       "_list_data": {
         "card_id": "me3-92",
-        "list_price": "$4.20",
+        "list_price": "$4.46",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-92/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.46",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dedenne #93 - Perfect Order | Pokémon | Scrydex",
@@ -20015,10 +20787,19 @@
       "name": "Dedenne",
       "_list_data": {
         "card_id": "me3-93",
-        "list_price": "$7.33",
+        "list_price": "$7.42",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-93/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.42",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Clefairy #94 - Perfect Order | Pokémon | Scrydex",
@@ -20372,10 +21153,19 @@
       "name": "Clefairy",
       "_list_data": {
         "card_id": "me3-94",
-        "list_price": "$29.30",
+        "list_price": "$30.28",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-94/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$30.28",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Espurr #95 - Perfect Order | Pokémon | Scrydex",
@@ -20530,10 +21320,19 @@
       "name": "Espurr",
       "_list_data": {
         "card_id": "me3-95",
-        "list_price": "$4.79",
-        "price_trend": "down",
+        "list_price": "$7.52",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-95/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.52",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Probopass #96 - Perfect Order | Pokémon | Scrydex",
@@ -20764,10 +21563,19 @@
       "name": "Probopass",
       "_list_data": {
         "card_id": "me3-96",
-        "list_price": "$1.34",
+        "list_price": "$1.33",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-96/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.33",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drapion #97 - Perfect Order | Pokémon | Scrydex",
@@ -20923,10 +21731,19 @@
       "name": "Drapion",
       "_list_data": {
         "card_id": "me3-97",
-        "list_price": "$1.86",
-        "price_trend": "up",
+        "list_price": "$1.64",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-97/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.64",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Doublade #98 - Perfect Order | Pokémon | Scrydex",
@@ -21075,10 +21892,19 @@
       "name": "Doublade",
       "_list_data": {
         "card_id": "me3-98",
-        "list_price": "$3.75",
+        "list_price": "$3.37",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-98/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.37",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Raticate #99 - Perfect Order | Pokémon | Scrydex",
@@ -21377,10 +22203,19 @@
       "name": "Raticate",
       "_list_data": {
         "card_id": "me3-99",
-        "list_price": "$3.39",
+        "list_price": "$3.56",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-99/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.56",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Decidueye ex #100 - Perfect Order | Pokémon | Scrydex",
@@ -21545,10 +22380,19 @@
       "name": "Decidueye ex",
       "_list_data": {
         "card_id": "me3-100",
-        "list_price": "$3.91",
+        "list_price": "$3.75",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-100/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.75",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salazzle ex #101 - Perfect Order | Pokémon | Scrydex",
@@ -21704,10 +22548,19 @@
       "name": "Salazzle ex",
       "_list_data": {
         "card_id": "me3-101",
-        "list_price": "$2.57",
+        "list_price": "$2.50",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-101/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.50",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Starmie ex #102 - Perfect Order | Pokémon | Scrydex",
@@ -21869,10 +22722,19 @@
       "name": "Mega Starmie ex",
       "_list_data": {
         "card_id": "me3-102",
-        "list_price": "$13.05",
+        "list_price": "$12.36",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-102/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$12.36",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Clefable ex #103 - Perfect Order | Pokémon | Scrydex",
@@ -22104,10 +22966,19 @@
       "name": "Mega Clefable ex",
       "_list_data": {
         "card_id": "me3-103",
-        "list_price": "$7.85",
-        "price_trend": "up",
+        "list_price": "$7.48",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-103/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$7.48",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #104 - Perfect Order | Pokémon | Scrydex",
@@ -22347,10 +23218,19 @@
       "name": "Mega Zygarde ex",
       "_list_data": {
         "card_id": "me3-104",
-        "list_price": "$10.95",
-        "price_trend": "down",
+        "list_price": "$11.82",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-104/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.82",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yveltal ex #105 - Perfect Order | Pokémon | Scrydex",
@@ -22509,10 +23389,19 @@
       "name": "Yveltal ex",
       "_list_data": {
         "card_id": "me3-105",
-        "list_price": "$6.58",
+        "list_price": "$6.70",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-105/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.70",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Skarmory ex #106 - Perfect Order | Pokémon | Scrydex",
@@ -22658,10 +23547,19 @@
       "name": "Mega Skarmory ex",
       "_list_data": {
         "card_id": "me3-106",
-        "list_price": "$5.98",
+        "list_price": "$6.05",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-106/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.05",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowth ex #107 - Perfect Order | Pokémon | Scrydex",
@@ -23022,10 +23920,19 @@
       "name": "Meowth ex",
       "_list_data": {
         "card_id": "me3-107",
-        "list_price": "$19.66",
+        "list_price": "$19.53",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-107/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$19.53",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Energy Recycler #108 - Perfect Order | Pokémon | Scrydex",
@@ -23161,10 +24068,19 @@
       "name": "Energy Recycler",
       "_list_data": {
         "card_id": "me3-108",
-        "list_price": "$3.82",
-        "price_trend": "up",
+        "list_price": "$3.51",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-108/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.51",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Forest of Vitality #109 - Perfect Order | Pokémon | Scrydex",
@@ -23296,10 +24212,19 @@
       "name": "Forest of Vitality",
       "_list_data": {
         "card_id": "me3-109",
-        "list_price": "$8.38",
-        "price_trend": "up",
+        "list_price": "$6.92",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-109/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.92",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jacinthe #110 - Perfect Order | Pokémon | Scrydex",
@@ -23505,10 +24430,19 @@
       "name": "Jacinthe",
       "_list_data": {
         "card_id": "me3-110",
-        "list_price": "$5.17",
+        "list_price": "$4.68",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-110/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.68",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lumiose City #111 - Perfect Order | Pokémon | Scrydex",
@@ -23636,10 +24570,19 @@
       "name": "Lumiose City",
       "_list_data": {
         "card_id": "me3-111",
-        "list_price": "$3.18",
-        "price_trend": "up",
+        "list_price": "$2.80",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-111/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.80",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Naveen #112 - Perfect Order | Pokémon | Scrydex",
@@ -23837,10 +24780,19 @@
       "name": "Naveen",
       "_list_data": {
         "card_id": "me3-112",
-        "list_price": "$3.48",
-        "price_trend": "up",
+        "list_price": "$3.37",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/me3-112/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.37",
+          "trend": "none",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Poké Pad #113 - Perfect Order | Pokémon | Scrydex",
@@ -23980,10 +24932,19 @@
       "name": "Poké Pad",
       "_list_data": {
         "card_id": "me3-113",
-        "list_price": "$15.58",
-        "price_trend": "down",
+        "list_price": "$16.36",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-113/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$16.36",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rosa's Encouragement #114 - Perfect Order | Pokémon | Scrydex",
@@ -24189,10 +25150,19 @@
       "name": "Rosa's Encouragement",
       "_list_data": {
         "card_id": "me3-114",
-        "list_price": "$8.73",
-        "price_trend": "down",
+        "list_price": "$9.34",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-114/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$9.34",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sacred Ash #115 - Perfect Order | Pokémon | Scrydex",
@@ -24333,9 +25303,10 @@
       "_list_data": {
         "card_id": "me3-115",
         "list_price": "$3.55",
-        "price_trend": "up",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-115/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tarragon #116 - Perfect Order | Pokémon | Scrydex",
@@ -24471,10 +25442,19 @@
       "name": "Tarragon",
       "_list_data": {
         "card_id": "me3-116",
-        "list_price": "$3.89",
+        "list_price": "$3.97",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-116/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.97",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Wondrous Patch #117 - Perfect Order | Pokémon | Scrydex",
@@ -24606,10 +25586,19 @@
       "name": "Wondrous Patch",
       "_list_data": {
         "card_id": "me3-117",
-        "list_price": "$4.70",
+        "list_price": "$4.19",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-117/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.19",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Starmie ex #118 - Perfect Order | Pokémon | Scrydex",
@@ -25022,10 +26011,19 @@
       "name": "Mega Starmie ex",
       "_list_data": {
         "card_id": "me3-118",
-        "list_price": "$74.49",
+        "list_price": "$69.33",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-118/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$69.33",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Clefable ex #119 - Perfect Order | Pokémon | Scrydex",
@@ -25315,10 +26313,19 @@
       "name": "Mega Clefable ex",
       "_list_data": {
         "card_id": "me3-119",
-        "list_price": "$77.45",
-        "price_trend": "up",
+        "list_price": "$77.09",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-119/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$77.09",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #120 - Perfect Order | Pokémon | Scrydex",
@@ -25805,10 +26812,19 @@
       "name": "Mega Zygarde ex",
       "_list_data": {
         "card_id": "me3-120",
-        "list_price": "$92.13",
+        "list_price": "$89.10",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-120/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$89.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowth ex #121 - Perfect Order | Pokémon | Scrydex",
@@ -26283,10 +27299,19 @@
       "name": "Meowth ex",
       "_list_data": {
         "card_id": "me3-121",
-        "list_price": "$178.76",
+        "list_price": "$200.91",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-121/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$200.91",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jacinthe #122 - Perfect Order | Pokémon | Scrydex",
@@ -26410,10 +27435,19 @@
       "name": "Jacinthe",
       "_list_data": {
         "card_id": "me3-122",
-        "list_price": "$35.26",
+        "list_price": "$36.20",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-122/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$36.20",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rosa's Encouragement #123 - Perfect Order | Pokémon | Scrydex",
@@ -26738,10 +27772,19 @@
       "name": "Rosa's Encouragement",
       "_list_data": {
         "card_id": "me3-123",
-        "list_price": "$76.05",
-        "price_trend": "up",
+        "list_price": "$75.56",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/me3-123/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$75.56",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #124 - Perfect Order | Pokémon | Scrydex",
@@ -27096,11 +28139,21 @@
       "name": "Mega Zygarde ex",
       "_list_data": {
         "card_id": "me3-124",
-        "list_price": "$164.41",
+        "list_price": "$168.64",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/me3-124/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$168.64",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     }
   ],
-  "errors": []
+  "errors": [],
+  "price_updated_at": "2026-05-18"
 }

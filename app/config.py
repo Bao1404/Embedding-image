@@ -53,8 +53,11 @@ DOWNLOAD_TIMEOUT = 15
 # ═══════════════════════════════════════════
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-# Key riêng cho migration (batch upload) — nếu để trống sẽ dùng GEMINI_API_KEY
+# Keys riêng cho migration (batch upload) — hỗ trợ nhiều key để luân phiên khi bị rate limit
 GEMINI_API_KEY_MIGRATION = os.getenv("GEMINI_API_KEY_MIGRATION", "") or GEMINI_API_KEY
+GEMINI_API_KEY_MIGRATION_2 = os.getenv("GEMINI_API_KEY_MIGRATION_2", "")
+# Danh sách tất cả migration keys khả dụng (bỏ key rỗng)
+GEMINI_MIGRATION_KEYS = [k for k in [GEMINI_API_KEY_MIGRATION, GEMINI_API_KEY_MIGRATION_2] if k]
 GEMINI_EMBEDDING_MODEL = "gemini-embedding-2"
 GEMINI_EMBEDDING_DIM = 3072
 

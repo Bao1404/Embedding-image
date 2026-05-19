@@ -12,9 +12,11 @@ import json, re, sys, time, random, os
 from datetime import datetime
 from playwright.sync_api import sync_playwright
 
+__all__ = ["create_browser", "get_card_links", "scrape_card_detail", "random_delay"]
+
 # --- Config ---
-DELAY_MIN = 1.5  # Giây chờ tối thiểu giữa các request
-DELAY_MAX = 3.5  # Giây chờ tối đa
+DELAY_MIN = 1.0  # Giây chờ tối thiểu giữa các request (đã giảm)
+DELAY_MAX = 2.0  # Giây chờ tối đa (đã giảm)
 
 # Cập nhật OUTPUT_DIR trỏ thẳng vào thư mục data của project
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -22,6 +24,17 @@ OUTPUT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "data"))
 
 def random_delay():
     time.sleep(random.uniform(DELAY_MIN, DELAY_MAX))
+
+def create_browser(playwright, headless=None):
+    """Tạo browser + context. headless đọc từ env nếu không truyền."""
+    if headless is None:
+        headless = os.environ.get("SCRAPER_HEADLESS", "true").lower() == "true"
+    browser = playwright.chromium.launch(headless=headless)
+    context = browser.new_context(
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+        viewport={"width": 1280, "height": 800}
+    )
+    return browser, context
 
 def get_card_links(page, expansion_url):
     """Lấy tất cả link thẻ từ trang expansion (xử lý phân trang)."""
@@ -130,7 +143,7 @@ def scrape_card_detail(page, card_url):
     full_url = f"https://scrydex.com{card_url}" if card_url.startswith("/") else card_url
     page.goto(full_url, wait_until="domcontentloaded")
     page.wait_for_selector("[data-controller='card']", timeout=15000)
-    time.sleep(1.5)
+    # Bỏ time.sleep() ở đây để tối ưu tốc độ full scrape
 
     data = page.evaluate("""() => {
         const result = {};

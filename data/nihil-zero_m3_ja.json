@@ -209,7 +209,8 @@
         "list_price": "$0.10",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-1/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Ariados #2 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -347,7 +348,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-2/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Shaymin #3 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -490,7 +492,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-3/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snivy #4 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -626,9 +629,10 @@
       "_list_data": {
         "card_id": "m3_ja-4",
         "list_price": "$0.18",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-4/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Servine #5 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -764,9 +768,10 @@
       "_list_data": {
         "card_id": "m3_ja-5",
         "list_price": "$0.18",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-5/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Serperior #6 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -912,10 +917,19 @@
       "name": "Serperiorジャローダ",
       "_list_data": {
         "card_id": "m3_ja-6",
-        "list_price": "$0.31",
+        "list_price": "$0.30",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-6/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.30",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Scatterbug #7 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -1053,7 +1067,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-7/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spewpa #8 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -1193,7 +1208,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-8/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Vivillon #9 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -1338,10 +1354,19 @@
       "name": "Vivillonビビヨン",
       "_list_data": {
         "card_id": "m3_ja-9",
-        "list_price": "$0.15",
-        "price_trend": "down",
+        "list_price": "$0.16",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-9/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rowlet #10 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -1490,7 +1515,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-10/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dartrix #11 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -1639,7 +1665,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-11/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Decidueye ex #12 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -1858,10 +1885,19 @@
       "name": "Decidueye exジュナイパーex",
       "_list_data": {
         "card_id": "m3_ja-12",
-        "list_price": "$0.30",
-        "price_trend": "up",
+        "list_price": "$0.29",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-12/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.29",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fletchinder #13 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -2000,7 +2036,8 @@
         "list_price": "$0.26",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-13/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Talonflame #14 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -2153,7 +2190,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-14/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salandit #15 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -2291,7 +2329,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-15/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salazzle ex #16 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -2435,10 +2474,19 @@
       "name": "Salazzle exエンニュートex",
       "_list_data": {
         "card_id": "m3_ja-16",
-        "list_price": "$0.23",
-        "price_trend": "down",
+        "list_price": "$0.30",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-16/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.30",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Turtonator #17 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -2589,7 +2637,8 @@
         "list_price": "$0.21",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-17/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Seel #18 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -2737,7 +2786,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-18/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dewgong #19 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -2884,10 +2934,19 @@
       "name": "Dewgongジュゴン",
       "_list_data": {
         "card_id": "m3_ja-19",
-        "list_price": "$0.21",
-        "price_trend": "none",
+        "list_price": "$0.22",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-19/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Staryu #20 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -3025,7 +3084,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-20/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Starmie ex #21 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -3310,10 +3370,19 @@
       "name": "Mega Starmie exメガスターミーex",
       "_list_data": {
         "card_id": "m3_ja-21",
-        "list_price": "$0.48",
+        "list_price": "$0.51",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-21/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.51",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Amaura #22 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -3454,7 +3523,8 @@
         "list_price": "$0.15",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-22/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aurorus #23 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -3607,10 +3677,19 @@
       "name": "Aurorusアマルルガ",
       "_list_data": {
         "card_id": "m3_ja-23",
-        "list_price": "$0.21",
-        "price_trend": "down",
+        "list_price": "$0.22",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-23/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Volcanion #24 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -3761,7 +3840,8 @@
         "list_price": "$0.27",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-24/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Shinx #25 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -3896,10 +3976,19 @@
       "name": "Shinxコリンク",
       "_list_data": {
         "card_id": "m3_ja-25",
-        "list_price": "$0.19",
-        "price_trend": "none",
+        "list_price": "$0.18",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-25/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.18",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Luxio #26 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -4048,7 +4137,8 @@
         "list_price": "$0.18",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-26/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Luxray #27 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -4191,10 +4281,19 @@
       "name": "Luxrayレントラー",
       "_list_data": {
         "card_id": "m3_ja-27",
-        "list_price": "$0.25",
+        "list_price": "$0.24",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-27/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.24",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dedenne #28 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -4345,7 +4444,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-28/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Clefairy #29 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -4492,7 +4592,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-29/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Clefable ex #30 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -4712,10 +4813,19 @@
       "name": "Mega Clefable exメガピクシーex",
       "_list_data": {
         "card_id": "m3_ja-30",
-        "list_price": "$0.51",
+        "list_price": "$0.55",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-30/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.55",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mawile #31 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -4852,10 +4962,19 @@
       "name": "Mawileクチート",
       "_list_data": {
         "card_id": "m3_ja-31",
-        "list_price": "$0.14",
-        "price_trend": "none",
+        "list_price": "$0.13",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-31/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.13",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Espurr #32 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -4999,9 +5118,10 @@
       "_list_data": {
         "card_id": "m3_ja-32",
         "list_price": "$0.16",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-32/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowstic #33 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -5145,9 +5265,10 @@
       "_list_data": {
         "card_id": "m3_ja-33",
         "list_price": "$0.20",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-33/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spritzee #34 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -5291,9 +5412,10 @@
       "_list_data": {
         "card_id": "m3_ja-34",
         "list_price": "$0.14",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-34/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aromatisse #35 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -5439,10 +5561,19 @@
       "name": "Aromatisseフレフワン",
       "_list_data": {
         "card_id": "m3_ja-35",
-        "list_price": "$0.14",
-        "price_trend": "down",
+        "list_price": "$0.15",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-35/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.15",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Nosepass #36 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -5583,7 +5714,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-36/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Probopass #37 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -5735,7 +5867,8 @@
         "list_price": "$0.12",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-37/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hippopotas #38 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -5886,7 +6019,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-38/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hippowdon #39 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -6040,7 +6174,8 @@
         "list_price": "$0.20",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-39/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Landorus #40 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -6187,9 +6322,10 @@
       "_list_data": {
         "card_id": "m3_ja-40",
         "list_price": "$0.19",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-40/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Binacle #41 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -6337,7 +6473,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-41/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Barbaracle #42 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -6488,7 +6625,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-42/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tyrunt #43 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -6629,7 +6767,8 @@
         "list_price": "$0.16",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-43/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tyrantrum #44 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -6780,7 +6919,8 @@
         "list_price": "$0.20",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-44/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Hawlucha #45 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -6912,10 +7052,19 @@
       "name": "Hawluchaルチャブル",
       "_list_data": {
         "card_id": "m3_ja-45",
-        "list_price": "$0.21",
+        "list_price": "$0.22",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-45/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.22",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #46 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -7204,10 +7353,19 @@
       "name": "Mega Zygarde exメガジガルデex",
       "_list_data": {
         "card_id": "m3_ja-46",
-        "list_price": "$0.35",
+        "list_price": "$0.33",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-46/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.33",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gastly #47 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -7347,9 +7505,10 @@
       "_list_data": {
         "card_id": "m3_ja-47",
         "list_price": "$0.17",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-47/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Haunter #48 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -7484,10 +7643,19 @@
       "name": "Haunterゴースト",
       "_list_data": {
         "card_id": "m3_ja-48",
-        "list_price": "$0.26",
-        "price_trend": "down",
+        "list_price": "$0.27",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-48/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.27",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Gengar #49 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -7771,10 +7939,19 @@
       "name": "Gengarゲンガー",
       "_list_data": {
         "card_id": "m3_ja-49",
-        "list_price": "$0.43",
-        "price_trend": "down",
+        "list_price": "$0.44",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-49/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.44",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Skorupi #50 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -7914,7 +8091,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-50/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drapion #51 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -8065,7 +8243,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-51/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yveltal ex #52 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -8289,7 +8468,8 @@
         "list_price": "$0.26",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-52/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Chien-Pao #53 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -8435,9 +8615,10 @@
       "_list_data": {
         "card_id": "m3_ja-53",
         "list_price": "$0.31",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-53/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Skarmory ex #54 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -8645,10 +8826,19 @@
       "name": "Mega Skarmory exメガエアームドex",
       "_list_data": {
         "card_id": "m3_ja-54",
-        "list_price": "$0.32",
-        "price_trend": "down",
+        "list_price": "$0.37",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-54/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.37",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Honedge #55 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -8787,7 +8977,8 @@
         "list_price": "$0.17",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-55/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Doublade #56 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -8929,9 +9120,10 @@
       "_list_data": {
         "card_id": "m3_ja-56",
         "list_price": "$0.15",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-56/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aegislash #57 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -9084,7 +9276,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-57/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Klefki #58 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -9222,7 +9415,8 @@
         "list_price": "$0.20",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-58/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rattata #59 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -9360,7 +9554,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-59/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Raticate #60 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -9506,7 +9701,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-60/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowth ex #61 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -9727,10 +9923,19 @@
       "name": "Meowth exニャースex",
       "_list_data": {
         "card_id": "m3_ja-61",
-        "list_price": "$1.05",
+        "list_price": "$0.91",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-61/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.91",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Snorlax #62 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -9883,10 +10088,19 @@
       "name": "Snorlaxカビゴン",
       "_list_data": {
         "card_id": "m3_ja-62",
-        "list_price": "$0.25",
-        "price_trend": "down",
+        "list_price": "$0.26",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-62/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.26",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Bunnelby #63 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10024,7 +10238,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-63/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Diggersby #64 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10175,7 +10390,8 @@
         "list_price": "$0.14",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-64/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Fletchling #65 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10320,9 +10536,10 @@
       "_list_data": {
         "card_id": "m3_ja-65",
         "list_price": "$0.18",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-65/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Furfrou #66 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10468,7 +10685,8 @@
         "list_price": "$0.18",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-66/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Energy Swatter #67 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10595,7 +10813,8 @@
         "list_price": "$0.08",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-67/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Poké Pad #70 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10655,7 +10874,8 @@
         "list_price": "¥200",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-70/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lumiose Galette #71 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10782,7 +11002,8 @@
         "list_price": "$0.19",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-71/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Core Memory #72 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -10921,7 +11142,8 @@
         "list_price": "$0.23",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-72/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tarragon #73 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11045,10 +11267,19 @@
       "name": "Tarragonタラゴン",
       "_list_data": {
         "card_id": "m3_ja-73",
-        "list_price": "$0.16",
-        "price_trend": "none",
+        "list_price": "$0.17",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-73/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.17",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Naveen #74 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11172,10 +11403,19 @@
       "name": "Naveenピュール",
       "_list_data": {
         "card_id": "m3_ja-74",
-        "list_price": "$0.29",
+        "list_price": "$0.27",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-74/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.27",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rosa's Encouragement #75 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11299,10 +11539,19 @@
       "name": "Rosa's Encouragementメイのはげまし",
       "_list_data": {
         "card_id": "m3_ja-75",
-        "list_price": "$0.29",
+        "list_price": "$0.28",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-75/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.28",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jacinthe #76 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11429,7 +11678,8 @@
         "list_price": "$0.27",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-76/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lumiose City #77 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11556,7 +11806,8 @@
         "list_price": "$0.13",
         "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-77/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Grow Grass Energy #78 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11679,10 +11930,19 @@
       "name": "Grow Grass Energyグロウ草エネルギー",
       "_list_data": {
         "card_id": "m3_ja-78",
-        "list_price": "$0.30",
+        "list_price": "$0.27",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-78/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.27",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Telepath Psychic Energy #79 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11810,9 +12070,10 @@
       "_list_data": {
         "card_id": "m3_ja-79",
         "list_price": "$0.41",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-79/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rock Fighting Energy #80 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -11939,10 +12200,19 @@
       "name": "Rock Fighting Energyロック闘エネルギー",
       "_list_data": {
         "card_id": "m3_ja-80",
-        "list_price": "$0.33",
+        "list_price": "$0.31",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-80/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.31",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Spewpa #81 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -12290,10 +12560,19 @@
       "name": "Spewpaコフーライ",
       "_list_data": {
         "card_id": "m3_ja-81",
-        "list_price": "$2.16",
+        "list_price": "$2.19",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-81/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.19",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rowlet #82 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -12784,10 +13063,19 @@
       "name": "Rowletモクロー",
       "_list_data": {
         "card_id": "m3_ja-82",
-        "list_price": "$3.99",
+        "list_price": "$3.56",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-82/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.56",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Talonflame #83 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -13278,10 +13566,19 @@
       "name": "Talonflameファイアロー",
       "_list_data": {
         "card_id": "m3_ja-83",
-        "list_price": "$2.02",
+        "list_price": "$2.16",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-83/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.16",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Aurorus #84 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -13710,10 +14007,19 @@
       "name": "Aurorusアマルルガ",
       "_list_data": {
         "card_id": "m3_ja-84",
-        "list_price": "$3.02",
-        "price_trend": "up",
+        "list_price": "$2.85",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-84/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.85",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Dedenne #85 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -14132,10 +14438,19 @@
       "name": "Dedenneデデンネ",
       "_list_data": {
         "card_id": "m3_ja-85",
-        "list_price": "$4.20",
-        "price_trend": "up",
+        "list_price": "$4.10",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-85/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.10",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Clefairy #86 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -15085,10 +15400,19 @@
       "name": "Clefairyピッピ",
       "_list_data": {
         "card_id": "m3_ja-86",
-        "list_price": "$11.69",
+        "list_price": "$13.32",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-86/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$13.32",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Espurr #87 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -15502,10 +15826,19 @@
       "name": "Espurrニャスパー",
       "_list_data": {
         "card_id": "m3_ja-87",
-        "list_price": "$4.06",
-        "price_trend": "up",
+        "list_price": "$3.97",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-87/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.97",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Probopass #88 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -15725,10 +16058,19 @@
       "name": "Probopassダイノーズ",
       "_list_data": {
         "card_id": "m3_ja-88",
-        "list_price": "$1.57",
-        "price_trend": "up",
+        "list_price": "$1.50",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-88/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.50",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tyrunt #89 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -16337,10 +16679,19 @@
       "name": "Tyruntチゴラス",
       "_list_data": {
         "card_id": "m3_ja-89",
-        "list_price": "$3.30",
+        "list_price": "$3.25",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-89/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.25",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Drapion #90 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -16689,10 +17040,19 @@
       "name": "Drapionドラピオン",
       "_list_data": {
         "card_id": "m3_ja-90",
-        "list_price": "$1.49",
-        "price_trend": "up",
+        "list_price": "$1.42",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-90/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.42",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Doublade #91 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -17108,10 +17468,19 @@
       "name": "Doubladeニダンギル",
       "_list_data": {
         "card_id": "m3_ja-91",
-        "list_price": "$2.29",
+        "list_price": "$2.58",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-91/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.58",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Raticate #92 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -17460,10 +17829,19 @@
       "name": "Raticateラッタ",
       "_list_data": {
         "card_id": "m3_ja-92",
-        "list_price": "$1.99",
-        "price_trend": "up",
+        "list_price": "$1.80",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-92/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.80",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Decidueye ex #93 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -17753,10 +18131,19 @@
       "name": "Decidueye exジュナイパーex",
       "_list_data": {
         "card_id": "m3_ja-93",
-        "list_price": "$3.39",
+        "list_price": "$3.52",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-93/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.52",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Salazzle ex #94 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -17901,10 +18288,19 @@
       "name": "Salazzle exエンニュートex",
       "_list_data": {
         "card_id": "m3_ja-94",
-        "list_price": "$3.01",
+        "list_price": "$3.05",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-94/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.05",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Starmie ex #95 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -18452,10 +18848,19 @@
       "name": "Mega Starmie exメガスターミーex",
       "_list_data": {
         "card_id": "m3_ja-95",
-        "list_price": "$9.13",
-        "price_trend": "down",
+        "list_price": "$9.27",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-95/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$9.27",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Clefable ex #96 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -19085,10 +19490,19 @@
       "name": "Mega Clefable exメガピクシーex",
       "_list_data": {
         "card_id": "m3_ja-96",
-        "list_price": "$5.73",
+        "list_price": "$5.72",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-96/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.72",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #97 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -19648,10 +20062,19 @@
       "name": "Mega Zygarde exメガジガルデex",
       "_list_data": {
         "card_id": "m3_ja-97",
-        "list_price": "$7.09",
-        "price_trend": "up",
+        "list_price": "$6.43",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-97/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.43",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Yveltal ex #98 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -20070,9 +20493,10 @@
       "_list_data": {
         "card_id": "m3_ja-98",
         "list_price": "$4.89",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-98/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Skarmory ex #99 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -20347,10 +20771,19 @@
       "name": "Mega Skarmory exメガエアームドex",
       "_list_data": {
         "card_id": "m3_ja-99",
-        "list_price": "$4.92",
+        "list_price": "$4.81",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-99/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$4.81",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowth ex #100 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -20903,10 +21336,19 @@
       "name": "Meowth exニャースex",
       "_list_data": {
         "card_id": "m3_ja-100",
-        "list_price": "$11.70",
-        "price_trend": "up",
+        "list_price": "$11.45",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-100/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$11.45",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Energy Recycler #101 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -21105,9 +21547,10 @@
       "_list_data": {
         "card_id": "m3_ja-101",
         "list_price": "$0.61",
-        "price_trend": "down",
+        "price_trend": "none",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-101/medium"
-      }
+      },
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Sacred Ash #102 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -21301,10 +21744,19 @@
       "name": "Sacred Ashせいなるはい",
       "_list_data": {
         "card_id": "m3_ja-102",
-        "list_price": "$0.59",
+        "list_price": "$0.58",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-102/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.58",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Poké Pad #103 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -21428,10 +21880,19 @@
       "name": "Poké Padポケパッド",
       "_list_data": {
         "card_id": "m3_ja-103",
-        "list_price": "$2.94",
-        "price_trend": "up",
+        "list_price": "$2.88",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-103/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$2.88",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Wondrous Patch #104 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -21555,10 +22016,19 @@
       "name": "Wondrous Patchワンダーパッチ",
       "_list_data": {
         "card_id": "m3_ja-104",
-        "list_price": "$1.36",
-        "price_trend": "down",
+        "list_price": "$1.39",
+        "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-104/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.39",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Tarragon #105 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -21756,10 +22226,19 @@
       "name": "Tarragonタラゴン",
       "_list_data": {
         "card_id": "m3_ja-105",
-        "list_price": "$3.18",
+        "list_price": "$3.13",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-105/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$3.13",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Naveen #106 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -21949,10 +22428,19 @@
       "name": "Naveenピュール",
       "_list_data": {
         "card_id": "m3_ja-106",
-        "list_price": "$5.07",
+        "list_price": "$5.06",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-106/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$5.06",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rosa's Encouragement #107 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -22220,10 +22708,19 @@
       "name": "Rosa's Encouragementメイのはげまし",
       "_list_data": {
         "card_id": "m3_ja-107",
-        "list_price": "$15.16",
+        "list_price": "$13.82",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-107/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$13.82",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jacinthe #108 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -22417,10 +22914,19 @@
       "name": "Jacintheユカリ",
       "_list_data": {
         "card_id": "m3_ja-108",
-        "list_price": "$7.11",
+        "list_price": "$6.01",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-108/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$6.01",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Forest of Vitality #109 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -22548,10 +23054,19 @@
       "name": "Forest of Vitality活力の森",
       "_list_data": {
         "card_id": "m3_ja-109",
-        "list_price": "$1.29",
-        "price_trend": "up",
+        "list_price": "$1.26",
+        "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-109/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$1.26",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Lumiose City #110 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -22675,10 +23190,19 @@
       "name": "Lumiose Cityミアレシティ",
       "_list_data": {
         "card_id": "m3_ja-110",
-        "list_price": "$0.89",
+        "list_price": "$0.97",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-110/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$0.97",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Starmie ex #111 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -23435,10 +23959,19 @@
       "name": "Mega Starmie exメガスターミーex",
       "_list_data": {
         "card_id": "m3_ja-111",
-        "list_price": "$35.56",
+        "list_price": "$35.39",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-111/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$35.39",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Clefable ex #112 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -24125,10 +24658,19 @@
       "name": "Mega Clefable exメガピクシーex",
       "_list_data": {
         "card_id": "m3_ja-112",
-        "list_price": "$37.59",
+        "list_price": "$37.71",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-112/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$37.71",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #113 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -24953,10 +25495,19 @@
       "name": "Mega Zygarde exメガジガルデex",
       "_list_data": {
         "card_id": "m3_ja-113",
-        "list_price": "$42.77",
+        "list_price": "$41.72",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-113/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$41.72",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Meowth ex #114 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -25844,10 +26395,19 @@
       "name": "Meowth exニャースex",
       "_list_data": {
         "card_id": "m3_ja-114",
-        "list_price": "$81.60",
+        "list_price": "$82.65",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-114/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$82.65",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Rosa's Encouragement #115 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -26515,10 +27075,19 @@
       "name": "Rosa's Encouragementメイのはげまし",
       "_list_data": {
         "card_id": "m3_ja-115",
-        "list_price": "$106.29",
+        "list_price": "$105.04",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-115/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$105.04",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Jacinthe #116 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -26847,10 +27416,19 @@
       "name": "Jacintheユカリ",
       "_list_data": {
         "card_id": "m3_ja-116",
-        "list_price": "$16.97",
+        "list_price": "$17.13",
         "price_trend": "up",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-116/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$17.13",
+          "trend": "up",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     },
     {
       "page_title": "Mega Zygarde ex #117 - Nihil Zero | Pokémon | Japanese | Scrydex",
@@ -27250,10 +27828,19 @@
       "name": "Mega Zygarde exメガジガルデex",
       "_list_data": {
         "card_id": "m3_ja-117",
-        "list_price": "$184.23",
+        "list_price": "$183.73",
         "price_trend": "down",
         "image_url": "https://images.scrydex.com/pokemon/m3_ja-117/medium"
-      }
+      },
+      "price_log": [
+        {
+          "date": "2026-05-18",
+          "list_price": "$183.73",
+          "trend": "down",
+          "source": "list"
+        }
+      ],
+      "price_last_checked": "2026-05-18"
     }
   ],
   "errors": [
@@ -27265,5 +27852,6 @@
       "href": "/pokemon/cards/antique-sail-fossil/m3_ja-69?variant=normal",
       "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"[data-controller='card']\") to be visible\n"
     }
-  ]
+  ],
+  "price_updated_at": "2026-05-18"
 }
