@@ -83,3 +83,10 @@ R2_ACCESS_KEY_ID = os.getenv("R2_ACCESS_KEY_ID", "")
 R2_SECRET_ACCESS_KEY = os.getenv("R2_SECRET_ACCESS_KEY", "")
 R2_BUCKET_NAME = os.getenv("R2_BUCKET_NAME", "pokemon-unknown-cards")
 R2_ENDPOINT_URL = f"https://{R2_ACCOUNT_ID}.r2.cloudflarestorage.com" if R2_ACCOUNT_ID else ""
+
+# ═══════════════════════════════════════════
+# MONGODB ATLAS
+# ═══════════════════════════════════════════
+MONGO_URI = os.getenv("MONGO_URI", "")
+MONGO_DB_NAME = os.getenv("MONGO_DB_NAME", "pokemon_cards")
+USE_MONGO = bool(MONGO_URI)

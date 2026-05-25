@@ -94,6 +94,19 @@ class QdrantSearchResponse(BaseModel):
 
 
 # ═══════════════════════════════════════════
+# UI PRODUCTION RESPONSE
+# ═══════════════════════════════════════════
+
+class UISearchResponse(BaseModel):
+    """Response chuẩn map 100% với UI Production."""
+    status: bool = Field(True)
+    path: str = Field("/api/search/by-image")
+    message: str = Field("Card scanned successfully")
+    statusCode: int = Field(201)
+    data: dict = Field(..., description="Card data chuẩn format UI")
+
+
+# ═══════════════════════════════════════════
 # UNKNOWN CARDS (R2 Storage)
 # ═══════════════════════════════════════════
 
