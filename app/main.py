@@ -26,9 +26,10 @@ from app.schemas import (
     SearchResult, CardInfo,
     DownloadReport, CardListResponse, StatsResponse,
     QdrantSearchResponse, QdrantIndexReport,
-    UnknownCardItem, UnknownCardListResponse
+    UnknownCardItem, UnknownCardListResponse,
+    UISearchResponse
 )
-from app.card_store import CardMetadataStore
+from app.card_store_mongo import MongoCardStore
 from app.image_downloader import load_cards_from_json, find_json_files, download_images
 from app.qdrant_service import QdrantSearchService
 from app.embedding_service import GeminiEmbeddingService
@@ -39,7 +40,7 @@ from app.r2_service import R2StorageService
 # LIFESPAN: Load dữ liệu khi server khởi động
 # ═══════════════════════════════════════════
 
-card_store: CardMetadataStore = None  # Global singleton
+card_store: MongoCardStore = None  # Global singleton
 qdrant_svc: QdrantSearchService = None  # Qdrant singleton
 embedding_svc: GeminiEmbeddingService = None # Gemini Embedding singleton
 r2_svc: R2StorageService = None  # R2 singleton
@@ -47,10 +48,10 @@ r2_svc: R2StorageService = None  # R2 singleton
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Load JSON files + Qdrant client + R2 khi server start."""
+    """Load MongoDB + Qdrant client + R2 khi server start."""
     global card_store, qdrant_svc, embedding_svc, r2_svc
-    logger.info("Khoi tao Local JSON Metadata Store...")
-    card_store = CardMetadataStore(DATA_DIR)
+    logger.info("Khoi tao MongoDB Card Store...")
+    card_store = MongoCardStore()
     
     logger.info("Khoi tao Qdrant Search Service (Cloud)...")
     qdrant_svc = QdrantSearchService()
@@ -66,6 +67,11 @@ async def lifespan(app: FastAPI):
         logger.warning("R2 chua cau hinh -- unknown cards se khong duoc luu")
     
     logger.info("Server san sang!")
+    logger.info("="*50)
+    logger.info("🚀 API Server is running!")
+    logger.info("👉 Swagger UI (Docs): http://localhost:8100/docs")
+    logger.info("👉 Redoc:            http://localhost:8100/redoc")
+    logger.info("="*50)
     yield
     logger.info("Server shutdown.")
 
@@ -169,17 +175,18 @@ async def api_download_images(
 
 @app.post(
     "/api/search/by-image",
-    response_model=QdrantSearchResponse,
+    response_model=UISearchResponse,
     tags=["🔍 Search"],
-    summary="Search bằng ảnh qua Qdrant Cloud",
+    summary="Search bằng ảnh (UI Format)",
 )
 async def api_search_by_image(
+    request: Request,
     file: UploadFile = File(..., description="Ảnh thẻ bài cần tìm"),
 ):
     """
     1 API call -> Gemini (Embed image) -> vector
     1 API call -> Qdrant (Vector Search), lấy top_k điểm.
-    1 Local lookup -> lấy info chi tiết.
+    1 MongoDB lookup -> lấy info chi tiết (đúng format UI).
     """
     start_time = time.time()
     try:
@@ -195,8 +202,6 @@ async def api_search_by_image(
         search_time_ms = (time.time() - start_time) * 1000
         
         match = False
-        best_result = None
-        alternatives = []
         saved_to_r2 = False
         
         from app.config import QDRANT_MATCH_THRESHOLD, QDRANT_POKEMON_THRESHOLD
@@ -209,26 +214,23 @@ async def api_search_by_image(
             
             # Kiểm tra match threshold
             if confidence >= QDRANT_MATCH_THRESHOLD:
-                # Local lookup
-                meta = card_store.get(card_id, store_id)
+                # MongoDB lookup (await vì là async)
+                meta = await card_store.get(card_id, store_id)
                 if meta:
                     match = True
-                    card_info = CardInfo(
-                        name=meta.get("name", "Unknown"),
-                        expansion=meta.get("expansion", ""),
-                        number=meta.get("number", ""),
-                        rarity=meta.get("rarity", ""),
-                        hp=meta.get("hp", ""),
-                        types=meta.get("types", ""),
-                        artist=meta.get("artist", ""),
-                        image_url=meta.get("image_url", ""),
-                        scrydex_url=meta.get("scrydex_url", ""),
-                        price_nm=meta.get("price_nm", None),
-                    )
-                    best_result = SearchResult(
-                        rank=1,
-                        score=confidence,
-                        card=card_info
+                    
+                    # Bỏ các MongoDB keys nội bộ
+                    if "_id" in meta: del meta["_id"]
+                    if "_meta" in meta: del meta["_meta"]
+                    if "store_id" in meta: del meta["store_id"]
+                    if "card_id" in meta: del meta["card_id"]
+
+                    return UISearchResponse(
+                        status=True,
+                        path=str(request.url.path),
+                        message="Card scanned successfully",
+                        statusCode=201,
+                        data=meta
                     )
             
             # Xử lý R2 fallback
@@ -250,24 +252,21 @@ async def api_search_by_image(
                 else:
                     logger.info(f"🚫 Skipped R2 save: confidence={confidence:.4f} < {QDRANT_POKEMON_THRESHOLD}")
 
-            return QdrantSearchResponse(
-                match=match,
-                best_result=best_result,
-                alternatives=alternatives,
-                search_time_ms=search_time_ms,
-                collection_name=qdrant_svc.collection_name,
-                store_id=store_id if results else None,
-                saved_to_r2=saved_to_r2,
-                card_id=card_id if results else None,
-                global_id=top_hit.get("global_id") if results else None,
-                confidence=confidence if results else 0.0,
+            return UISearchResponse(
+                status=False,
+                path=str(request.url.path),
+                message="Card not found or below confidence threshold",
+                statusCode=404,
+                data={}
             )
         else:
             # Không có kết quả từ Qdrant
-            return QdrantSearchResponse(
-                match=False,
-                search_time_ms=search_time_ms,
-                collection_name=qdrant_svc.collection_name,
+            return UISearchResponse(
+                status=False,
+                path=str(request.url.path),
+                message="No search results from Qdrant",
+                statusCode=404,
+                data={}
             )
             
     except Exception as e:
