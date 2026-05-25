@@ -1,11 +1,3 @@
-import os
-
-# Fix OpenSSL 3.0.x SECLEVEL issue with MongoDB Atlas
-# Must be set BEFORE importing pymongo/motor
-_openssl_conf = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'openssl_mongo.cnf')
-if os.path.exists(_openssl_conf):
-    os.environ['OPENSSL_CONF'] = _openssl_conf
-
 from motor.motor_asyncio import AsyncIOMotorClient
 from pymongo import MongoClient
 import logging
