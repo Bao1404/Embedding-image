@@ -101,8 +101,11 @@ def _parse_price_history(raw_card: dict, variant_name: str = "normal") -> dict:
     # Convert tất cả raw data thành list of {"date": ..., "price": ...}
     all_points = []
     for point in nm_data:
-        if isinstance(point, (list, tuple)) and len(point) >= 2:
-            all_points.append({"date": str(point[0]), "price": float(point[1])})
+        if isinstance(point, (list, tuple)) and len(point) >= 2 and point[1] is not None:
+            try:
+                all_points.append({"date": str(point[0]), "price": float(point[1])})
+            except (ValueError, TypeError):
+                continue
 
     if not all_points:
         return result
@@ -175,11 +178,14 @@ def _extract_graded_from_history(raw_card: dict, variant_name: str = "normal") -
                 grade = parts[1]
                 data_points = []
                 for point in series.get("data", []):
-                    if isinstance(point, (list, tuple)) and len(point) >= 2:
-                        data_points.append({
-                            "date": str(point[0]),
-                            "price": float(point[1])
-                        })
+                    if isinstance(point, (list, tuple)) and len(point) >= 2 and point[1] is not None:
+                        try:
+                            data_points.append({
+                                "date": str(point[0]),
+                                "price": float(point[1])
+                            })
+                        except (ValueError, TypeError):
+                            continue
                 if data_points:
                     graded.append({
                         "grader": grader,
