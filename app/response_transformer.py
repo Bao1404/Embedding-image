@@ -42,6 +42,173 @@ EXPANSION_YEARS = {
 }
 
 
+# ═══════════════════════════════════════════
+# PRICE HISTORY PARSING
+# ═══════════════════════════════════════════
+
+from datetime import datetime as _dt, timedelta as _td
+
+
+def _parse_price_history(raw_card: dict, variant_name: str = "normal") -> dict:
+    """
+    Parse price_history raw từ Chartkick data → TCG-*-prices theo time range.
+
+    Trả về dict với keys: TCG-1month-prices, TCG-3month-prices, ...
+    Mỗi value là list of {"date": "YYYY-MM-DD", "price": float}.
+    """
+    result = {
+        "TCG-1month-prices": [],
+        "TCG-3month-prices": [],
+        "TCG-6month-prices": [],
+        "TCG-1year-prices": [],
+        "TCG-all-prices": [],
+    }
+
+    price_history = raw_card.get("price_history", [])
+    if not price_history:
+        return result
+
+    # Tìm chart phù hợp với variant hiện tại (ưu tiên Raw + variant_name)
+    nm_data = []
+    for chart in price_history:
+        chart_id = chart.get("chart_id", "")
+        # Chart ID format: "me3-1_Raw_normal_history"
+        # Khớp variant name trong chart_id
+        if variant_name.lower() not in chart_id.lower():
+            continue
+
+        series_list = chart.get("series", [])
+        for series in series_list:
+            if series.get("name", "").upper() == "NM":
+                nm_data = series.get("data", [])
+                break
+        if nm_data:
+            break
+
+    if not nm_data:
+        # Fallback: lấy chart đầu tiên có NM data
+        for chart in price_history:
+            for series in chart.get("series", []):
+                if series.get("name", "").upper() == "NM":
+                    nm_data = series.get("data", [])
+                    break
+            if nm_data:
+                break
+
+    if not nm_data:
+        return result
+
+    # Convert tất cả raw data thành list of {"date": ..., "price": ...}
+    all_points = []
+    for point in nm_data:
+        if isinstance(point, (list, tuple)) and len(point) >= 2:
+            all_points.append({"date": str(point[0]), "price": float(point[1])})
+
+    if not all_points:
+        return result
+
+    # TCG-all-prices = toàn bộ data
+    result["TCG-all-prices"] = all_points
+
+    # Chia theo time range dựa trên ngày cuối cùng trong data
+    try:
+        last_date = _dt.strptime(all_points[-1]["date"], "%Y-%m-%d")
+    except (ValueError, KeyError):
+        return result
+
+    cutoffs = {
+        "TCG-1month-prices": last_date - _td(days=30),
+        "TCG-3month-prices": last_date - _td(days=90),
+        "TCG-6month-prices": last_date - _td(days=180),
+        "TCG-1year-prices": last_date - _td(days=365),
+    }
+
+    for key, cutoff in cutoffs.items():
+        result[key] = [
+            p for p in all_points
+            if _safe_parse_date(p["date"]) and _dt.strptime(p["date"], "%Y-%m-%d") >= cutoff
+        ]
+
+    return result
+
+
+def _safe_parse_date(date_str: str) -> bool:
+    """Kiểm tra xem date string có parse được không."""
+    try:
+        _dt.strptime(date_str, "%Y-%m-%d")
+        return True
+    except (ValueError, TypeError):
+        return False
+
+
+def _extract_graded_from_history(raw_card: dict, variant_name: str = "normal") -> list:
+    """
+    Trích xuất graded price series (PSA, CGC, BGS) từ price_history.
+
+    Scrydex lưu graded prices dưới dạng series riêng trong Chartkick data.
+    Series name thường là "PSA 10", "CGC 10", "BGS 9.5", v.v.
+
+    Trả về list of {
+        "grader": "PSA",
+        "grade": "10",
+        "prices": [{"date": "...", "price": ...}]
+    }
+    """
+    price_history = raw_card.get("price_history", [])
+    if not price_history:
+        return []
+
+    graded = []
+    grader_keywords = {"PSA", "CGC", "BGS", "SGC", "ACE"}
+
+    for chart in price_history:
+        chart_id = chart.get("chart_id", "")
+        if variant_name.lower() not in chart_id.lower():
+            continue
+
+        for series in chart.get("series", []):
+            name = series.get("name", "").strip()
+            # Kiểm tra xem series name có phải graded không
+            parts = name.split()
+            if len(parts) >= 2 and parts[0].upper() in grader_keywords:
+                grader = parts[0].upper()
+                grade = parts[1]
+                data_points = []
+                for point in series.get("data", []):
+                    if isinstance(point, (list, tuple)) and len(point) >= 2:
+                        data_points.append({
+                            "date": str(point[0]),
+                            "price": float(point[1])
+                        })
+                if data_points:
+                    graded.append({
+                        "grader": grader,
+                        "grade": grade,
+                        "prices": data_points
+                    })
+
+    return graded
+
+
+def _get_weakness_type(raw_card: dict) -> str:
+    """
+    Trích xuất weakness type từ raw card data.
+    Handle cả trường hợp:
+    - weakness là dict: {"type": "fire", "value": "×2"}
+    - weakness là string: "fire"
+    - weakness là None hoặc rỗng
+    """
+    weakness = raw_card.get("weakness")
+    if weakness is None:
+        return ""
+    if isinstance(weakness, dict):
+        w_type = weakness.get("type")
+        return w_type if w_type else ""
+    if isinstance(weakness, str):
+        return weakness
+    return ""
+
+
 def _get_energy_icon(type_name: str) -> str:
     """Map energy type name → icon URL."""
     return ENERGY_ICONS.get(type_name.lower(), "") if type_name else ""
@@ -104,12 +271,24 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
     Document này sẽ được lưu trực tiếp vào MongoDB.
     """
     card_name = raw_card.get("name", "Unknown")
+    # Dọn text bẩn từ Scrydex UI (nút "View API" bị dính vào tên thẻ)
+    card_name = card_name.replace("View API", "").strip()
     expansion_name = raw_card.get("expansion_name", "")
     types = raw_card.get("types", [])
     energy_type = types[0] if types else ""
     variants = raw_card.get("variants", [])
-    weakness_obj = raw_card.get("weakness", {})
     current_price = _extract_current_price(raw_card)
+
+    # Trích variant name từ card_id (format: "me3-1_normal")
+    variant_name = "normal"
+    if "_" in card_id:
+        variant_name = card_id.split("_", 1)[1]
+
+    # Parse price history → TCG-*-prices
+    price_data = _parse_price_history(raw_card, variant_name)
+
+    # Parse graded prices từ price history
+    graded_prices = _extract_graded_from_history(raw_card, variant_name)
 
     doc = {
         # MongoDB identifiers
@@ -135,14 +314,14 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
 
         "attacks": _transform_attacks(raw_card.get("attacks", [])),
         "hp": raw_card.get("hp", ""),
-        "weakness": weakness_obj.get("type", "") if isinstance(weakness_obj, dict) else "",
+        "weakness": _get_weakness_type(raw_card),
 
-        # === TCG Price History (GĐ2) ===
-        "TCG-1month-prices": [],
-        "TCG-3month-prices": [],
-        "TCG-6month-prices": [],
-        "TCG-1year-prices": [],
-        "TCG-all-prices": [],
+        # === TCG Price History (GĐ2) — parsed from Scrydex Chartkick ===
+        "TCG-1month-prices": price_data["TCG-1month-prices"],
+        "TCG-3month-prices": price_data["TCG-3month-prices"],
+        "TCG-6month-prices": price_data["TCG-6month-prices"],
+        "TCG-1year-prices": price_data["TCG-1year-prices"],
+        "TCG-all-prices": price_data["TCG-all-prices"],
 
         # === TCG Forecast (GĐ4) ===
         "TCG-1month-forecast-prices": [],
@@ -165,8 +344,8 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
         "CM-1year-forecast-prices": [],
         "CM-all-forecast-prices": [],
 
-        # === Graded Prices (GĐ3) ===
-        "gradedPrices": [],
+        # === Graded Prices (GĐ3) — parsed from Scrydex Chartkick ===
+        "gradedPrices": graded_prices,
 
         # === Buy Links ===
         "buyLink": _generate_buy_links(card_name, expansion_name),
@@ -186,3 +365,4 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
     }
 
     return doc
+

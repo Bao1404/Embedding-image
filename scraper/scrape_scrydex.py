@@ -339,7 +339,9 @@ def scrape_card_detail(page, card_url):
         const nameEl = document.querySelector('[data-field="name"]');
         if (nameEl) {
             const nameParent = nameEl.closest('div')?.previousElementSibling;
-            result.name = cleanText(nameParent);
+            let rawName = cleanText(nameParent);
+            // Dọn text bẩn từ UI (nút "View API" bị dính vào tên)
+            result.name = rawName.replace('View API', '').trim();
         }
 
         return result;
