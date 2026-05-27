@@ -355,19 +355,6 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
 
         # === Buy Links ===
         "buyLink": _generate_buy_links(card_name, expansion_name),
-
-        # === Internal metadata (không trả ra API) ===
-        "_meta": {
-            "image_url": variants[0].get("image", "") if variants else "",
-            "scrydex_url": raw_card.get("url", ""),
-            "printed_number": raw_card.get("printed_number", ""),
-            "subtypes": raw_card.get("subtypes", []),
-            "retreat_cost": raw_card.get("retreat_cost", []),
-            "pricing_raw": raw_card.get("pricing", []),
-            "price_history_raw": raw_card.get("price_history", []),
-            "sales_stats": raw_card.get("sales_stats", {}),
-            "variants_raw": raw_card.get("variants", []),
-        }
     }
 
     return doc

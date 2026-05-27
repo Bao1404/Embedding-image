@@ -221,7 +221,6 @@ async def api_search_by_image(
                     
                     # Bỏ các MongoDB keys nội bộ
                     if "_id" in meta: del meta["_id"]
-                    if "_meta" in meta: del meta["_meta"]
                     if "store_id" in meta: del meta["store_id"]
                     if "card_id" in meta: del meta["card_id"]
 

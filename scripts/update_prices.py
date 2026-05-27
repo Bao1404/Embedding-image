@@ -15,6 +15,8 @@ import sys
 import re
 import logging
 import time
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 
@@ -340,18 +342,96 @@ def _save_progress(progress):
         json.dump(progress, f, ensure_ascii=False, indent=2)
 
 
-def cmd_rescrape(dry_run=False, limit=None):
-    """
-    One-time full re-scrape — ghi đè TẤT CẢ fields (bao gồm enrichment).
+def _scrape_one_expansion(store_id, info, url, dry_run, progress_lock):
+    from playwright.sync_api import sync_playwright
+    db = get_sync_db()
+    
+    with sync_playwright() as p:
+        browser, context = create_browser(p)
+        page = context.new_page()
+        
+        try:
+            entries = get_card_links(page, url)
+        except Exception as e:
+            logging.error(f"  Error scraping list page for {store_id}: {e}")
+            browser.close()
+            return
 
-    Khác với --full:
-    - --full dùng $setOnInsert cho enrichment fields → không ghi đè nếu đã tồn tại
-    - --rescrape dùng $set cho ALL fields → ghi đè toàn bộ, fill fields trống
+        seen = set()
+        unique_entries = []
+        for e in entries:
+            if e["href"] not in seen:
+                seen.add(e["href"])
+                unique_entries.append(e)
 
-    Có resume logic: nếu bị gián đoạn, chạy lại sẽ skip stores đã xong.
-    """
+        logging.info(f"  [{store_id}] Found {len(unique_entries)} unique cards")
+
+        cards_count = 0
+        errors_count = 0
+
+        for i in range(len(unique_entries)):
+            entry = unique_entries[i]
+            if (i+1) % 10 == 0:
+                logging.info(f"  [{store_id}] [{i+1}/{len(unique_entries)}] {entry['name_number']}")
+
+            try:
+                detail = scrape_card_detail(page, entry["href"])
+
+                variants = detail.get("variants", [])
+                if not variants:
+                    variants = [{"name": "normal", "label": "Normal", "image": ""}]
+
+                for variant in variants:
+                    variant_name = variant.get("name", "normal")
+                    card_id = _make_card_id(detail, variant_name)
+
+                    doc = transform_card_for_mongo(detail, store_id, card_id)
+
+                    if not dry_run:
+                        all_fields = {k: v for k, v in doc.items() if k != "_id"}
+                        db.cards.update_one(
+                            {"_id": doc["_id"]},
+                            {"$set": all_fields},
+                            upsert=True
+                        )
+
+                    cards_count += 1
+
+            except Exception as e:
+                logging.error(f"  [{store_id}] Error scraping card {entry['href']}: {e}")
+                errors_count += 1
+
+            random_delay()
+
+        # Update expansion info
+        if not dry_run:
+            db.expansions.update_one(
+                {"_id": store_id},
+                {"$set": {
+                    "store_id": store_id,
+                    "set_code": info.get("set_code"),
+                    "url": url,
+                    "total_cards": cards_count,
+                    "last_rescrape": datetime.now(timezone.utc).isoformat()
+                }},
+                upsert=True
+            )
+
+        logging.info(f"  ✅ Done {store_id}: {cards_count} cards, {errors_count} errors")
+        browser.close()
+
+    # Thread-safe progress update
+    with progress_lock:
+        progress = _load_progress()
+        completed = set(progress.get("completed_stores", []))
+        completed.add(store_id)
+        progress["completed_stores"] = list(completed)
+        _save_progress(progress)
+
+
+def cmd_rescrape(dry_run=False, limit=None, workers=3):
     logging.info("=" * 60)
-    logging.info("RESCRAPE MODE — One-time full overwrite")
+    logging.info(f"RESCRAPE MODE — One-time full overwrite (Workers: {workers})")
     logging.info("=" * 60)
 
     stores = load_manifest()
@@ -360,142 +440,43 @@ def cmd_rescrape(dry_run=False, limit=None):
         logging.error("Cannot connect to MongoDB!")
         return
 
-    # Load progress
     progress = _load_progress()
     completed_stores = set(progress.get("completed_stores", []))
-    resume_store = progress.get("current_store")
-    resume_card_idx = progress.get("current_card_index", 0)
-
+    
     all_store_ids = list(stores.keys())
     total_stores = len(all_store_ids)
 
-    # Limit số stores nếu có --limit
     if limit and limit > 0:
-        # Lọc bỏ stores đã completed trước khi limit
         remaining = [s for s in all_store_ids if s not in completed_stores]
         if len(remaining) > limit:
-            logging.info(f"--limit {limit}: chỉ xử lý {limit} expansion(s) chưa xong")
+            logging.info(f"--limit {limit}: chi xu ly {limit} expansion(s) chua xong")
             limited_set = set(remaining[:limit])
             all_store_ids = [s for s in all_store_ids if s in completed_stores or s in limited_set]
 
     logging.info(f"Total expansions in manifest: {total_stores}")
     logging.info(f"Already completed: {len(completed_stores)}")
-    if resume_store:
-        logging.info(f"Resuming from: {resume_store} at card index {resume_card_idx}")
 
-    with sync_playwright() as p:
-        browser, context = create_browser(p)
-        page = context.new_page()
+    remaining_stores = [s for s in all_store_ids if s not in completed_stores]
+    
+    progress_lock = threading.Lock()
 
-        for store_idx, store_id in enumerate(all_store_ids):
-            # Skip completed stores
-            if store_id in completed_stores:
-                logging.info(f"[{store_idx+1}/{total_stores}] {store_id} — SKIPPED (already done)")
-                continue
-
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = []
+        for store_id in remaining_stores:
             info = stores[store_id]
             url = info.get("url")
             if not url:
                 continue
-
-            logging.info(f"[{store_idx+1}/{total_stores}] Processing: {store_id}")
-            logging.info(f"  URL: {url}")
-
-            # Save current store in progress
-            progress["current_store"] = store_id
-            progress["current_card_index"] = 0
-            _save_progress(progress)
-
+            
+            logging.info(f"Submitting: {store_id} ({url})")
+            f = pool.submit(_scrape_one_expansion, store_id, info, url, dry_run, progress_lock)
+            futures.append(f)
+            
+        for f in as_completed(futures):
             try:
-                entries = get_card_links(page, url)
+                f.result()
             except Exception as e:
-                logging.error(f"  Error scraping list page for {store_id}: {e}")
-                continue
-
-            # Deduplicate
-            seen = set()
-            unique_entries = []
-            for e in entries:
-                if e["href"] not in seen:
-                    seen.add(e["href"])
-                    unique_entries.append(e)
-
-            logging.info(f"  Found {len(unique_entries)} unique cards")
-
-            # Determine start index (for resume)
-            start_idx = 0
-            if store_id == resume_store and resume_card_idx > 0:
-                start_idx = resume_card_idx
-                logging.info(f"  Resuming from card index {start_idx}")
-
-            cards_count = 0
-            errors_count = 0
-
-            for i in range(start_idx, len(unique_entries)):
-                entry = unique_entries[i]
-                logging.info(f"  [{i+1}/{len(unique_entries)}] {entry['name_number']}")
-
-                try:
-                    detail = scrape_card_detail(page, entry["href"])
-
-                    # Process each variant
-                    variants = detail.get("variants", [])
-                    if not variants:
-                        variants = [{"name": "normal", "label": "Normal", "image": ""}]
-
-                    for variant in variants:
-                        variant_name = variant.get("name", "normal")
-                        card_id = _make_card_id(detail, variant_name)
-
-                        doc = transform_card_for_mongo(detail, store_id, card_id)
-
-                        if not dry_run:
-                            # RESCRAPE: $set ALL fields (ghi đè toàn bộ)
-                            all_fields = {k: v for k, v in doc.items() if k != "_id"}
-
-                            db.cards.update_one(
-                                {"_id": doc["_id"]},
-                                {"$set": all_fields},
-                                upsert=True
-                            )
-
-                        cards_count += 1
-
-                except Exception as e:
-                    logging.error(f"  Error scraping card {entry['href']}: {e}")
-                    errors_count += 1
-
-                # Save progress every 5 cards
-                if (i + 1) % 5 == 0:
-                    progress["current_card_index"] = i + 1
-                    _save_progress(progress)
-
-                random_delay()
-
-            # Mark store as completed
-            progress["completed_stores"] = list(completed_stores | {store_id})
-            progress["current_store"] = None
-            progress["current_card_index"] = 0
-            _save_progress(progress)
-            completed_stores.add(store_id)
-
-            # Update expansion info
-            if not dry_run:
-                db.expansions.update_one(
-                    {"_id": store_id},
-                    {"$set": {
-                        "store_id": store_id,
-                        "set_code": info.get("set_code"),
-                        "url": url,
-                        "total_cards": cards_count,
-                        "last_rescrape": datetime.now(timezone.utc).isoformat()
-                    }},
-                    upsert=True
-                )
-
-            logging.info(f"  ✅ Done {store_id}: {cards_count} cards, {errors_count} errors")
-
-        browser.close()
+                logging.error(f"Worker thread error: {e}")
 
     # Create indexes
     if not dry_run:
@@ -513,13 +494,10 @@ def cmd_rescrape(dry_run=False, limit=None):
 
     logging.info("=" * 60)
     logging.info("RESCRAPE COMPLETE")
-    logging.info(f"Total stores processed: {len(completed_stores)}/{total_stores}")
-    logging.info(f"Progress file: {PROGRESS_FILE}")
-    logging.info("You can delete rescrape_progress.json now.")
     logging.info("=" * 60)
 
-
 def main():
+
     parser = argparse.ArgumentParser(description="Pokemon Card Price Updater (MongoDB Direct)")
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--update", action="store_true", help="Daily: price-only from LIST -> MongoDB")
@@ -528,6 +506,7 @@ def main():
     group.add_argument("--rescrape", action="store_true", help="One-time: full overwrite ALL fields (incl. enrichment)")
     parser.add_argument("--dry-run", action="store_true", help="Test mode, no DB writes")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of expansions to process (for testing)")
+    parser.add_argument("--workers", type=int, default=3, help="Number of parallel workers for rescrape")
 
     args = parser.parse_args()
     setup_logging()
@@ -539,7 +518,7 @@ def main():
     elif args.discover:
         cmd_discover(dry_run=args.dry_run)
     elif args.rescrape:
-        cmd_rescrape(dry_run=args.dry_run, limit=args.limit)
+        cmd_rescrape(dry_run=args.dry_run, limit=args.limit, workers=args.workers)
 
 
 if __name__ == "__main__":

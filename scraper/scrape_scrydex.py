@@ -255,13 +255,15 @@ def scrape_card_detail(page, card_url):
         // Weakness
         const weakEl = document.querySelector('[data-field="weaknesses"]');
         if (weakEl) {
-            const weakParent = weakEl.closest('div')?.previousElementSibling?.previousElementSibling;
-            const weakImg = weakParent?.querySelector('img');
+            // DOM: [value div] -> [data-field hidden] -> ...
+            // weakEl = hidden overlay, previousElementSibling = actual value div
+            const weakValueDiv = weakEl.previousElementSibling;
+            const weakImg = weakValueDiv?.querySelector('img');
             const weakSrc = weakImg?.getAttribute('src') || '';
             const weakType = weakSrc.match(/assets\\/([a-z]+)-/);
             result.weakness = {
                 type: weakType ? weakType[1] : null,
-                value: weakParent?.textContent?.replace(/\\s+/g, ' ')?.trim() || null
+                value: weakValueDiv?.textContent?.replace(/\\s+/g, ' ')?.trim() || null
             };
         }
 

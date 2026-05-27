@@ -32,19 +32,35 @@ logger = logging.getLogger("enrich_cardmarket")
 EXCHANGE_RATE = 0.92
 
 def convert_history(tcg_history):
-    """Converts USD TCGPlayer history to EUR Cardmarket history."""
+    """Converts USD TCGPlayer history to EUR Cardmarket history.
+    
+    Supports both formats:
+    - New (from rescrape): [{"date": "2026-05-01", "price": 0.12}, ...]
+    - Old (legacy): [["2026-05-01", 0.12], ...]
+    """
     if not tcg_history:
         return []
     
     cm_history = []
     for point in tcg_history:
-        if len(point) >= 2:
+        # Handle dict format (new rescrape)
+        if isinstance(point, dict):
+            date_str = point.get("date", "")
+            price_usd = point.get("price", 0)
+        # Handle list/tuple format (legacy)
+        elif isinstance(point, (list, tuple)) and len(point) >= 2:
             date_str = point[0]
             price_usd = point[1]
-            # Convert to EUR with a slight variance (e.g., +/- 5%)
-            variance = random.uniform(0.95, 1.05)
-            price_eur = round(price_usd * EXCHANGE_RATE * variance, 2)
-            cm_history.append([date_str, price_eur])
+        else:
+            continue
+        
+        if not date_str or not price_usd:
+            continue
+            
+        # Convert to EUR with a slight variance (e.g., +/- 5%)
+        variance = random.uniform(0.95, 1.05)
+        price_eur = round(float(price_usd) * EXCHANGE_RATE * variance, 2)
+        cm_history.append({"date": date_str, "price": price_eur})
     return cm_history
 
 def run():
