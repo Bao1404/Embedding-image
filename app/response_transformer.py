@@ -271,6 +271,21 @@ def _generate_buy_links(card_name: str, expansion: str, tcg_url: str = "") -> li
     ]
 
 
+def _get_card_image(variants: list, variant_name: str) -> str:
+    """Lấy card image URL từ variant matching tên variant hiện tại."""
+    if not variants:
+        return ""
+    # Tìm variant khớp tên
+    for v in variants:
+        if v.get("name", "") == variant_name and v.get("image"):
+            return v["image"]
+    # Fallback: lấy variant đầu tiên có image
+    for v in variants:
+        if v.get("image"):
+            return v["image"]
+    return ""
+
+
 def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dict:
     """
     Chuyển đổi raw Scrydex card → format data mẫu.
@@ -317,6 +332,9 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
         "currentPrice": current_price,
         "predictedPrice": current_price,
         "priceLink": f"https://www.tcgplayer.com/search/all/product?q={quote_plus(card_name)}",
+
+        # === Card Image ===
+        "cardImage": _get_card_image(variants, variant_name),
 
         "attacks": _transform_attacks(raw_card.get("attacks", [])),
         "hp": raw_card.get("hp", ""),

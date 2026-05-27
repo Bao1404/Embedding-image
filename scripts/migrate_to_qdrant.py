@@ -136,17 +136,38 @@ def migrate_store(
     """
     logger.info(f"Đang xử lý store: {store_id}")
     
-    # Tìm JSON files thuộc store này
-    all_json_files = find_json_files(DATA_DIR, filter_name=store_id)
-    if not all_json_files:
-        logger.warning(f"Không tìm thấy file JSON nào cho store {store_id}")
-        return current_count
-
-    # Dùng cùng hàm load_cards_from_json đã có sẵn — đảm bảo card_id nhất quán
+    # Ưu tiên đọc từ MongoDB (JSON files đã bị xóa sau migration)
     all_cards = []
-    for jf in all_json_files:
-        cards = load_cards_from_json(jf)
-        all_cards.extend(cards)
+    try:
+        from app.database import get_sync_db
+        db = get_sync_db()
+        mongo_cards = list(db.cards.find({"store_id": store_id}))
+        if mongo_cards:
+            for mc in mongo_cards:
+                all_cards.append({
+                    "card_id": mc.get("card_id", ""),
+                    "name": mc.get("cardName", ""),
+                    "image_url": mc.get("cardImage", ""),
+                    "metadata": {
+                        "name": mc.get("cardName", ""),
+                        "expansion": mc.get("seriesExpansion", ""),
+                        "number": mc.get("card_id", "").split("_")[0] if mc.get("card_id") else "",
+                        "rarity": mc.get("rarity", ""),
+                        "image_url": mc.get("cardImage", ""),
+                        "variant": mc.get("finish", ""),
+                    }
+                })
+            logger.info(f"Loaded {len(all_cards)} cards từ MongoDB cho store {store_id}")
+    except Exception as e:
+        logger.warning(f"Không đọc được MongoDB: {e}. Thử JSON fallback...")
+
+    # Fallback: đọc từ JSON files nếu MongoDB không có
+    if not all_cards:
+        all_json_files = find_json_files(DATA_DIR, filter_name=store_id)
+        if all_json_files:
+            for jf in all_json_files:
+                cards = load_cards_from_json(jf)
+                all_cards.extend(cards)
     
     if not all_cards:
         logger.warning(f"Không tìm thấy cards nào cho store {store_id}")
