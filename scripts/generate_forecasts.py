@@ -37,8 +37,13 @@ def forecast_series(history, weeks_ahead):
         return []
         
     # Extract dates and prices
-    dates = [p[0] for p in history]
-    prices = [p[1] for p in history]
+    dates = [p.get("date") for p in history if isinstance(p, dict)]
+    prices = [p.get("price") for p in history if isinstance(p, dict)]
+    
+    if not dates and len(history) > 0 and isinstance(history[0], list):
+        # Fallback in case some data is stored as lists
+        dates = [p[0] for p in history]
+        prices = [p[1] for p in history]
     
     # Calculate future dates
     last_date_str = dates[-1]

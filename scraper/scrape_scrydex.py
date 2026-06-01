@@ -260,10 +260,26 @@ def scrape_card_detail(page, card_url):
             const weakValueDiv = weakEl.previousElementSibling;
             const weakImg = weakValueDiv?.querySelector('img');
             const weakSrc = weakImg?.getAttribute('src') || '';
-            const weakType = weakSrc.match(/assets\\/([a-z]+)-/);
+            
+            // Try matching various asset paths (e.g., /assets/fire-123.svg or /assets/types/fire.png)
+            const weakTypeMatch = weakSrc.match(/assets\\/(?:types\\/)?([a-z]+)[\\-\\.]/i);
+            let typeVal = weakTypeMatch ? weakTypeMatch[1] : null;
+            let textVal = weakValueDiv?.textContent?.replace(/\\s+/g, ' ')?.trim() || null;
+            
+            // Fallback: if no image, try to extract type from text (e.g. "Fire x2")
+            if (!typeVal && textVal) {
+                const firstWord = textVal.split(' ')[0].toLowerCase();
+                const validTypes = ['colorless', 'darkness', 'dragon', 'fairy', 'fighting', 'fire', 'grass', 'lightning', 'metal', 'psychic', 'water'];
+                if (validTypes.includes(firstWord)) {
+                    typeVal = firstWord;
+                } else {
+                    typeVal = textVal; // Ultimate fallback: just use the text as type
+                }
+            }
+
             result.weakness = {
-                type: weakType ? weakType[1] : null,
-                value: weakValueDiv?.textContent?.replace(/\\s+/g, ' ')?.trim() || null
+                type: typeVal,
+                value: textVal
             };
         }
 
