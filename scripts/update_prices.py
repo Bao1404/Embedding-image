@@ -122,7 +122,7 @@ def cmd_update(dry_run=False):
                         },
                         {"$set": {
                             "currentPrice": new_price,
-                            "_meta.price_last_checked": today_str
+                            "price_last_checked": today_str
                         }}
                     )
                     if result.modified_count > 0:
