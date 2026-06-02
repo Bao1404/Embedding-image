@@ -36,15 +36,9 @@ MANIFEST_PATH = os.path.join(DATA_DIR, "manifest.json")
 
 # Fields populated by enrichment scripts — must NOT be overwritten by scraper
 ENRICHMENT_FIELDS = {
-    "TCG-1month-prices", "TCG-3month-prices", "TCG-6month-prices",
-    "TCG-1year-prices", "TCG-all-prices",
-    "TCG-1month-forecast-prices", "TCG-3month-forecast-prices",
-    "TCG-6month-forecast-prices", "TCG-1year-forecast-prices",
+    "TCG-all-prices",
     "TCG-all-forecast-prices",
-    "CM-1month-prices", "CM-3month-prices", "CM-6month-prices",
-    "CM-1year-prices", "CM-all-prices",
-    "CM-1month-forecast-prices", "CM-3month-forecast-prices",
-    "CM-6month-forecast-prices", "CM-1year-forecast-prices",
+    "CM-all-prices",
     "CM-all-forecast-prices",
     "gradedPrices",
     "predictedPrice",

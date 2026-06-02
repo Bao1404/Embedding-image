@@ -99,44 +99,28 @@ def run():
 
     updated_count = 0
     for idx, card in enumerate(cards):
-        # 1. Forecast TCGPlayer
+        # 1. Forecast TCGPlayer — only the full "all" forecast (52 weeks)
         tcg_hist = card.get("TCG-all-prices", [])
-        tcg_1m = forecast_series(tcg_hist, 4)
-        tcg_3m = forecast_series(tcg_hist, 12)
-        tcg_6m = forecast_series(tcg_hist, 26)
-        tcg_1y = forecast_series(tcg_hist, 52)
-        tcg_all = forecast_series(tcg_hist, 52)
+        tcg_forecast = forecast_series(tcg_hist, 52)
         
-        # 2. Forecast Cardmarket
+        # 2. Forecast Cardmarket — only the full "all" forecast (52 weeks)
         cm_hist = card.get("CM-all-prices", [])
-        cm_1m = forecast_series(cm_hist, 4)
-        cm_3m = forecast_series(cm_hist, 12)
-        cm_6m = forecast_series(cm_hist, 26)
-        cm_1y = forecast_series(cm_hist, 52)
-        cm_all = forecast_series(cm_hist, 52)
+        cm_forecast = forecast_series(cm_hist, 52)
         
-        # 3. Update predictedPrice using 1-month forecast (latest predicted point)
-        # We take the price from the end of the 1-month forecast (4 weeks ahead)
+        # 3. Update predictedPrice using 1-month slice (first 4 weeks of forecast)
         predicted_price_str = card.get("currentPrice", "$0.00")
-        if tcg_1m:
-            pred_val = tcg_1m[-1][1]
+        if tcg_forecast and len(tcg_forecast) >= 4:
+            pred_val = tcg_forecast[3][1]  # 4th week = ~1 month ahead
+            predicted_price_str = f"${pred_val:.2f}"
+        elif tcg_forecast:
+            pred_val = tcg_forecast[-1][1]
             predicted_price_str = f"${pred_val:.2f}"
             
         db.cards.update_one(
             {"_id": card["_id"]},
             {"$set": {
-                "TCG-1month-forecast-prices": tcg_1m,
-                "TCG-3month-forecast-prices": tcg_3m,
-                "TCG-6month-forecast-prices": tcg_6m,
-                "TCG-1year-forecast-prices": tcg_1y,
-                "TCG-all-forecast-prices": tcg_all,
-                
-                "CM-1month-forecast-prices": cm_1m,
-                "CM-3month-forecast-prices": cm_3m,
-                "CM-6month-forecast-prices": cm_6m,
-                "CM-1year-forecast-prices": cm_1y,
-                "CM-all-forecast-prices": cm_all,
-                
+                "TCG-all-forecast-prices": tcg_forecast,
+                "CM-all-forecast-prices": cm_forecast,
                 "predictedPrice": predicted_price_str
             }}
         )

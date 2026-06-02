@@ -34,6 +34,7 @@ from app.image_downloader import load_cards_from_json, find_json_files, download
 from app.qdrant_service import QdrantSearchService
 from app.embedding_service import GeminiEmbeddingService
 from app.r2_service import R2StorageService
+from app.response_transformer import expand_price_fields_for_api
 
 
 # ═══════════════════════════════════════════
@@ -223,6 +224,9 @@ async def api_search_by_image(
                     if "_id" in meta: del meta["_id"]
                     if "store_id" in meta: del meta["store_id"]
                     if "card_id" in meta: del meta["card_id"]
+
+                    # Expand the 4 stored arrays into 20 fields for frontend
+                    meta = expand_price_fields_for_api(meta)
 
                     return UISearchResponse(
                         status=True,

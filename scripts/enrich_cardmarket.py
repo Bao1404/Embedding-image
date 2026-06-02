@@ -70,26 +70,18 @@ def run():
         return
 
     # Find all cards that have TCGPlayer prices enriched
-    query = {"TCG-1month-prices": {"$exists": True, "$not": {"$size": 0}}}
+    query = {"TCG-all-prices": {"$exists": True, "$not": {"$size": 0}}}
     cards = list(db.cards.find(query))
     logger.info(f"Found {len(cards)} cards with TCGPlayer price history for Cardmarket mapping.")
 
     updated_count = 0
     for idx, card in enumerate(cards):
-        # Convert each price range
-        cm_1m = convert_history(card.get("TCG-1month-prices", []))
-        cm_3m = convert_history(card.get("TCG-3month-prices", []))
-        cm_6m = convert_history(card.get("TCG-6month-prices", []))
-        cm_1y = convert_history(card.get("TCG-1year-prices", []))
+        # Convert only the "all" array — API will slice on-the-fly
         cm_all = convert_history(card.get("TCG-all-prices", []))
         
         db.cards.update_one(
             {"_id": card["_id"]},
             {"$set": {
-                "CM-1month-prices": cm_1m,
-                "CM-3month-prices": cm_3m,
-                "CM-6month-prices": cm_6m,
-                "CM-1year-prices": cm_1y,
                 "CM-all-prices": cm_all
             }}
         )

@@ -138,10 +138,10 @@ def enrich_cards(limit=None):
 
     # Find cards that:
     # 1. Do not have tcgplayer_id marked as error/none in _meta
-    # 2. Do not have TCG-1month-prices populated
+    # 2. Do not have TCG-all-prices populated
     query = {
         "_meta.tcgplayer_error": {"$exists": False},
-        "TCG-1month-prices": {"$size": 0}
+        "TCG-all-prices": {"$size": 0}
     }
     
     cards = list(db.cards.find(query))
@@ -225,11 +225,7 @@ def enrich_cards(limit=None):
             skipped_count += 1
             continue
             
-        # 5. Format buckets into different time ranges
-        tcg_1m = format_buckets(buckets, limit_weeks=4)
-        tcg_3m = format_buckets(buckets, limit_weeks=12)
-        tcg_6m = format_buckets(buckets, limit_weeks=26)
-        tcg_1y = format_buckets(buckets, limit_weeks=52)
+        # 5. Format buckets — only keep "all" (API slices on-the-fly)
         tcg_all = format_buckets(buckets)
         
         # Get current price from the latest bucket to sync
@@ -246,10 +242,6 @@ def enrich_cards(limit=None):
         db.cards.update_one(
             {"_id": card["_id"]},
             {"$set": {
-                "TCG-1month-prices": tcg_1m,
-                "TCG-3month-prices": tcg_3m,
-                "TCG-6month-prices": tcg_6m,
-                "TCG-1year-prices": tcg_1y,
                 "TCG-all-prices": tcg_all,
                 "currentPrice": current_price_str,  # Sync latest price
                 "predictedPrice": current_price_str,  # Sync prediction initial

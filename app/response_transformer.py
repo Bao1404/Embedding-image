@@ -51,16 +51,12 @@ from datetime import datetime as _dt, timedelta as _td
 
 def _parse_price_history(raw_card: dict, variant_name: str = "normal") -> dict:
     """
-    Parse price_history raw từ Chartkick data → TCG-*-prices theo time range.
+    Parse price_history raw từ Chartkick data → TCG-all-prices.
 
-    Trả về dict với keys: TCG-1month-prices, TCG-3month-prices, ...
-    Mỗi value là list of {"date": "YYYY-MM-DD", "price": float}.
+    Trả về dict với key: TCG-all-prices
+    Value là list of {"date": "YYYY-MM-DD", "price": float}.
     """
     result = {
-        "TCG-1month-prices": [],
-        "TCG-3month-prices": [],
-        "TCG-6month-prices": [],
-        "TCG-1year-prices": [],
         "TCG-all-prices": [],
     }
 
@@ -112,25 +108,6 @@ def _parse_price_history(raw_card: dict, variant_name: str = "normal") -> dict:
 
     # TCG-all-prices = toàn bộ data
     result["TCG-all-prices"] = all_points
-
-    # Chia theo time range dựa trên ngày cuối cùng trong data
-    try:
-        last_date = _dt.strptime(all_points[-1]["date"], "%Y-%m-%d")
-    except (ValueError, KeyError):
-        return result
-
-    cutoffs = {
-        "TCG-1month-prices": last_date - _td(days=30),
-        "TCG-3month-prices": last_date - _td(days=90),
-        "TCG-6month-prices": last_date - _td(days=180),
-        "TCG-1year-prices": last_date - _td(days=365),
-    }
-
-    for key, cutoff in cutoffs.items():
-        result[key] = [
-            p for p in all_points
-            if _safe_parse_date(p["date"]) and _dt.strptime(p["date"], "%Y-%m-%d") >= cutoff
-        ]
 
     return result
 
@@ -340,32 +317,16 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
         "hp": raw_card.get("hp", ""),
         "weakness": _get_weakness_type(raw_card),
 
-        # === TCG Price History (GĐ2) — parsed from Scrydex Chartkick ===
-        "TCG-1month-prices": price_data["TCG-1month-prices"],
-        "TCG-3month-prices": price_data["TCG-3month-prices"],
-        "TCG-6month-prices": price_data["TCG-6month-prices"],
-        "TCG-1year-prices": price_data["TCG-1year-prices"],
+        # === TCG Price History — only "all" stored in DB ===
         "TCG-all-prices": price_data["TCG-all-prices"],
 
-        # === TCG Forecast (GĐ4) ===
-        "TCG-1month-forecast-prices": [],
-        "TCG-3month-forecast-prices": [],
-        "TCG-6month-forecast-prices": [],
-        "TCG-1year-forecast-prices": [],
+        # === TCG Forecast — only "all" stored in DB ===
         "TCG-all-forecast-prices": [],
 
-        # === CM Price History (GĐ3) ===
-        "CM-1month-prices": [],
-        "CM-3month-prices": [],
-        "CM-6month-prices": [],
-        "CM-1year-prices": [],
+        # === CM Price History — only "all" stored in DB ===
         "CM-all-prices": [],
 
-        # === CM Forecast (GĐ4) ===
-        "CM-1month-forecast-prices": [],
-        "CM-3month-forecast-prices": [],
-        "CM-6month-forecast-prices": [],
-        "CM-1year-forecast-prices": [],
+        # === CM Forecast — only "all" stored in DB ===
         "CM-all-forecast-prices": [],
 
         # === Graded Prices (GĐ3) — parsed from Scrydex Chartkick ===
@@ -376,4 +337,89 @@ def transform_card_for_mongo(raw_card: dict, store_id: str, card_id: str) -> dic
     }
 
     return doc
+
+
+# ═══════════════════════════════════════════
+# API RESPONSE EXPANSION
+# ═══════════════════════════════════════════
+
+def _slice_by_days(all_points: list, days: int) -> list:
+    """Slice price history to only include points within the last N days."""
+    if not all_points:
+        return []
+
+    # Determine the date of the last data point
+    last_point = all_points[-1]
+    if isinstance(last_point, dict):
+        last_date_str = last_point.get("date", "")
+    elif isinstance(last_point, (list, tuple)):
+        last_date_str = last_point[0] if last_point else ""
+    else:
+        return all_points
+
+    try:
+        last_date = _dt.strptime(last_date_str, "%Y-%m-%d")
+    except (ValueError, TypeError):
+        return all_points
+
+    cutoff = last_date - _td(days=days)
+
+    result = []
+    for p in all_points:
+        if isinstance(p, dict):
+            date_str = p.get("date", "")
+        elif isinstance(p, (list, tuple)):
+            date_str = p[0] if p else ""
+        else:
+            continue
+
+        try:
+            point_date = _dt.strptime(date_str, "%Y-%m-%d")
+            if point_date >= cutoff:
+                result.append(p)
+        except (ValueError, TypeError):
+            continue
+
+    return result
+
+
+def _slice_forecast_by_weeks(forecast_points: list, max_weeks: int) -> list:
+    """Slice forecast array to only include up to max_weeks data points."""
+    if not forecast_points:
+        return []
+    return forecast_points[:max_weeks]
+
+
+def expand_price_fields_for_api(card: dict) -> dict:
+    """
+    Expand the 4 stored 'all' arrays into the 20 arrays the frontend expects.
+
+    DB stores only:
+      TCG-all-prices, TCG-all-forecast-prices,
+      CM-all-prices, CM-all-forecast-prices
+
+    API returns all 20 fields including 1month, 3month, 6month, 1year slices.
+    """
+    if not card:
+        return card
+
+    # Time range definitions: (field_prefix, days_back, forecast_weeks)
+    TIME_RANGES = {
+        "1month": (30, 4),
+        "3month": (90, 12),
+        "6month": (180, 26),
+        "1year": (365, 52),
+    }
+
+    for source in ("TCG", "CM"):
+        all_prices = card.get(f"{source}-all-prices", [])
+        all_forecast = card.get(f"{source}-all-forecast-prices", [])
+
+        for range_name, (days, weeks) in TIME_RANGES.items():
+            # Slice price history
+            card[f"{source}-{range_name}-prices"] = _slice_by_days(all_prices, days)
+            # Slice forecast
+            card[f"{source}-{range_name}-forecast-prices"] = _slice_forecast_by_weeks(all_forecast, weeks)
+
+    return card
 
