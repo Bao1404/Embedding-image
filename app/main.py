@@ -47,6 +47,8 @@ embedding_svc: GeminiEmbeddingService = None # Gemini Embedding singleton
 r2_svc: R2StorageService = None  # R2 singleton
 
 
+from app.scheduler import start_scheduler, stop_scheduler
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Load MongoDB + Qdrant client + R2 khi server start."""
@@ -73,7 +75,14 @@ async def lifespan(app: FastAPI):
     logger.info("👉 Swagger UI (Docs): http://localhost:8100/docs")
     logger.info("👉 Redoc:            http://localhost:8100/redoc")
     logger.info("="*50)
+    
+    # Bật background scheduler
+    start_scheduler()
+    
     yield
+    
+    # Tắt scheduler khi server shutdown
+    stop_scheduler()
     logger.info("Server shutdown.")
 
 
