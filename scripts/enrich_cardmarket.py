@@ -71,11 +71,11 @@ def run():
 
     # Find all cards that have TCGPlayer prices enriched
     query = {"TCG-all-prices": {"$exists": True, "$not": {"$size": 0}}}
-    cards = list(db.cards.find(query))
-    logger.info(f"Found {len(cards)} cards with TCGPlayer price history for Cardmarket mapping.")
+    total = db.cards.count_documents(query)
+    logger.info(f"Found {total} cards with TCGPlayer price history for Cardmarket mapping.")
 
     updated_count = 0
-    for idx, card in enumerate(cards):
+    for card in db.cards.find(query).batch_size(100):
         # Convert only the "all" array — API will slice on-the-fly
         cm_all = convert_history(card.get("TCG-all-prices", []))
         

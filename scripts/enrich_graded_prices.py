@@ -86,11 +86,12 @@ def run():
         logger.error("Could not connect to MongoDB.")
         return
 
-    cards = list(db.cards.find({"_meta.price_history_raw": {"$exists": True}}))
-    logger.info(f"Scanning {len(cards)} cards for graded price history...")
+    query = {"_meta.price_history_raw": {"$exists": True}}
+    total = db.cards.count_documents(query)
+    logger.info(f"Scanning {total} cards for graded price history...")
 
     updated_count = 0
-    for idx, card in enumerate(cards):
+    for card in db.cards.find(query).batch_size(50):
         graded_prices = extract_graded_prices_from_card(card)
         if graded_prices:
             db.cards.update_one(

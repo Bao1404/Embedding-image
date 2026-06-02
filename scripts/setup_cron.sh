@@ -1,39 +1,36 @@
 #!/bin/bash
 # =============================================================
-# Cron Jobs — Full Pipeline: Scrape → MongoDB → Enrich → Forecast
+# Cron Setup — Sequential Pipeline
+# All jobs run through run_pipeline.sh to ensure:
+#   1. Jobs execute one-by-one (no overlap)
+#   2. RAM usage stays low
+#   3. flock prevents duplicate runs
 # =============================================================
 APP_DIR=$(cd "$(dirname "$0")/.." && pwd)
-VENV="$APP_DIR/venv/bin/python3"
 mkdir -p "$APP_DIR/logs"
 
-# Weekly: Full scrape chi tiet → MongoDB (Chu nhat 2:00 AM)
-WEEKLY="0 2 * * 0 cd $APP_DIR && xvfb-run -a $VENV scripts/update_prices.py --full >> logs/weekly_full.log 2>&1"
+# Make pipeline runner executable
+chmod +x "$APP_DIR/scripts/run_pipeline.sh"
 
-# Daily: Cap nhat gia nhanh tu list → MongoDB (3:00 AM)
-DAILY="0 3 * * * cd $APP_DIR && xvfb-run -a $VENV scripts/update_prices.py --update >> logs/daily_update.log 2>&1"
+# Daily pipeline: update prices → migrate qdrant → graded prices (3:00 AM)
+DAILY="0 3 * * * $APP_DIR/scripts/run_pipeline.sh daily >> $APP_DIR/logs/cron_daily.log 2>&1"
 
-# Weekly: Tim expansion moi (Thu 2 4:00 AM)
-DISCOVER="0 4 * * 1 cd $APP_DIR && xvfb-run -a $VENV scripts/update_prices.py --discover >> logs/weekly_discover.log 2>&1"
+# Weekly pipeline: daily + discover + TCG + CM + forecasts (Mondays 2:00 AM)
+WEEKLY="0 2 * * 1 $APP_DIR/scripts/run_pipeline.sh weekly >> $APP_DIR/logs/cron_weekly.log 2>&1"
 
-# Daily: Embed anh moi → Qdrant (5:00 AM)
-MIGRATE="0 5 * * * cd $APP_DIR && $VENV scripts/migrate_to_qdrant.py >> logs/daily_migrate.log 2>&1"
+# Full scrape: everything including full rescrape (Sundays 1:00 AM)
+FULL="0 1 * * 0 $APP_DIR/scripts/run_pipeline.sh full >> $APP_DIR/logs/cron_full.log 2>&1"
 
-# Daily: Cap nhat Graded Prices tu Scrydex raw data (5:30 AM)
-GRADED="30 5 * * * cd $APP_DIR && $VENV scripts/enrich_graded_prices.py >> logs/daily_graded.log 2>&1"
-
-# Weekly: Lam giau TCGPlayer — chi the moi (Thu 2 6:00 AM)
-TCG="0 6 * * 1 cd $APP_DIR && $VENV scripts/enrich_tcgplayer.py >> logs/weekly_tcg.log 2>&1"
-
-# Weekly: Dong bo gia Cardmarket (Thu 2 6:30 AM — sau TCGPlayer)
-CM="30 6 * * 1 cd $APP_DIR && $VENV scripts/enrich_cardmarket.py >> logs/weekly_cm.log 2>&1"
-
-# Weekly: Tinh toan du bao gia (Thu 2 7:00 AM — sau tat ca enrichment)
-FORECAST="0 7 * * 1 cd $APP_DIR && $VENV scripts/generate_forecasts.py >> logs/weekly_forecast.log 2>&1"
-
-# Them vao crontab (xoa cac job cu truoc)
-(crontab -l 2>/dev/null | grep -v "update_prices.py\|migrate_to_qdrant.py\|enrich_\|generate_forecasts.py"; \
- echo "$WEEKLY"; echo "$DAILY"; echo "$DISCOVER"; echo "$MIGRATE"; \
- echo "$GRADED"; echo "$TCG"; echo "$CM"; echo "$FORECAST") | crontab -
+# Replace old cron jobs with new pipeline jobs
+(crontab -l 2>/dev/null | grep -v "update_prices.py\|migrate_to_qdrant.py\|enrich_\|generate_forecasts.py\|run_pipeline.sh"; \
+ echo "$DAILY"; echo "$WEEKLY"; echo "$FULL") | crontab -
 
 echo "Cron jobs installed:"
-crontab -l | grep -E "update_prices|migrate_to_qdrant|enrich_|generate_forecasts"
+crontab -l | grep "run_pipeline"
+echo ""
+echo "Schedule:"
+echo "  Daily  (3:00 AM):   update_prices → migrate_qdrant → enrich_graded"
+echo "  Weekly (Mon 2:00 AM): daily + discover + enrich_tcg → enrich_cm → forecast"
+echo "  Full   (Sun 1:00 AM): full scrape + all above"
+echo ""
+echo "All jobs run SEQUENTIALLY through run_pipeline.sh (no overlap)."

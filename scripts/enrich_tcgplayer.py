@@ -144,25 +144,25 @@ def enrich_cards(limit=None):
         "TCG-all-prices": {"$size": 0}
     }
     
-    cards = list(db.cards.find(query))
-    total_found = len(cards)
+    total_found = db.cards.count_documents(query)
     logger.info(f"Found {total_found} cards needing TCGPlayer price enrichment.")
     
+    cursor = db.cards.find(query).batch_size(50)
     if limit:
-        cards = cards[:limit]
-        logger.info(f"Limit option set. Processing {len(cards)} cards.")
+        cursor = cursor.limit(limit)
+        logger.info(f"Limit option set. Processing up to {limit} cards.")
 
     success_count = 0
     skipped_count = 0
     error_count = 0
 
-    for idx, card in enumerate(cards):
+    for idx, card in enumerate(cursor):
         card_id = card.get("card_id")
         store_id = card.get("store_id")
         finish = card.get("finish", "Normal")
         card_name = card.get("cardName")
         
-        logger.info(f"[{idx+1}/{len(cards)}] Processing: {card_name} ({card_id}) - Finish: {finish}")
+        logger.info(f"[{idx+1}/{limit or total_found}] Processing: {card_name} ({card_id}) - Finish: {finish}")
         
         # 1. Parse card code and variant
         code = card_id.split('_')[0]

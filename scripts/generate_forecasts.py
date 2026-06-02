@@ -94,11 +94,11 @@ def run():
 
     # Find cards that have price history
     query = {"TCG-all-prices": {"$exists": True, "$not": {"$size": 0}}}
-    cards = list(db.cards.find(query))
-    logger.info(f"Generating forecasts for {len(cards)} cards...")
+    total = db.cards.count_documents(query)
+    logger.info(f"Generating forecasts for {total} cards...")
 
     updated_count = 0
-    for idx, card in enumerate(cards):
+    for card in db.cards.find(query).batch_size(100):
         # 1. Forecast TCGPlayer — only the full "all" forecast (52 weeks)
         tcg_hist = card.get("TCG-all-prices", [])
         tcg_forecast = forecast_series(tcg_hist, 52)
